@@ -1,0 +1,9 @@
+
+
+# Criar a imagem Docker
+docker build -t pellizzi-terraform-image:fraud_model .
+
+
+# Criar o container Docker
+docker run -dit --name pellizzi-fraud_model -v C:\Users\pellizzi\Documents\projetos_iac\modelo_fraudes_puc\IaC:/iac pellizzi-terraform-image:fraud_model /bin/bash
+
