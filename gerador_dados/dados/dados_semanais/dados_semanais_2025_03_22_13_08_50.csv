@@ -1,0 +1,51 @@
+id_transacao,valor,hora_transacao,categoria,metodo_pagamento,localizacao
+13939,116.85,2025-03-19 13:16:19,Compra Online,cartao_credito,Lopes
+46136,3339.45,2025-03-18 19:25:04,Supermercado,cartao_debito,Cavalcante Grande
+13056,2973.4,2025-03-20 06:08:30,Eletrônicos,cartao_credito,Cirino do Amparo
+79485,3640.56,2025-03-16 10:04:38,Compra Online,cartao_debito,Almeida de Minas
+67144,1223.46,2025-03-21 19:57:45,Supermercado,cartao_credito,da Cruz
+45905,1839.91,2025-03-17 03:10:56,Eletrônicos,pix,da Mata
+98628,58.05,2025-03-17 11:53:36,Viagem,cartao_credito,Dias
+18080,1985.78,2025-03-18 00:11:06,Compra Online,cartao_debito,Costa
+11476,4310.52,2025-03-22 13:00:14,Eletrônicos,boleto,Brito
+63333,4847.86,2025-03-18 09:48:52,Supermercado,cartao_debito,Freitas
+38709,1412.16,2025-03-16 23:12:27,Supermercado,cartao_credito,Nunes das Pedras
+18519,2552.34,2025-03-20 13:36:03,Compra Online,boleto,Duarte
+79732,2429.3,2025-03-20 21:59:10,Restaurante,cartao_credito,Oliveira
+21026,4959.26,2025-03-15 15:54:12,Compra Online,pix,Brito do Campo
+99087,1722.37,2025-03-22 12:15:22,Supermercado,cartao_debito,Casa Grande da Praia
+66127,4390.36,2025-03-17 00:11:42,Restaurante,cartao_credito,Campos de Goiás
+27082,4578.78,2025-03-20 15:32:40,Compra Online,pix,Moura
+62557,18.29,2025-03-18 20:11:11,Supermercado,cartao_debito,da Cruz
+35171,592.39,2025-03-18 19:34:49,Compra Online,cartao_debito,Guerra do Sul
+65589,4767.26,2025-03-22 11:27:31,Supermercado,pix,Moraes
+19510,3711.67,2025-03-15 15:41:01,Restaurante,cartao_credito,Abreu das Flores
+15410,2498.6,2025-03-20 22:53:57,Eletrônicos,cartao_credito,Guerra
+16774,811.93,2025-03-22 10:43:53,Eletrônicos,cartao_credito,Leão
+46109,2341.72,2025-03-19 18:05:53,Restaurante,cartao_debito,Vasconcelos
+22427,4340.26,2025-03-20 10:15:09,Supermercado,cartao_credito,Silveira de Andrade
+72851,3121.13,2025-03-19 17:26:34,Restaurante,cartao_debito,Freitas
+77931,2268.53,2025-03-18 14:55:15,Compra Online,cartao_credito,da Rosa de Peixoto
+45881,3245.05,2025-03-16 22:19:52,Compra Online,cartao_credito,Montenegro de Rodrigues
+55726,3929.3,2025-03-20 15:27:32,Viagem,pix,Sales das Flores
+43100,713.62,2025-03-20 18:35:41,Compra Online,pix,Gomes
+83739,402.86,2025-03-19 04:08:05,Restaurante,cartao_credito,Duarte
+67024,3804.04,2025-03-19 11:36:09,Restaurante,cartao_credito,Farias de Cardoso
+92369,2895.11,2025-03-19 08:27:46,Compra Online,pix,Porto do Amparo
+82467,1335.27,2025-03-18 20:01:48,Compra Online,cartao_credito,Cassiano do Campo
+89180,4894.48,2025-03-22 10:55:50,Restaurante,cartao_debito,Sá Paulista
+65189,3161.14,2025-03-20 23:25:12,Compra Online,boleto,Macedo
+42338,4253.7,2025-03-20 18:23:24,Restaurante,pix,Cassiano de Garcia
+54425,501.82,2025-03-21 07:32:48,Restaurante,pix,da Mota
+78018,4516.91,2025-03-16 19:56:34,Compra Online,pix,Rios
+84486,4015.31,2025-03-21 21:08:18,Eletrônicos,boleto,Pereira
+46746,4938.81,2025-03-20 04:18:38,Eletrônicos,cartao_debito,Gonçalves
+31948,1525.04,2025-03-18 15:55:35,Compra Online,cartao_debito,Siqueira do Campo
+14472,3734.85,2025-03-15 22:53:41,Supermercado,cartao_credito,Sampaio da Prata
+62368,860.28,2025-03-22 11:47:57,Compra Online,cartao_credito,Santos
+14611,3884.39,2025-03-18 14:39:22,Restaurante,cartao_debito,Vasconcelos de Jesus
+93658,3865.73,2025-03-19 10:45:34,Viagem,pix,Ramos
+12048,4554.28,2025-03-17 17:43:59,Compra Online,pix,Martins
+36210,3082.03,2025-03-19 05:55:48,Supermercado,cartao_credito,Ribeiro
+40813,4538.8,2025-03-17 09:55:47,Compra Online,cartao_debito,Camargo do Galho
+69625,4392.76,2025-03-17 18:16:45,Compra Online,cartao_credito,Fogaça de Minas

@@ -1,1001 +1,1001 @@
 id_transacao,valor,hora_transacao,categoria,metodo_pagamento,localizacao,fraude
-73621,3848.33,2025-03-15 21:14:13,Eletrônicos,cartao_credito,Vargas,0
-46533,3615.26,2025-03-02 15:12:43,Restaurante,pix,Mendonça do Norte,0
-47461,459.29,2025-02-27 06:29:39,Viagem,cartao_debito,Cunha,0
-42604,4055.48,2025-03-19 06:42:36,Compra Online,boleto,Fernandes dos Dourados,0
-30428,2577.83,2025-03-15 23:22:57,Eletrônicos,pix,Moreira de Minas,0
-53169,377.89,2025-03-10 20:26:08,Eletrônicos,pix,Monteiro de Ribeiro,0
-65878,3703.18,2025-03-20 09:30:32,Compra Online,pix,Nascimento Grande,1
-41940,4183.04,2025-03-08 05:07:11,Eletrônicos,pix,Vasconcelos,0
-24570,1501.84,2025-03-13 11:09:46,Eletrônicos,boleto,Cassiano,0
-83165,3504.34,2025-03-07 09:12:25,Restaurante,cartao_debito,Almeida,0
-85750,4925.35,2025-02-21 09:54:47,Compra Online,cartao_credito,Rodrigues,0
-13279,4673.38,2025-02-27 19:20:09,Supermercado,cartao_credito,Rodrigues,0
-10135,981.0,2025-03-21 23:03:14,Supermercado,cartao_debito,Fonseca da Praia,0
-86561,3722.44,2025-03-06 10:40:00,Supermercado,cartao_debito,Abreu de da Rosa,0
-75095,1494.63,2025-03-13 21:23:12,Supermercado,cartao_credito,da Conceição,0
-35590,1378.5,2025-03-02 07:58:59,Restaurante,cartao_debito,Melo,0
-87841,1883.45,2025-03-13 22:15:24,Supermercado,pix,Cavalcante de da Rosa,0
-41754,184.69,2025-03-10 11:07:19,Compra Online,pix,Pinto,0
-95228,4414.97,2025-02-24 14:23:11,Viagem,cartao_debito,Costa Paulista,0
-64073,4257.91,2025-03-04 03:31:48,Viagem,pix,Jesus da Praia,0
-56115,4398.21,2025-03-19 14:07:39,Eletrônicos,cartao_credito,Ramos,0
-15970,1109.21,2025-03-18 21:19:38,Compra Online,cartao_debito,Andrade,0
-86225,2434.96,2025-03-04 19:02:59,Compra Online,pix,Farias Grande,0
-46650,1344.05,2025-03-14 17:58:58,Viagem,pix,Pacheco,0
-18027,2476.68,2025-03-02 14:29:08,Supermercado,cartao_credito,Pastor dos Dourados,0
-22229,2816.2,2025-03-01 22:28:36,Supermercado,cartao_debito,Pastor das Pedras,0
-51358,1387.46,2025-02-24 11:26:13,Eletrônicos,cartao_credito,Brito,0
-52454,4261.3,2025-03-08 23:41:42,Restaurante,boleto,Pereira Paulista,0
-46791,3310.29,2025-03-17 15:49:40,Viagem,boleto,da Mota,0
-16265,2360.36,2025-02-23 15:24:00,Restaurante,cartao_credito,da Costa do Campo,0
-50988,4910.66,2025-02-23 09:29:36,Viagem,cartao_credito,da Costa de Jesus,0
-44359,4598.64,2025-03-05 02:18:05,Compra Online,pix,da Cruz,1
-98719,1305.85,2025-02-22 11:12:13,Supermercado,pix,Barbosa,0
-54619,686.72,2025-03-01 22:28:03,Compra Online,pix,Rios,0
-39362,853.22,2025-02-24 13:10:55,Viagem,boleto,Farias,0
-64591,4613.46,2025-03-09 17:48:00,Restaurante,pix,da Cruz,0
-71579,1595.33,2025-03-21 07:15:02,Supermercado,boleto,Caldeira,0
-94397,4148.15,2025-02-25 03:56:36,Supermercado,boleto,Lima,0
-30916,4178.47,2025-03-21 02:30:53,Compra Online,cartao_debito,Ferreira,0
-73587,3793.94,2025-02-23 06:01:11,Supermercado,cartao_credito,Duarte,0
-96634,2373.13,2025-03-19 13:16:07,Compra Online,cartao_debito,Almeida,0
-87848,1567.86,2025-02-26 03:27:11,Viagem,boleto,Sousa,0
-80319,407.97,2025-03-06 23:15:52,Compra Online,pix,Câmara,0
-43249,3893.86,2025-03-07 23:31:03,Restaurante,cartao_credito,Novaes,0
-92267,2038.05,2025-03-19 04:45:29,Restaurante,cartao_debito,Campos da Praia,0
-77284,691.99,2025-02-28 03:31:22,Eletrônicos,cartao_debito,Sampaio do Galho,0
-26266,1642.8,2025-03-09 20:52:31,Restaurante,cartao_credito,Pereira de Abreu,0
-80952,3756.51,2025-02-22 14:51:55,Compra Online,cartao_credito,Marques de Minas,0
-89182,4608.74,2025-03-14 23:12:56,Supermercado,cartao_credito,Costela Grande,0
-73815,1836.18,2025-03-16 23:15:16,Restaurante,pix,Castro das Flores,0
-37477,896.83,2025-03-22 01:50:46,Supermercado,cartao_credito,Gonçalves,0
-81349,3246.35,2025-02-27 06:57:44,Viagem,cartao_credito,Teixeira,0
-18093,1796.57,2025-03-06 19:30:35,Eletrônicos,boleto,Fernandes do Oeste,0
-26086,3972.3,2025-03-03 20:51:39,Compra Online,cartao_credito,Sales do Norte,0
-98993,484.83,2025-03-12 13:29:48,Supermercado,boleto,Cirino de Pastor,0
-29378,3721.22,2025-03-17 21:32:02,Compra Online,pix,Sampaio,1
-95367,4943.25,2025-03-03 19:45:11,Compra Online,pix,da Luz do Norte,1
-21059,3904.93,2025-03-08 02:22:36,Eletrônicos,pix,Monteiro,0
-80303,2387.31,2025-02-21 01:52:33,Supermercado,boleto,Pires Alegre,0
-95981,3643.26,2025-02-22 14:26:20,Viagem,pix,Vieira Paulista,0
-41569,3251.03,2025-03-09 06:13:53,Compra Online,pix,Garcia Verde,0
-94958,901.07,2025-03-08 16:07:42,Restaurante,pix,Vargas de Marques,0
-39089,802.15,2025-02-25 20:56:47,Supermercado,cartao_credito,da Mota do Campo,0
-92900,3371.68,2025-02-25 05:47:09,Restaurante,cartao_credito,Cavalcanti,0
-55031,3116.09,2025-03-11 21:11:27,Supermercado,boleto,Moura,0
-90357,3177.36,2025-03-02 16:46:13,Compra Online,pix,Almeida,1
-45515,4627.8,2025-03-14 02:37:39,Compra Online,pix,Ferreira do Norte,1
-43517,2578.38,2025-03-14 16:56:11,Viagem,cartao_credito,Rocha,0
-98393,4305.56,2025-03-21 18:30:47,Supermercado,pix,Rios,0
-74612,391.51,2025-02-23 16:40:20,Eletrônicos,pix,Pastor,0
-48942,1888.83,2025-03-19 17:32:31,Viagem,boleto,Câmara de da Paz,0
-45247,2866.52,2025-03-04 18:05:45,Restaurante,cartao_debito,Pimenta Paulista,0
-41830,2357.32,2025-02-23 22:04:36,Restaurante,pix,Nunes das Pedras,0
-88509,2648.65,2025-02-27 15:40:58,Viagem,cartao_credito,Peixoto do Amparo,0
-45263,1546.31,2025-03-03 04:13:09,Viagem,pix,Freitas do Norte,0
-37127,1069.85,2025-02-27 06:41:52,Viagem,boleto,Rezende do Amparo,0
-21126,4768.78,2025-03-15 02:35:50,Viagem,boleto,Abreu das Pedras,0
-23384,2620.85,2025-02-21 07:55:34,Supermercado,boleto,Montenegro das Pedras,0
-48202,214.69,2025-03-03 05:40:26,Supermercado,pix,da Rosa,0
-21456,4594.67,2025-02-27 07:27:58,Compra Online,pix,Peixoto de Pacheco,1
-99971,2249.15,2025-03-18 20:02:26,Eletrônicos,pix,Nascimento do Oeste,0
-86014,4037.99,2025-03-14 12:46:30,Compra Online,pix,da Cruz,1
-96315,2527.55,2025-03-01 21:48:32,Compra Online,cartao_credito,Almeida,0
-66381,520.17,2025-03-18 15:59:37,Eletrônicos,cartao_debito,Câmara das Pedras,0
-11180,1440.86,2025-03-11 03:30:02,Compra Online,boleto,Castro de Fogaça,0
-91269,1369.02,2025-03-11 19:43:19,Viagem,cartao_debito,Sá,0
-38835,4403.41,2025-03-20 00:33:56,Viagem,cartao_debito,Cunha da Serra,0
-28040,98.05,2025-03-04 15:02:50,Restaurante,pix,Aragão,0
-95788,4710.46,2025-03-05 01:05:42,Supermercado,cartao_debito,da Rosa,0
-92556,404.36,2025-03-06 01:18:47,Supermercado,pix,Jesus,0
-65303,4803.65,2025-03-09 10:27:36,Compra Online,cartao_debito,Rios de Albuquerque,0
-62261,683.97,2025-03-14 16:51:13,Compra Online,pix,Cavalcante,0
-87692,4426.68,2025-02-23 11:48:26,Restaurante,cartao_debito,Costela,0
-48344,2057.48,2025-03-07 20:47:51,Viagem,cartao_credito,Andrade do Norte,0
-90606,900.1,2025-03-20 16:19:24,Eletrônicos,cartao_credito,Vieira do Norte,0
-74388,4019.97,2025-03-08 04:41:49,Supermercado,pix,Nogueira da Prata,0
-18966,1434.34,2025-02-21 05:04:44,Restaurante,cartao_debito,Sampaio Grande,0
-31900,3511.25,2025-03-05 19:53:40,Viagem,cartao_debito,Monteiro,0
-55745,4486.24,2025-02-26 17:14:31,Supermercado,cartao_debito,Brito,0
-18730,4051.6,2025-03-19 15:48:18,Supermercado,boleto,Rodrigues,0
-18958,3435.02,2025-03-11 05:56:53,Supermercado,boleto,Barbosa da Praia,0
-70604,383.33,2025-03-03 01:51:21,Viagem,cartao_debito,Martins do Amparo,0
-71349,233.05,2025-03-08 16:33:27,Supermercado,pix,Ramos,0
-71196,3117.54,2025-03-03 20:42:49,Compra Online,pix,da Mota do Oeste,1
-12299,4668.06,2025-03-14 06:07:13,Compra Online,pix,Pacheco,1
-71950,4911.12,2025-03-11 01:50:02,Supermercado,cartao_credito,Silva de Sampaio,0
-39777,46.65,2025-03-21 03:40:04,Restaurante,cartao_credito,Viana Verde,0
-50737,1879.58,2025-03-08 01:17:29,Viagem,boleto,Siqueira,0
-41862,4984.94,2025-03-14 18:04:29,Compra Online,pix,Aparecida,1
-79398,1458.19,2025-03-12 13:56:27,Supermercado,cartao_debito,Lima do Galho,0
-65302,4415.66,2025-03-20 15:23:13,Compra Online,cartao_credito,Farias da Serra,0
-54614,1438.76,2025-03-22 12:23:36,Compra Online,pix,Cavalcante,0
-23543,724.19,2025-03-17 17:30:55,Viagem,boleto,Guerra da Praia,0
-33909,2156.29,2025-03-15 18:49:42,Eletrônicos,cartao_debito,Peixoto Grande,0
-66019,3239.81,2025-03-03 03:11:08,Compra Online,pix,Casa Grande da Praia,1
-45030,3841.78,2025-03-01 09:36:43,Compra Online,boleto,Machado da Mata,0
-85527,4074.19,2025-03-13 12:32:41,Compra Online,boleto,Fogaça,0
-72340,552.54,2025-03-11 20:16:33,Viagem,cartao_debito,Fogaça Alegre,0
-58898,3424.24,2025-03-17 05:29:14,Viagem,cartao_credito,Costa,0
-85100,3087.9,2025-03-12 12:03:36,Compra Online,boleto,Vieira de da Mota,0
-91315,3992.45,2025-03-12 03:17:39,Viagem,pix,Rodrigues,0
-58263,1312.65,2025-03-19 02:08:10,Viagem,cartao_debito,Cunha de Lima,0
-72322,3835.27,2025-03-17 23:05:36,Viagem,cartao_debito,Jesus,0
-28207,54.61,2025-03-01 22:12:42,Viagem,cartao_credito,Cassiano Paulista,0
-49644,3659.87,2025-03-02 17:07:42,Compra Online,cartao_debito,Albuquerque da Serra,0
-84812,4795.75,2025-03-01 07:41:50,Eletrônicos,cartao_debito,Rezende,0
-96110,2680.35,2025-03-11 10:52:40,Restaurante,pix,Vieira da Prata,0
-96761,1533.46,2025-02-25 03:24:12,Eletrônicos,boleto,Cassiano,0
-51276,4609.61,2025-03-17 01:04:12,Compra Online,boleto,Porto,0
-28465,3214.95,2025-03-14 01:12:24,Restaurante,boleto,Lima de da Costa,0
-60125,4889.46,2025-03-07 02:16:59,Supermercado,cartao_debito,Jesus,0
-75105,1059.59,2025-03-22 03:25:37,Viagem,cartao_debito,Vieira,0
-64765,289.58,2025-03-02 07:07:10,Compra Online,pix,Rezende,0
-57759,3170.32,2025-02-27 11:51:38,Compra Online,pix,Pereira,1
-37278,2941.31,2025-03-02 11:21:25,Supermercado,cartao_credito,Moraes do Campo,0
-84370,639.06,2025-03-03 07:03:18,Compra Online,cartao_credito,Alves,0
-53134,2686.82,2025-02-26 17:11:13,Eletrônicos,cartao_credito,da Paz da Mata,0
-30795,1305.89,2025-03-16 04:13:37,Eletrônicos,cartao_credito,Aragão,0
-29001,3495.81,2025-03-02 21:28:39,Compra Online,pix,Caldeira das Pedras,0
-64805,4562.81,2025-03-20 12:34:01,Compra Online,cartao_debito,Gonçalves,0
-16414,4488.18,2025-03-01 23:25:47,Eletrônicos,cartao_credito,Peixoto,0
-96615,3843.69,2025-03-17 19:41:34,Supermercado,cartao_debito,Moraes,0
-80118,4341.6,2025-02-20 14:44:24,Restaurante,pix,Carvalho da Mata,0
-38949,3919.45,2025-02-22 01:11:07,Compra Online,pix,Barbosa dos Dourados,1
-82831,3071.2,2025-02-23 21:08:08,Restaurante,boleto,Porto,0
-61415,852.7,2025-03-16 06:48:39,Restaurante,cartao_debito,Albuquerque,0
-36853,2077.46,2025-03-05 03:40:56,Compra Online,boleto,Andrade,0
-11197,4947.73,2025-03-13 17:18:41,Viagem,cartao_debito,Almeida,0
-76471,4234.14,2025-03-09 12:35:33,Compra Online,pix,Peixoto das Pedras,1
-80793,2352.67,2025-03-20 11:46:10,Supermercado,cartao_debito,Cardoso de Rodrigues,0
-66167,2157.72,2025-03-17 19:16:27,Restaurante,pix,Cavalcanti,0
-50285,4776.22,2025-03-08 17:17:40,Eletrônicos,cartao_credito,Ferreira,0
-57757,1795.67,2025-03-01 03:27:25,Restaurante,cartao_debito,Camargo de Mendes,0
-39686,2731.11,2025-03-12 11:34:17,Supermercado,pix,Souza,0
-27588,2438.02,2025-03-06 01:48:15,Viagem,pix,Pacheco de Garcia,0
-52003,4480.82,2025-02-24 21:19:55,Viagem,boleto,da Cruz Paulista,0
-60669,941.36,2025-03-09 08:41:28,Supermercado,pix,Rezende do Norte,0
-44213,2769.45,2025-03-09 08:19:06,Restaurante,boleto,Mendonça do Sul,0
-62861,745.47,2025-03-17 21:24:45,Compra Online,cartao_credito,Costa,0
-28789,4186.73,2025-03-15 09:31:50,Compra Online,pix,Aparecida de Minas,1
-59987,1385.28,2025-03-21 11:34:07,Eletrônicos,cartao_credito,Siqueira,0
-93765,906.52,2025-03-06 20:05:40,Supermercado,cartao_debito,Duarte,0
-30907,2191.77,2025-02-22 00:47:32,Compra Online,boleto,Oliveira Verde,0
-72569,4728.01,2025-03-21 15:43:18,Eletrônicos,boleto,Gomes Alegre,0
-71327,659.25,2025-03-20 09:23:04,Supermercado,boleto,da Rosa,0
-62880,4687.38,2025-03-09 08:46:53,Compra Online,pix,Andrade,0
-48786,2423.97,2025-03-11 06:57:34,Restaurante,boleto,Ribeiro do Galho,0
-45430,3293.84,2025-03-12 23:31:44,Compra Online,cartao_debito,das Neves,0
-53553,2937.34,2025-02-22 12:42:49,Compra Online,cartao_credito,Campos de Monteiro,0
-46573,486.52,2025-02-25 02:28:49,Supermercado,cartao_debito,Silva,0
-31632,4367.48,2025-03-15 09:30:01,Viagem,cartao_credito,Porto Paulista,0
-90652,4819.51,2025-03-03 12:25:25,Eletrônicos,boleto,Aragão do Galho,0
-68606,3645.04,2025-02-27 13:21:59,Compra Online,cartao_credito,da Cunha Grande,0
-90436,4870.13,2025-02-21 01:58:22,Viagem,boleto,Carvalho de Cassiano,0
-90736,1385.12,2025-03-03 19:39:12,Viagem,cartao_debito,Câmara do Galho,0
-34518,1797.94,2025-03-13 15:52:35,Eletrônicos,cartao_debito,Cirino de Nascimento,0
-26430,3570.37,2025-03-07 23:58:00,Eletrônicos,cartao_debito,Duarte,0
-65115,3431.15,2025-02-26 13:49:38,Compra Online,pix,da Paz Grande,0
-84875,3715.06,2025-03-07 09:13:05,Viagem,cartao_credito,Moraes Grande,0
-10551,1227.16,2025-03-15 01:30:51,Restaurante,cartao_credito,Pinto do Amparo,0
-55090,4662.59,2025-02-26 07:22:58,Compra Online,pix,Abreu das Pedras,1
-93295,3849.27,2025-02-20 20:40:52,Compra Online,pix,Brito Verde,1
-94488,4855.11,2025-03-13 14:32:45,Restaurante,pix,Pinto,0
-70283,1766.42,2025-02-28 00:25:53,Supermercado,boleto,Cavalcanti,0
-50425,2398.46,2025-02-26 19:22:14,Eletrônicos,cartao_credito,Souza,0
-27800,1493.05,2025-03-20 09:02:41,Supermercado,cartao_credito,Araújo Verde,0
-58269,1832.63,2025-03-12 03:27:04,Viagem,boleto,Pacheco dos Dourados,0
-35742,4356.31,2025-03-16 07:52:28,Viagem,boleto,Gomes de Campos,0
-22495,4577.76,2025-03-19 07:43:30,Compra Online,boleto,Borges Grande,0
-28219,185.54,2025-03-12 08:55:24,Eletrônicos,pix,Caldeira,0
-69134,332.85,2025-02-21 00:45:59,Eletrônicos,pix,Rocha de Goiás,0
-45278,1936.26,2025-03-08 02:24:03,Supermercado,cartao_debito,Mendes do Amparo,0
-18211,4029.89,2025-02-28 12:39:57,Compra Online,pix,Alves do Sul,0
-47386,174.1,2025-02-25 18:02:06,Restaurante,cartao_credito,Fogaça de Porto,0
-54236,439.15,2025-03-07 11:08:45,Supermercado,cartao_debito,Borges,0
-47592,2774.39,2025-03-14 17:10:25,Viagem,cartao_credito,Mendes,0
-75618,4303.96,2025-02-26 20:10:19,Restaurante,boleto,Nogueira Verde,0
-17603,1684.69,2025-03-10 04:29:22,Restaurante,cartao_debito,Peixoto,0
-81612,4413.07,2025-03-06 15:12:15,Eletrônicos,cartao_debito,Fonseca Paulista,0
-72178,3147.16,2025-03-08 21:01:27,Compra Online,pix,Silva,1
-56078,4211.27,2025-03-15 17:45:50,Eletrônicos,cartao_debito,Moreira da Mata,0
-56316,2227.59,2025-03-16 15:05:55,Viagem,cartao_credito,Novais,0
-55051,2939.85,2025-02-27 17:56:01,Supermercado,boleto,Campos de Dias,0
-12275,2016.0,2025-03-20 00:15:13,Compra Online,boleto,Costela de Peixoto,0
-47901,3955.33,2025-02-28 19:48:26,Restaurante,pix,Silveira dos Dourados,0
-58928,3629.36,2025-03-09 18:05:25,Compra Online,pix,Lopes,1
-13872,4104.89,2025-02-21 05:38:37,Compra Online,boleto,Nunes,0
-37349,3689.36,2025-03-17 22:52:26,Compra Online,pix,Ramos do Oeste,1
-51385,4724.53,2025-03-17 16:12:07,Compra Online,pix,Rodrigues,1
-63043,876.27,2025-03-06 05:20:56,Eletrônicos,cartao_debito,Monteiro,0
-87121,4200.03,2025-03-03 09:35:37,Viagem,pix,Cassiano,0
-28628,2793.53,2025-02-20 18:02:45,Viagem,pix,Costela do Oeste,0
-94617,1467.78,2025-02-28 10:04:32,Supermercado,boleto,Gomes do Galho,0
-40236,1287.48,2025-02-23 21:07:55,Compra Online,pix,Casa Grande,0
-98308,4119.47,2025-03-16 09:36:19,Compra Online,pix,Ribeiro dos Dourados,1
-14355,4597.2,2025-03-14 11:43:07,Compra Online,cartao_credito,Caldeira Alegre,0
-16979,4530.52,2025-03-21 16:40:55,Viagem,boleto,Vasconcelos,0
-95474,4939.29,2025-03-05 07:53:28,Supermercado,boleto,Borges de Viana,0
-91328,3098.23,2025-03-05 21:01:18,Viagem,boleto,Moraes,0
-18127,4391.08,2025-03-13 04:25:26,Viagem,cartao_debito,Pinto,0
-64489,1445.66,2025-03-08 02:40:01,Eletrônicos,cartao_debito,Martins da Serra,0
-29412,3074.24,2025-03-18 13:00:58,Compra Online,pix,Rios do Amparo,0
-83753,719.75,2025-03-10 22:20:00,Restaurante,boleto,Marques do Amparo,0
-13440,4302.55,2025-03-19 22:26:06,Compra Online,pix,Cavalcante Paulista,1
-68365,1759.91,2025-03-14 08:35:00,Supermercado,boleto,Brito,0
-11507,4362.36,2025-03-03 01:57:33,Compra Online,pix,Cunha do Galho,1
-62280,2662.42,2025-03-08 06:29:06,Supermercado,cartao_debito,Lima,0
-56326,4258.46,2025-03-06 19:13:20,Compra Online,pix,Araújo,1
-52229,4793.47,2025-02-25 07:00:51,Restaurante,cartao_debito,da Conceição,0
-56966,1992.78,2025-03-19 11:24:03,Compra Online,boleto,Farias,0
-72525,1565.38,2025-03-18 20:19:02,Restaurante,pix,da Cruz,0
-96026,1162.14,2025-02-26 23:01:48,Eletrônicos,cartao_debito,Aparecida,0
-17927,2737.59,2025-03-02 02:17:20,Supermercado,cartao_credito,Moura,0
-42521,1090.12,2025-02-28 14:43:42,Restaurante,cartao_debito,Pereira da Mata,0
-21722,1833.64,2025-03-06 06:43:20,Supermercado,cartao_debito,Correia do Amparo,0
-38373,3529.12,2025-02-22 05:30:25,Supermercado,cartao_credito,Viana,0
-86096,3031.58,2025-02-23 19:19:40,Supermercado,boleto,da Paz de Dias,0
-12837,4742.06,2025-03-12 08:20:48,Supermercado,cartao_debito,Nunes,0
-93245,1740.51,2025-02-22 10:25:15,Restaurante,cartao_credito,Duarte de Martins,0
-42467,1491.9,2025-03-08 08:41:49,Compra Online,boleto,Fernandes,0
-80256,4914.24,2025-03-18 17:19:46,Compra Online,pix,Costela Grande,1
-78563,2434.34,2025-02-23 15:56:11,Eletrônicos,pix,Costela Grande,0
-22958,4514.86,2025-03-17 11:51:13,Eletrônicos,pix,Moura de Machado,0
-47718,1236.48,2025-03-01 07:39:16,Eletrônicos,boleto,Pinto da Serra,0
-42535,174.91,2025-02-23 00:58:01,Eletrônicos,cartao_debito,Nunes de Sampaio,0
-21187,1356.74,2025-03-11 03:43:41,Supermercado,pix,Santos,0
-18627,2939.54,2025-03-05 20:14:32,Compra Online,cartao_credito,Sales das Pedras,0
-38607,2249.3,2025-03-12 22:14:40,Supermercado,cartao_debito,das Neves,0
-69319,4419.0,2025-03-06 05:08:01,Compra Online,pix,Cassiano,1
-56530,3251.15,2025-02-24 18:53:00,Compra Online,pix,Farias,1
-55101,2618.95,2025-03-17 14:30:04,Restaurante,cartao_debito,Almeida do Campo,0
-78981,1035.41,2025-03-18 18:58:12,Eletrônicos,pix,Fernandes de Freitas,0
-41095,305.11,2025-03-11 19:29:42,Supermercado,cartao_debito,Peixoto,0
-48680,3885.3,2025-03-14 02:51:16,Restaurante,boleto,Vasconcelos,0
-21528,2042.94,2025-03-18 02:36:09,Compra Online,boleto,Correia,0
-85513,440.54,2025-03-15 01:54:08,Restaurante,cartao_credito,da Luz,0
-75701,729.34,2025-03-11 20:26:56,Eletrônicos,cartao_credito,Siqueira,0
-61042,3341.9,2025-03-13 21:06:15,Compra Online,pix,Duarte das Pedras,1
-83326,804.87,2025-02-28 18:33:55,Supermercado,boleto,Borges,0
-40153,2560.55,2025-02-27 02:06:09,Eletrônicos,boleto,Lima de Cavalcante,0
-22125,447.06,2025-03-09 00:49:43,Viagem,boleto,Gonçalves,0
-55708,4154.94,2025-03-12 04:22:48,Eletrônicos,pix,Viana de Correia,0
-22685,1699.41,2025-03-05 11:33:16,Eletrônicos,boleto,Leão da Prata,0
-62008,1197.49,2025-03-02 21:38:08,Supermercado,pix,Vargas de Minas,0
-86797,1628.78,2025-03-12 10:57:19,Viagem,cartao_debito,Araújo,0
-55243,814.14,2025-03-06 00:42:13,Supermercado,boleto,Souza de Brito,0
-40810,298.57,2025-03-09 14:37:20,Supermercado,boleto,Borges dos Dourados,0
-20538,617.03,2025-03-05 05:48:55,Supermercado,pix,Gomes,0
-74852,3144.56,2025-03-08 07:35:25,Supermercado,cartao_credito,da Conceição Verde,0
-35133,4517.94,2025-02-25 08:08:08,Restaurante,boleto,Barbosa,0
-23756,3201.31,2025-03-06 05:43:17,Compra Online,pix,Moraes,1
-33883,1256.34,2025-03-02 13:43:54,Viagem,boleto,Moura,0
-84552,2810.46,2025-03-02 13:19:30,Viagem,pix,Borges das Pedras,0
-92606,3517.22,2025-03-12 19:36:07,Compra Online,pix,Alves,1
-62684,1149.71,2025-03-09 14:49:43,Restaurante,boleto,Camargo,0
-68467,2758.71,2025-02-23 19:05:57,Eletrônicos,cartao_debito,Santos dos Dourados,0
-36708,1518.67,2025-02-24 11:01:30,Supermercado,cartao_debito,Garcia,0
-66263,2285.52,2025-03-03 03:41:29,Restaurante,pix,Rezende do Sul,0
-79360,3203.69,2025-03-01 23:40:57,Supermercado,cartao_debito,Carvalho do Norte,0
-34958,4201.13,2025-03-14 07:31:23,Eletrônicos,boleto,Carvalho,0
-63508,1100.46,2025-02-22 03:34:53,Compra Online,pix,Aragão de da Mata,0
-66009,1691.61,2025-02-21 09:27:21,Viagem,boleto,Camargo,0
-36376,3889.82,2025-03-19 04:59:14,Compra Online,boleto,Nascimento do Galho,0
-76245,1073.41,2025-03-12 11:18:45,Supermercado,boleto,Porto,0
-96659,1150.02,2025-02-28 06:46:04,Compra Online,pix,Ribeiro,0
-68613,4386.12,2025-03-08 03:52:53,Supermercado,boleto,Moura de Casa Grande,0
-43554,1245.37,2025-03-16 04:55:53,Supermercado,cartao_debito,Lopes,0
-51376,2385.06,2025-03-19 19:17:16,Viagem,pix,Campos,0
-94552,866.88,2025-03-04 14:49:13,Eletrônicos,cartao_debito,Costela das Pedras,0
-40438,4023.9,2025-03-13 12:57:05,Compra Online,pix,Porto Paulista,1
-49877,1479.36,2025-02-21 22:15:43,Eletrônicos,boleto,Nascimento da Prata,0
-30666,2310.95,2025-03-03 04:06:58,Restaurante,pix,Nascimento,0
-57738,2859.44,2025-03-01 19:27:58,Viagem,boleto,Gomes,0
-96862,429.85,2025-02-26 05:12:18,Restaurante,boleto,Castro da Praia,0
-47735,3056.44,2025-03-05 22:40:20,Compra Online,cartao_debito,Pinto do Sul,0
-89134,4260.1,2025-02-23 07:26:29,Compra Online,pix,Fonseca,1
-18821,327.53,2025-03-01 04:56:36,Supermercado,pix,Moreira,0
-90877,4767.27,2025-03-18 16:58:23,Viagem,boleto,Freitas,0
-40168,1354.85,2025-03-09 17:21:06,Restaurante,cartao_debito,Marques,0
-72810,4014.91,2025-03-07 16:14:48,Eletrônicos,cartao_credito,Viana Alegre,0
-51009,2391.59,2025-03-12 06:48:39,Supermercado,cartao_credito,Moura,0
-30531,1600.82,2025-02-22 16:31:01,Compra Online,pix,Câmara de Goiás,0
-97314,1412.66,2025-03-17 21:50:16,Supermercado,cartao_debito,Pereira das Pedras,0
-45841,3144.48,2025-03-05 18:34:37,Viagem,pix,Correia de Duarte,0
-73203,3728.28,2025-02-28 22:38:29,Compra Online,pix,Vargas da Serra,1
-11133,620.83,2025-02-22 07:56:46,Compra Online,cartao_debito,Silva do Norte,0
-44513,3041.71,2025-03-22 05:25:26,Supermercado,boleto,Costa do Galho,0
-52380,21.5,2025-03-07 08:23:31,Eletrônicos,boleto,Cavalcante de Barbosa,0
-17881,118.68,2025-02-23 20:15:40,Supermercado,pix,Garcia dos Dourados,0
-63181,4697.27,2025-03-02 02:30:53,Supermercado,pix,Casa Grande,0
-62300,3698.25,2025-03-03 15:11:09,Eletrônicos,pix,Silveira,0
-60534,919.86,2025-02-27 16:03:45,Supermercado,pix,Caldeira do Amparo,0
-36223,4319.98,2025-02-24 15:07:59,Viagem,pix,Barros,0
-38974,1927.07,2025-03-07 18:39:26,Viagem,boleto,Farias das Flores,0
-89973,4072.87,2025-02-26 23:27:41,Eletrônicos,boleto,Marques,0
-84491,4409.31,2025-03-11 14:43:39,Compra Online,pix,Rodrigues,0
-90133,1815.67,2025-02-26 08:13:53,Eletrônicos,cartao_debito,Ramos,0
-17721,721.92,2025-03-09 03:34:21,Eletrônicos,pix,Rezende,0
-79857,929.05,2025-03-09 14:51:20,Viagem,cartao_credito,Aragão,0
-93115,3599.03,2025-03-21 09:10:36,Supermercado,cartao_debito,Nogueira,0
-94240,4198.69,2025-03-21 11:15:29,Restaurante,boleto,Fogaça,0
-51611,1251.11,2025-03-22 11:24:08,Supermercado,cartao_debito,Cavalcante do Amparo,0
-10252,3952.67,2025-03-12 20:27:03,Compra Online,pix,Costela Paulista,1
-40023,4257.79,2025-03-12 06:01:35,Compra Online,cartao_debito,Silveira,0
-78140,2645.11,2025-03-15 15:26:37,Compra Online,cartao_credito,Freitas,0
-43494,3100.27,2025-02-22 10:16:38,Eletrônicos,boleto,Carvalho,0
-23295,3259.74,2025-03-09 20:13:52,Viagem,cartao_credito,Fonseca,0
-86044,376.33,2025-03-11 08:35:10,Restaurante,boleto,Garcia Grande,0
-66610,2126.2,2025-02-22 23:16:27,Restaurante,boleto,Novais,0
-46949,358.46,2025-03-01 00:31:28,Supermercado,cartao_credito,Carvalho,0
-93117,708.16,2025-03-12 02:34:21,Eletrônicos,cartao_debito,Guerra,0
-38483,3989.44,2025-03-12 20:42:26,Supermercado,boleto,da Costa,0
-11934,1733.37,2025-03-20 16:03:32,Compra Online,cartao_credito,Nascimento,0
-69695,3096.25,2025-03-09 11:03:43,Supermercado,cartao_credito,Cunha de Minas,0
-38497,4536.3,2025-02-23 18:20:55,Compra Online,pix,Melo,1
-29829,4823.09,2025-03-17 08:51:35,Viagem,cartao_credito,Casa Grande de Duarte,0
-86695,4014.38,2025-02-26 10:52:54,Compra Online,pix,Cassiano,0
-17090,1357.0,2025-03-08 22:44:32,Supermercado,boleto,da Costa,0
-92687,425.56,2025-03-17 14:38:02,Viagem,cartao_credito,Gomes de Alves,0
-32049,4726.52,2025-03-06 19:42:23,Eletrônicos,cartao_credito,da Luz,0
-93724,4381.25,2025-03-21 06:13:15,Restaurante,cartao_credito,Pimenta,0
-19020,2949.38,2025-02-22 18:32:35,Restaurante,pix,Vargas,0
-12914,3613.72,2025-02-25 07:33:41,Supermercado,cartao_credito,Gomes de Ferreira,0
-26122,3199.14,2025-03-11 14:06:57,Restaurante,pix,Carvalho,0
-32285,2889.8,2025-03-12 00:44:18,Eletrônicos,pix,Mendes,0
-94937,3610.13,2025-03-19 14:21:46,Restaurante,pix,Rocha,0
-78307,3352.96,2025-03-17 22:37:37,Compra Online,pix,Melo Grande,1
-68320,3660.98,2025-03-21 05:34:00,Compra Online,boleto,Ferreira,0
-40504,1924.75,2025-03-05 12:07:38,Restaurante,cartao_debito,Aragão das Pedras,0
-43900,970.46,2025-03-03 00:53:48,Eletrônicos,pix,Sousa,0
-87726,1476.91,2025-03-04 20:07:38,Restaurante,cartao_debito,Gomes da Praia,0
-96790,1415.35,2025-03-11 05:06:01,Restaurante,boleto,Guerra dos Dourados,0
-83670,3529.26,2025-02-25 19:53:06,Restaurante,cartao_credito,Macedo do Oeste,0
-99228,4514.28,2025-03-05 21:21:16,Eletrônicos,boleto,Cardoso,0
-85613,825.28,2025-02-20 14:53:01,Viagem,cartao_debito,da Luz da Serra,0
-79688,2807.09,2025-03-13 06:42:08,Eletrônicos,cartao_debito,Silveira da Serra,0
-49423,516.65,2025-02-20 19:32:12,Viagem,pix,Cunha do Sul,0
-14059,1021.05,2025-03-02 23:08:44,Supermercado,boleto,Porto,0
-55557,1987.95,2025-03-06 22:24:34,Restaurante,cartao_debito,Albuquerque da Serra,0
-71328,3624.73,2025-03-09 16:31:18,Restaurante,pix,Câmara de Silva,0
-87241,555.35,2025-03-09 03:12:26,Compra Online,boleto,Rios,0
-40572,1873.6,2025-03-17 06:05:23,Eletrônicos,cartao_credito,Cavalcanti dos Dourados,0
-94961,4180.46,2025-03-09 08:26:24,Compra Online,pix,Pinto,1
-75441,1719.68,2025-02-24 13:15:52,Viagem,cartao_debito,da Luz do Galho,0
-77703,3312.55,2025-02-26 08:19:12,Compra Online,pix,Cavalcanti de Novaes,1
-95963,3876.9,2025-03-03 20:21:23,Viagem,boleto,da Costa Alegre,0
-77682,4691.48,2025-02-24 10:13:37,Compra Online,pix,Pacheco,0
-79312,3244.39,2025-03-08 07:12:07,Viagem,pix,Oliveira dos Dourados,0
-62512,4947.65,2025-03-16 05:33:57,Compra Online,boleto,Aragão do Norte,0
-42213,783.04,2025-02-25 09:29:12,Compra Online,cartao_debito,Sampaio,0
-64202,2180.16,2025-03-19 02:01:55,Viagem,pix,Souza,0
-59013,1303.74,2025-03-16 07:22:11,Viagem,cartao_credito,Costa de Silveira,0
-61225,4994.62,2025-02-22 16:37:33,Supermercado,cartao_credito,Campos de Vieira,0
-24150,4739.0,2025-03-18 22:26:47,Restaurante,boleto,Moraes da Praia,0
-41297,1377.96,2025-03-06 07:50:38,Eletrônicos,cartao_credito,Sá,0
-14098,1980.35,2025-03-02 13:04:03,Eletrônicos,boleto,Ramos,0
-51392,836.81,2025-03-20 01:45:26,Viagem,pix,Costa de Minas,0
-51159,4389.99,2025-03-08 14:58:01,Eletrônicos,boleto,Carvalho,0
-55288,4260.74,2025-03-17 05:29:49,Eletrônicos,cartao_debito,Camargo das Flores,0
-91665,4550.5,2025-03-08 21:05:17,Compra Online,pix,Vargas,1
-20905,372.7,2025-02-24 15:56:03,Restaurante,cartao_credito,Siqueira do Oeste,0
-73538,110.79,2025-03-19 00:22:19,Compra Online,boleto,Sá da Prata,0
-19806,3106.62,2025-03-18 22:45:28,Viagem,pix,Martins,0
-42478,2255.27,2025-03-08 22:54:58,Eletrônicos,pix,Jesus,0
-78264,4279.53,2025-03-07 20:51:56,Compra Online,pix,Viana,1
-55862,1431.99,2025-03-21 18:56:19,Compra Online,cartao_credito,Silveira de Novaes,0
-22445,4413.65,2025-03-13 23:31:36,Eletrônicos,cartao_credito,Mendes de Nogueira,0
-30625,4098.46,2025-03-17 02:18:19,Eletrônicos,pix,Gomes,0
-74714,587.99,2025-02-26 05:39:18,Compra Online,pix,Santos,0
-63162,766.72,2025-03-21 16:15:17,Restaurante,boleto,Lima,0
-53820,276.44,2025-03-20 19:48:19,Eletrônicos,boleto,da Cruz de Barros,0
-93172,4756.32,2025-02-24 07:24:33,Restaurante,boleto,Mendes do Amparo,0
-68720,1472.11,2025-02-24 13:11:11,Viagem,pix,Cardoso de Moura,0
-13634,1909.59,2025-03-10 13:39:47,Viagem,pix,Mendonça,0
-67738,932.53,2025-03-04 11:07:46,Eletrônicos,cartao_debito,Pereira,0
-20635,4244.61,2025-03-11 22:57:37,Restaurante,cartao_credito,Mendes do Sul,0
-40099,4487.61,2025-02-28 20:16:51,Restaurante,cartao_debito,Costa do Sul,0
-91754,3217.14,2025-02-24 08:06:31,Restaurante,pix,Camargo,0
-23725,4022.32,2025-03-21 02:56:52,Supermercado,cartao_debito,Andrade,0
-20429,2502.89,2025-02-22 02:35:18,Restaurante,cartao_credito,Montenegro,0
-20467,1005.24,2025-03-15 08:41:27,Restaurante,cartao_credito,Rios,0
-29197,410.93,2025-03-04 13:15:48,Viagem,cartao_debito,da Costa,0
-62658,4215.65,2025-03-01 08:32:45,Compra Online,boleto,Aparecida de Fernandes,0
-83972,4978.1,2025-02-25 17:09:26,Viagem,cartao_debito,Gomes do Sul,0
-66956,2398.74,2025-02-22 12:07:30,Viagem,cartao_credito,Sampaio do Sul,0
-76218,3129.0,2025-03-08 13:59:11,Eletrônicos,pix,Sá,0
-40939,4416.0,2025-03-14 02:59:07,Compra Online,boleto,Teixeira Alegre,0
-45319,520.85,2025-03-13 22:24:24,Supermercado,boleto,Almeida,0
-94615,2224.42,2025-03-13 23:16:54,Supermercado,pix,Abreu dos Dourados,0
-94376,1304.06,2025-03-08 02:24:26,Eletrônicos,pix,Martins,0
-54846,4642.92,2025-03-04 13:01:00,Supermercado,cartao_credito,Almeida de Souza,0
-29670,4860.44,2025-03-08 17:52:48,Viagem,pix,Sousa,0
-76817,813.83,2025-02-23 03:45:39,Compra Online,pix,Peixoto da Serra,0
-29307,447.4,2025-02-23 10:58:58,Restaurante,cartao_debito,Nunes,0
-34472,4271.35,2025-03-08 09:46:06,Supermercado,boleto,Mendes,0
-19928,3602.99,2025-03-01 14:24:33,Eletrônicos,boleto,Barbosa,0
-52857,2586.83,2025-03-08 06:27:44,Eletrônicos,cartao_debito,Freitas,0
-55045,2919.76,2025-02-24 10:01:00,Eletrônicos,boleto,Costela de Fonseca,0
-26854,344.08,2025-03-10 00:05:04,Viagem,cartao_credito,da Costa de Minas,0
-38185,2359.95,2025-03-21 10:23:18,Compra Online,cartao_debito,Nunes,0
-29571,883.37,2025-03-07 00:56:14,Viagem,boleto,Rocha do Campo,0
-22159,1617.8,2025-03-19 17:57:16,Viagem,cartao_debito,Cavalcante,0
-55901,89.66,2025-02-22 00:05:31,Supermercado,cartao_debito,Ramos de Carvalho,0
-15413,1478.22,2025-03-20 07:00:30,Eletrônicos,pix,Cunha do Galho,0
-18800,1666.36,2025-03-21 17:47:15,Eletrônicos,cartao_debito,Aparecida Verde,0
-24217,778.4,2025-02-21 20:50:19,Restaurante,cartao_debito,Novais de Cardoso,0
-38655,3443.86,2025-03-06 00:32:49,Restaurante,cartao_debito,da Conceição das Pedras,0
-71010,140.19,2025-03-14 14:09:13,Restaurante,boleto,Siqueira de Minas,0
-46528,1403.46,2025-03-18 10:37:58,Viagem,cartao_debito,Câmara,0
-94845,500.93,2025-02-22 18:40:01,Viagem,pix,Ribeiro,0
-81321,2083.12,2025-03-06 04:42:05,Compra Online,pix,Camargo da Mata,0
-61243,2779.72,2025-02-21 23:23:28,Viagem,cartao_debito,da Rosa dos Dourados,0
-67984,3390.87,2025-03-03 23:03:57,Eletrônicos,cartao_credito,Alves de Cunha,0
-72544,4503.16,2025-02-27 07:18:27,Compra Online,pix,Moraes,1
-37948,3559.59,2025-03-06 12:42:22,Compra Online,boleto,Novais do Galho,0
-48707,4250.31,2025-03-16 21:30:44,Compra Online,pix,da Rocha de Minas,1
-72858,4050.62,2025-03-16 23:47:19,Viagem,pix,Câmara,0
-80305,2241.86,2025-03-01 03:23:35,Viagem,pix,Freitas de Porto,0
-42932,4641.61,2025-03-05 01:52:54,Eletrônicos,cartao_debito,Ferreira dos Dourados,0
-29377,2100.1,2025-03-06 12:56:26,Viagem,cartao_debito,Correia,0
-79178,2967.16,2025-02-28 12:07:33,Restaurante,boleto,Moura,0
-10442,2480.12,2025-02-24 12:07:10,Restaurante,cartao_credito,Rezende do Amparo,0
-40350,1928.33,2025-02-23 00:45:32,Eletrônicos,cartao_debito,Rodrigues de Porto,0
-55173,2883.92,2025-03-01 11:31:11,Restaurante,cartao_credito,das Neves,0
-25679,3922.02,2025-03-18 17:27:34,Eletrônicos,cartao_debito,Leão das Flores,0
-58525,3106.34,2025-02-25 01:48:43,Supermercado,boleto,Barros,0
-86898,2521.69,2025-03-15 21:38:09,Supermercado,cartao_credito,Porto,0
-20001,4592.45,2025-03-16 05:50:49,Restaurante,cartao_credito,Alves,0
-75024,4358.22,2025-03-12 00:43:36,Compra Online,pix,da Rocha de Dias,1
-99266,4541.42,2025-02-23 04:48:52,Compra Online,pix,Pires da Prata,0
-94718,4622.83,2025-03-05 18:42:03,Restaurante,cartao_debito,Correia Paulista,0
-40276,4674.79,2025-02-22 02:30:15,Supermercado,pix,Guerra dos Dourados,0
-50169,3664.57,2025-03-11 13:48:35,Compra Online,pix,Freitas do Oeste,1
-71147,236.54,2025-03-22 07:47:30,Viagem,pix,Moraes,0
-10671,1312.42,2025-03-08 15:23:07,Restaurante,boleto,Vargas,0
-43479,3633.95,2025-03-18 09:19:30,Restaurante,cartao_credito,Pires do Oeste,0
-70564,756.4,2025-03-15 13:49:57,Compra Online,pix,Siqueira de Goiás,0
-62059,4438.88,2025-03-05 00:23:44,Restaurante,pix,Nogueira de Melo,0
-52453,81.89,2025-03-09 04:04:43,Supermercado,cartao_credito,Albuquerque de Marques,0
-19392,306.36,2025-02-27 12:14:53,Eletrônicos,cartao_credito,Rezende de Dias,0
-95977,2373.78,2025-03-09 00:56:45,Viagem,cartao_credito,Moreira,0
-34175,1189.33,2025-03-17 03:01:04,Supermercado,cartao_credito,da Mota do Sul,0
-83756,1990.26,2025-03-08 21:54:57,Restaurante,boleto,Monteiro,0
-37521,1287.51,2025-03-18 10:48:59,Supermercado,cartao_credito,Cavalcante do Galho,0
-51975,1553.84,2025-03-17 08:23:13,Compra Online,cartao_credito,Aragão,0
-99232,3342.25,2025-02-24 14:29:20,Compra Online,pix,Albuquerque de Monteiro,1
-40680,3565.9,2025-03-11 18:16:07,Restaurante,boleto,Pires de Silva,0
-71417,3110.12,2025-03-18 10:24:09,Supermercado,boleto,Jesus Paulista,0
-49377,2908.93,2025-03-10 14:15:11,Compra Online,cartao_debito,Fernandes,0
-33928,1980.22,2025-03-10 10:34:02,Restaurante,cartao_credito,Vieira das Flores,0
-79672,239.46,2025-03-14 06:12:59,Restaurante,boleto,Santos da Praia,0
-34522,194.83,2025-03-02 16:52:55,Eletrônicos,boleto,Souza,0
-43793,2649.51,2025-02-26 23:04:31,Eletrônicos,cartao_credito,Cunha,0
-91973,3756.68,2025-02-25 21:31:18,Eletrônicos,cartao_debito,Araújo Alegre,0
-75863,99.18,2025-03-08 03:25:08,Compra Online,boleto,Melo,0
-95292,4925.59,2025-03-16 16:02:31,Restaurante,pix,Camargo,0
-50779,1783.85,2025-02-25 02:27:51,Supermercado,pix,Campos do Oeste,0
-33360,3146.62,2025-03-03 02:27:58,Eletrônicos,cartao_credito,da Cruz do Amparo,0
-69274,3913.69,2025-03-04 11:43:25,Compra Online,boleto,Casa Grande,0
-97439,4966.58,2025-02-22 21:11:27,Compra Online,pix,das Neves da Serra,1
-20753,4273.31,2025-02-22 04:11:37,Compra Online,boleto,da Costa do Campo,0
-93081,1058.12,2025-03-17 21:53:17,Eletrônicos,cartao_debito,da Rocha,0
-85547,3752.68,2025-03-19 20:22:57,Restaurante,cartao_credito,Silva do Galho,0
-10264,3980.06,2025-03-18 23:58:02,Restaurante,cartao_debito,Souza,0
-35811,3981.24,2025-03-19 08:37:34,Compra Online,pix,Vieira do Campo,1
-75034,3594.83,2025-03-14 20:33:09,Eletrônicos,cartao_credito,Santos da Mata,0
-64807,4771.9,2025-03-03 13:06:53,Restaurante,cartao_debito,das Neves do Galho,0
-47160,1391.58,2025-02-21 23:17:31,Restaurante,cartao_credito,da Costa,0
-51027,1287.89,2025-03-08 00:54:56,Restaurante,cartao_debito,Nogueira,0
-56687,4468.21,2025-03-02 16:57:00,Compra Online,pix,da Cruz,0
-80035,4105.09,2025-03-13 15:57:43,Compra Online,pix,Farias,1
-49017,2110.61,2025-03-12 21:12:07,Supermercado,boleto,Azevedo,0
-55607,1311.62,2025-03-05 13:43:34,Restaurante,boleto,da Mata de Sales,0
-47292,4417.18,2025-02-25 18:13:59,Compra Online,pix,Monteiro de Monteiro,0
-78336,1619.56,2025-03-18 11:42:19,Supermercado,cartao_debito,Borges de da Luz,0
-27853,710.21,2025-03-19 03:10:37,Restaurante,boleto,Fernandes,0
-52822,4961.94,2025-03-02 11:43:39,Supermercado,cartao_debito,Pires Verde,0
-35672,1284.91,2025-03-04 21:41:22,Restaurante,boleto,Rezende da Praia,0
-34198,3464.33,2025-02-28 08:29:02,Compra Online,pix,Santos,0
-70248,3595.55,2025-03-05 21:23:41,Compra Online,pix,Santos do Amparo,1
-73060,1655.41,2025-03-09 19:48:48,Viagem,cartao_credito,Novais Paulista,0
-42035,2071.14,2025-03-19 22:05:10,Viagem,pix,Pinto do Campo,0
-15754,4307.89,2025-02-25 07:44:02,Eletrônicos,cartao_debito,Gomes,0
-45433,2064.96,2025-03-21 14:23:37,Eletrônicos,pix,Sales,0
-46929,3069.67,2025-03-21 08:19:58,Eletrônicos,cartao_credito,Barros Paulista,0
-66481,4192.64,2025-03-04 13:47:11,Compra Online,cartao_debito,Correia,0
-60545,2847.14,2025-03-18 14:42:54,Restaurante,boleto,Novaes Paulista,0
-45199,1848.22,2025-03-01 15:35:11,Compra Online,pix,Nunes,0
-12415,1680.04,2025-03-07 13:05:53,Supermercado,cartao_debito,Monteiro,0
-17664,1357.94,2025-03-20 11:21:37,Eletrônicos,pix,Vieira,0
-14100,3262.82,2025-02-22 07:31:25,Compra Online,pix,Caldeira da Praia,1
-41420,3115.93,2025-03-19 00:51:13,Viagem,cartao_debito,Rocha,0
-71706,2743.62,2025-02-26 12:25:53,Compra Online,boleto,Novaes de Minas,0
-87240,4744.54,2025-03-16 07:45:55,Compra Online,pix,Silva,1
-47361,4826.28,2025-03-20 04:14:56,Compra Online,cartao_debito,Macedo da Prata,0
-91249,3403.55,2025-03-05 04:40:52,Compra Online,cartao_credito,Mendonça,0
-13129,1834.47,2025-03-17 20:49:58,Restaurante,cartao_debito,Rocha,0
-13037,3953.6,2025-03-18 03:29:25,Supermercado,cartao_credito,Sá,0
-83554,2646.6,2025-02-26 00:43:47,Restaurante,boleto,Alves Verde,0
-69161,2165.08,2025-03-03 09:42:00,Restaurante,pix,Rezende,0
-57925,463.46,2025-03-18 12:23:50,Supermercado,pix,da Costa de Almeida,0
-96592,3264.58,2025-03-08 13:36:13,Eletrônicos,cartao_debito,Andrade,0
-96574,3292.25,2025-02-25 13:29:06,Compra Online,pix,Mendonça do Oeste,1
-80095,732.08,2025-03-19 04:37:21,Compra Online,cartao_debito,Moreira,0
-31181,3741.42,2025-03-07 15:39:32,Eletrônicos,cartao_credito,Costa,0
-74330,1926.77,2025-03-15 16:20:26,Compra Online,cartao_credito,Novais,0
-72864,884.9,2025-02-22 10:29:28,Supermercado,boleto,Pires,0
-33053,3879.32,2025-03-13 02:47:43,Supermercado,boleto,Rocha,0
-35516,2260.69,2025-02-24 09:05:30,Eletrônicos,cartao_debito,da Luz de Nascimento,0
-47422,883.73,2025-03-05 02:15:57,Viagem,cartao_credito,Aparecida do Oeste,0
-56117,3567.64,2025-03-12 09:41:26,Viagem,pix,Pacheco Verde,0
-16541,4555.36,2025-02-26 11:22:04,Supermercado,cartao_debito,Sales da Praia,0
-44618,1123.86,2025-03-03 14:16:27,Eletrônicos,cartao_credito,Costela,0
-28738,2802.65,2025-02-23 15:16:34,Restaurante,cartao_credito,Duarte do Norte,0
-10906,3788.41,2025-03-05 11:20:25,Compra Online,pix,da Mata da Prata,1
-83269,3551.84,2025-02-21 13:08:24,Eletrônicos,cartao_debito,Souza Alegre,0
-26721,2906.84,2025-02-27 01:16:09,Eletrônicos,pix,Rios de Peixoto,0
-46401,4848.16,2025-03-09 02:57:01,Eletrônicos,cartao_credito,Leão do Galho,0
-77638,2148.68,2025-02-28 10:07:41,Supermercado,cartao_debito,Mendes,0
-84943,2194.19,2025-03-15 01:24:42,Eletrônicos,boleto,Cardoso,0
-94524,3047.82,2025-03-12 04:34:17,Compra Online,boleto,Aragão da Mata,0
-44406,598.85,2025-02-26 01:32:25,Supermercado,cartao_debito,Ramos do Amparo,0
-27646,3160.13,2025-03-04 15:35:13,Compra Online,pix,Fernandes das Pedras,1
-51842,2293.18,2025-03-10 19:10:00,Compra Online,pix,Nunes dos Dourados,0
-59704,1913.58,2025-03-13 22:14:48,Restaurante,cartao_debito,Nascimento,0
-29431,342.81,2025-03-21 10:47:58,Supermercado,cartao_credito,Campos,0
-21652,1769.55,2025-03-18 07:04:55,Viagem,pix,Pimenta,0
-87707,4242.09,2025-02-21 15:41:30,Compra Online,pix,da Costa,1
-97936,4213.81,2025-02-27 16:59:57,Compra Online,cartao_debito,Nascimento do Galho,0
-28939,878.28,2025-02-25 13:49:26,Supermercado,cartao_credito,Nunes,0
-39566,2213.37,2025-03-19 18:21:06,Eletrônicos,cartao_debito,Novaes,0
-27751,2915.17,2025-03-12 23:10:31,Restaurante,cartao_debito,Souza de Fernandes,0
-26635,2645.47,2025-03-11 03:18:14,Viagem,pix,Silva Paulista,0
-26723,4215.84,2025-03-21 18:13:02,Eletrônicos,boleto,Sales,0
-64981,4398.56,2025-02-25 18:34:50,Eletrônicos,cartao_debito,Farias,0
-31879,407.91,2025-02-24 01:21:16,Eletrônicos,cartao_debito,Brito da Serra,0
-21639,4523.34,2025-03-03 14:39:26,Compra Online,pix,da Cruz,0
-19552,4526.18,2025-03-21 08:46:28,Compra Online,pix,Rodrigues do Oeste,1
-72739,2335.85,2025-03-13 05:29:54,Compra Online,cartao_debito,Viana do Norte,0
-16294,1164.47,2025-03-05 04:25:24,Viagem,cartao_credito,Gonçalves,0
-43454,4962.61,2025-03-18 01:25:51,Compra Online,pix,Santos da Praia,1
-64549,1187.96,2025-03-19 17:36:03,Eletrônicos,boleto,Ribeiro do Galho,0
-30659,1269.32,2025-02-28 17:25:01,Compra Online,cartao_debito,Ribeiro,0
-51045,2487.52,2025-03-17 20:50:45,Compra Online,cartao_debito,Fogaça Paulista,0
-14961,3638.82,2025-03-04 16:25:36,Eletrônicos,cartao_debito,Araújo das Flores,0
-85403,585.45,2025-03-08 01:52:37,Eletrônicos,pix,Viana de Carvalho,0
-86829,4423.23,2025-03-20 23:14:40,Restaurante,pix,Cunha,0
-87292,2942.1,2025-03-08 02:23:18,Compra Online,cartao_debito,Marques,0
-78660,2514.88,2025-02-24 01:16:55,Restaurante,cartao_credito,Jesus da Serra,0
-78729,414.4,2025-03-02 00:32:55,Viagem,pix,Câmara,0
-75520,3007.95,2025-03-07 09:35:37,Viagem,pix,Vasconcelos da Mata,0
-73074,1846.75,2025-02-28 03:06:24,Viagem,cartao_credito,da Cunha do Oeste,0
-76593,3332.14,2025-03-05 11:26:29,Compra Online,pix,da Cruz do Amparo,0
-80173,3030.09,2025-03-17 16:14:01,Eletrônicos,cartao_debito,Oliveira,0
-96287,33.82,2025-03-17 15:44:45,Supermercado,cartao_debito,Mendonça,0
-81809,3274.18,2025-02-26 23:40:38,Supermercado,cartao_debito,Costela,0
-43340,4104.94,2025-03-21 13:29:53,Restaurante,cartao_debito,Nascimento,0
-49641,4288.89,2025-02-22 06:35:45,Eletrônicos,cartao_credito,Moura de Teixeira,0
-98280,454.72,2025-03-15 05:30:53,Restaurante,boleto,Nascimento,0
-92152,2766.78,2025-02-24 00:14:20,Compra Online,cartao_debito,Duarte,0
-50990,2525.33,2025-03-04 08:33:04,Supermercado,pix,Abreu do Galho,0
-97663,2055.51,2025-02-24 08:27:39,Eletrônicos,cartao_debito,Rezende,0
-13459,4474.6,2025-02-23 18:21:42,Eletrônicos,cartao_debito,Lopes do Norte,0
-87860,3494.38,2025-03-01 01:50:06,Viagem,cartao_credito,Duarte da Mata,0
-24572,2518.45,2025-03-20 11:02:45,Viagem,cartao_debito,Campos,0
-15153,4258.87,2025-03-08 08:12:24,Restaurante,boleto,Nogueira,0
-87905,3186.36,2025-03-16 14:12:37,Compra Online,pix,Farias,0
-15745,3194.32,2025-02-24 23:56:36,Supermercado,cartao_debito,Carvalho,0
-92877,1769.66,2025-03-15 03:45:17,Restaurante,cartao_credito,Vargas de Novaes,0
-69948,2789.13,2025-02-20 17:39:14,Compra Online,cartao_credito,Cassiano de da Cunha,0
-77925,990.26,2025-03-17 11:25:33,Compra Online,cartao_credito,Pinto,0
-26302,1543.92,2025-02-24 16:22:20,Restaurante,cartao_debito,Gonçalves de Gomes,0
-55479,4291.45,2025-03-11 09:11:27,Eletrônicos,cartao_credito,Campos Alegre,0
-21101,1325.61,2025-03-04 00:12:34,Restaurante,boleto,Rocha,0
-63608,3991.81,2025-02-26 05:41:04,Restaurante,cartao_credito,Costela do Amparo,0
-78705,4443.8,2025-03-16 16:24:04,Restaurante,pix,Nunes,0
-95681,3178.25,2025-02-28 15:41:38,Eletrônicos,pix,da Paz do Sul,0
-87554,4574.14,2025-03-07 04:09:56,Viagem,boleto,Borges de Cavalcante,0
-41203,97.66,2025-02-27 15:36:47,Viagem,cartao_credito,Nascimento da Praia,0
-21409,639.64,2025-03-06 12:47:53,Viagem,cartao_debito,Gonçalves,0
-22536,4188.81,2025-02-27 04:03:03,Compra Online,pix,Monteiro Verde,0
-94153,1017.05,2025-02-24 12:29:15,Supermercado,cartao_credito,Gonçalves,0
-66932,3336.6,2025-03-20 01:05:48,Compra Online,pix,Monteiro Verde,0
-47113,2722.99,2025-02-26 02:24:15,Supermercado,cartao_debito,Rezende de Minas,0
-60657,119.7,2025-03-08 18:21:50,Supermercado,cartao_credito,Marques,0
-24790,1159.45,2025-03-05 04:28:38,Supermercado,boleto,Viana de Gonçalves,0
-25672,2510.32,2025-03-19 10:16:15,Eletrônicos,cartao_credito,Pastor,0
-79816,2485.11,2025-03-09 14:08:44,Viagem,cartao_credito,Carvalho da Praia,0
-81847,1016.57,2025-03-04 07:57:37,Eletrônicos,pix,Cunha,0
-82968,4457.25,2025-02-28 06:26:43,Compra Online,pix,Sá da Praia,1
-31494,3775.34,2025-02-21 18:21:23,Restaurante,cartao_credito,Campos,0
-48554,3390.23,2025-02-27 02:51:18,Compra Online,pix,Vieira do Amparo,1
-31106,4457.63,2025-03-13 11:09:46,Eletrônicos,pix,da Rocha de Minas,0
-87659,4899.99,2025-03-20 14:56:35,Viagem,boleto,Melo,0
-36718,4018.49,2025-02-24 18:31:50,Compra Online,pix,Cavalcanti,1
-28514,2737.1,2025-03-19 20:47:22,Supermercado,cartao_debito,Ribeiro,0
-84993,3151.86,2025-02-28 09:49:20,Compra Online,boleto,Castro da Praia,0
-58751,645.03,2025-03-19 11:48:08,Restaurante,cartao_credito,Ribeiro da Mata,0
-49980,3723.18,2025-02-28 09:46:20,Compra Online,pix,Martins,1
-97179,4713.35,2025-03-06 12:33:58,Viagem,boleto,Duarte dos Dourados,0
-88770,807.66,2025-03-06 17:13:52,Supermercado,pix,Garcia de Farias,0
-78127,1718.72,2025-02-23 21:09:42,Supermercado,cartao_debito,Costa,0
-80515,2032.95,2025-03-01 09:11:35,Restaurante,cartao_debito,Alves de Goiás,0
-88478,802.66,2025-02-27 01:59:19,Viagem,pix,Mendes,0
-26394,2393.8,2025-03-08 11:38:35,Restaurante,pix,Novaes Verde,0
-43034,948.62,2025-03-01 18:08:58,Restaurante,boleto,Pinto do Amparo,0
-90651,4292.49,2025-02-25 15:55:44,Supermercado,cartao_debito,Pimenta de Siqueira,0
-75494,4472.35,2025-02-28 15:01:13,Eletrônicos,cartao_debito,Câmara do Galho,0
-18421,4272.26,2025-02-22 03:37:51,Eletrônicos,cartao_credito,da Conceição,0
-71076,4130.01,2025-03-18 17:08:35,Restaurante,cartao_debito,Albuquerque do Amparo,0
-70434,2962.5,2025-03-10 09:54:46,Restaurante,boleto,Guerra,0
-55653,4997.54,2025-03-19 03:59:03,Eletrônicos,boleto,Pacheco do Galho,0
-64015,3352.04,2025-03-07 00:37:18,Compra Online,boleto,Peixoto,0
-96329,203.88,2025-03-20 10:06:33,Restaurante,cartao_credito,Nunes da Praia,0
-58824,1823.51,2025-03-17 14:09:48,Viagem,cartao_debito,Moura da Prata,0
-54364,3935.94,2025-03-03 13:19:21,Supermercado,cartao_debito,Vasconcelos,0
-77915,4502.14,2025-03-07 17:10:57,Restaurante,boleto,Freitas de Guerra,0
-27972,2216.19,2025-03-11 01:05:15,Eletrônicos,pix,Ferreira,0
-57039,4514.53,2025-02-21 07:33:58,Viagem,cartao_debito,Vasconcelos,0
-52243,4952.67,2025-02-23 04:58:45,Compra Online,pix,Siqueira do Amparo,1
-75369,2428.56,2025-03-05 04:20:39,Restaurante,pix,Siqueira Verde,0
-14228,4798.56,2025-02-22 11:23:44,Viagem,cartao_debito,Moraes,0
-83926,4980.01,2025-03-06 05:58:44,Supermercado,boleto,Silva das Flores,0
-32434,2950.49,2025-03-20 08:26:47,Eletrônicos,cartao_debito,Marques Grande,0
-96720,610.6,2025-03-18 01:17:14,Compra Online,boleto,Duarte,0
-72574,4956.34,2025-03-21 19:36:21,Compra Online,pix,Costela da Praia,1
-13869,590.74,2025-03-21 02:26:11,Eletrônicos,cartao_credito,Freitas do Galho,0
-63622,4497.85,2025-02-22 05:06:59,Compra Online,pix,Teixeira Grande,1
-75875,4722.11,2025-02-22 10:02:56,Viagem,cartao_debito,Nascimento,0
-85018,1469.27,2025-03-01 19:41:03,Viagem,cartao_debito,Cardoso,0
-77603,3413.68,2025-02-26 06:53:49,Compra Online,cartao_debito,Aparecida,0
-25746,4128.82,2025-02-21 03:51:55,Restaurante,boleto,Pacheco,0
-96591,3086.73,2025-02-21 03:03:46,Viagem,boleto,das Neves do Amparo,0
-95843,2137.53,2025-03-12 16:35:45,Eletrônicos,boleto,Barros,0
-22341,159.69,2025-03-05 12:11:26,Compra Online,cartao_debito,Nunes,0
-34764,2285.05,2025-02-21 09:28:13,Compra Online,pix,Abreu,0
-56924,321.11,2025-03-06 15:08:48,Restaurante,pix,Moraes do Oeste,0
-40361,654.62,2025-02-27 06:52:48,Restaurante,cartao_debito,Araújo da Prata,0
-84462,3532.21,2025-02-25 04:48:29,Restaurante,boleto,Marques do Amparo,0
-39636,4524.9,2025-02-28 19:52:59,Compra Online,pix,Martins,0
-45391,3733.41,2025-03-17 06:19:00,Compra Online,pix,Macedo,1
-16656,705.07,2025-03-18 10:07:15,Viagem,boleto,Cavalcanti,0
-33067,4795.31,2025-03-22 03:06:32,Eletrônicos,cartao_debito,Pinto,0
-54610,814.16,2025-03-17 08:08:03,Compra Online,pix,da Rocha,0
-31477,4334.37,2025-02-24 19:37:46,Restaurante,cartao_credito,Correia,0
-87982,484.03,2025-03-21 10:11:02,Restaurante,cartao_credito,Barros do Sul,0
-47576,3902.67,2025-03-03 17:15:34,Supermercado,boleto,Fogaça,0
-31782,413.4,2025-03-15 11:11:01,Supermercado,pix,Nascimento das Pedras,0
-27168,4645.29,2025-03-02 07:52:48,Restaurante,cartao_credito,Ramos da Prata,0
-66047,3926.32,2025-03-18 14:45:10,Supermercado,cartao_credito,Cardoso,0
-65750,114.97,2025-02-22 08:07:42,Eletrônicos,cartao_credito,Ribeiro Paulista,0
-74861,2927.14,2025-03-02 07:53:20,Compra Online,pix,Lopes da Praia,0
-70528,1936.16,2025-03-16 07:02:09,Eletrônicos,cartao_credito,Pinto da Praia,0
-34621,3700.78,2025-02-22 15:47:25,Compra Online,cartao_debito,Lima da Mata,0
-43071,2144.18,2025-03-14 02:01:53,Supermercado,pix,Castro de Rezende,0
-76422,1792.5,2025-03-06 23:51:48,Compra Online,cartao_credito,Pereira,0
-78250,1074.51,2025-02-27 10:25:17,Compra Online,cartao_debito,Costa,0
-88249,1077.48,2025-03-14 23:30:00,Compra Online,cartao_credito,Gomes,0
-64025,729.56,2025-03-07 03:46:28,Restaurante,cartao_debito,Macedo,0
-56179,1081.38,2025-03-19 02:06:46,Supermercado,boleto,Casa Grande Alegre,0
-86705,3418.67,2025-02-20 16:52:29,Supermercado,boleto,Campos de Macedo,0
-96963,4056.82,2025-03-13 04:02:51,Viagem,boleto,Correia das Flores,0
-37939,4618.16,2025-02-26 13:26:35,Restaurante,boleto,Camargo de Moraes,0
-67522,544.27,2025-03-06 19:13:44,Viagem,cartao_debito,Silveira da Serra,0
-75114,4813.46,2025-02-23 07:50:47,Restaurante,pix,Borges,0
-88960,3847.48,2025-02-23 03:13:26,Compra Online,cartao_debito,Teixeira das Pedras,0
-13349,385.1,2025-03-10 20:29:19,Restaurante,cartao_debito,Peixoto Alegre,0
-71110,609.15,2025-03-07 22:00:55,Compra Online,boleto,Porto de Araújo,0
-13199,3851.05,2025-03-08 13:53:25,Eletrônicos,cartao_debito,Pereira da Prata,0
-20173,2556.82,2025-03-06 16:40:07,Supermercado,boleto,Nunes das Pedras,0
-51528,4901.59,2025-03-03 11:48:32,Viagem,cartao_credito,Barros,0
-90288,1678.29,2025-03-14 00:21:58,Compra Online,cartao_credito,Cunha do Oeste,0
-69360,1773.92,2025-03-17 11:04:36,Viagem,boleto,Borges,0
-94636,1840.91,2025-03-20 18:46:34,Eletrônicos,cartao_credito,Ferreira do Sul,0
-57062,263.14,2025-03-21 20:00:53,Compra Online,pix,Freitas Grande,0
-31955,4283.09,2025-03-18 21:23:42,Compra Online,pix,Câmara da Praia,1
-12810,4584.47,2025-03-17 23:20:02,Viagem,cartao_debito,Monteiro de Aparecida,0
-76211,2741.1,2025-03-04 12:39:31,Supermercado,cartao_credito,Mendonça,0
-76916,3037.44,2025-03-20 00:32:06,Viagem,cartao_credito,Mendes,0
-69204,3884.42,2025-03-09 18:41:42,Compra Online,pix,Correia,0
-66436,935.98,2025-02-25 19:33:22,Viagem,boleto,Rocha de Minas,0
-43618,4730.87,2025-02-28 14:01:05,Compra Online,pix,da Mata,1
-73487,1873.28,2025-03-15 15:51:22,Supermercado,cartao_debito,Santos dos Dourados,0
-81124,4636.23,2025-02-25 22:28:43,Compra Online,pix,Guerra,0
-49265,1069.76,2025-03-08 17:13:42,Compra Online,cartao_credito,Ferreira da Mata,0
-24708,3599.55,2025-03-03 03:52:27,Restaurante,cartao_credito,Cardoso,0
-51916,1269.81,2025-03-16 12:42:00,Supermercado,pix,Camargo de Minas,0
-55077,3262.14,2025-03-07 17:05:59,Compra Online,pix,Rocha do Sul,1
-62693,500.99,2025-02-23 04:15:25,Restaurante,cartao_credito,da Mota,0
-95606,2424.76,2025-02-23 19:40:45,Viagem,cartao_credito,Moraes,0
-41456,1443.87,2025-03-05 01:58:23,Supermercado,cartao_debito,Abreu,0
-60304,4881.28,2025-03-20 17:30:38,Compra Online,pix,Cavalcanti,0
-28100,2410.57,2025-03-12 02:33:53,Eletrônicos,pix,Aragão dos Dourados,0
-27356,4687.55,2025-03-12 03:04:19,Viagem,cartao_credito,Pacheco,0
-24738,1574.1,2025-03-04 20:33:51,Compra Online,pix,Macedo Alegre,0
-51853,883.97,2025-03-21 14:41:57,Compra Online,boleto,da Cruz de da Cunha,0
-16192,4839.84,2025-02-26 10:27:18,Supermercado,boleto,Melo,0
-71139,777.34,2025-03-06 08:38:36,Supermercado,cartao_credito,Barros,0
-29673,227.6,2025-02-28 01:17:17,Viagem,cartao_credito,Cirino,0
-68519,4575.69,2025-02-27 18:06:24,Compra Online,pix,Caldeira de da Paz,1
-59546,785.36,2025-03-16 21:09:26,Eletrônicos,boleto,da Mata de Mendes,0
-86213,3623.47,2025-03-14 08:53:37,Supermercado,cartao_debito,da Mota das Pedras,0
-54606,1350.13,2025-03-10 22:38:56,Eletrônicos,pix,Cirino,0
-64575,4386.63,2025-03-10 05:56:47,Restaurante,cartao_debito,Leão,0
-94633,2887.58,2025-02-24 19:59:33,Viagem,pix,da Costa de Oliveira,0
-77052,3723.65,2025-03-03 11:29:01,Restaurante,cartao_debito,Jesus do Sul,0
-82757,724.58,2025-03-09 03:12:23,Viagem,cartao_credito,Mendes,0
-22398,4012.05,2025-03-01 05:27:08,Supermercado,cartao_credito,Albuquerque,0
-51957,1218.57,2025-02-24 19:56:16,Viagem,boleto,da Costa Grande,0
-33922,1585.71,2025-03-17 02:13:34,Compra Online,cartao_debito,Macedo da Serra,0
-21079,3408.56,2025-03-20 22:03:04,Eletrônicos,pix,Pereira,0
-24647,1763.35,2025-03-08 11:25:38,Restaurante,boleto,Sampaio,0
-19589,4871.52,2025-03-16 08:50:08,Supermercado,cartao_debito,Freitas de Monteiro,0
-55330,304.85,2025-03-02 06:08:44,Restaurante,cartao_credito,Santos de Correia,0
-92522,3172.13,2025-02-25 10:34:03,Compra Online,pix,Cassiano,1
-45457,1897.35,2025-03-13 06:18:16,Eletrônicos,cartao_credito,Silveira,0
-53516,434.16,2025-03-08 23:27:43,Viagem,boleto,da Rocha,0
-88898,2616.62,2025-03-01 14:08:00,Supermercado,cartao_credito,Teixeira da Mata,0
-98752,2650.91,2025-03-04 00:06:50,Viagem,pix,Cardoso das Pedras,0
-37490,1983.33,2025-02-22 02:19:00,Eletrônicos,pix,Pinto do Norte,0
-93128,4600.95,2025-02-27 19:56:52,Viagem,pix,Souza,0
-83577,3882.86,2025-03-09 19:30:54,Viagem,cartao_credito,Casa Grande,0
-68828,3873.51,2025-03-01 04:31:17,Restaurante,cartao_credito,Silveira,0
-99094,4767.68,2025-02-25 12:13:09,Viagem,boleto,da Paz,0
-36662,4059.91,2025-03-18 21:57:36,Compra Online,pix,Camargo,1
-74127,3023.8,2025-03-05 23:23:11,Restaurante,boleto,Caldeira,0
-24110,1212.95,2025-03-12 10:45:26,Supermercado,cartao_debito,Pastor de Minas,0
-78676,3528.82,2025-02-25 15:20:18,Eletrônicos,cartao_credito,Souza do Sul,0
-21684,747.35,2025-03-06 08:05:43,Compra Online,cartao_credito,Moraes,0
-77176,750.31,2025-03-03 22:13:15,Compra Online,cartao_credito,Pinto,0
-87517,2597.44,2025-02-23 00:04:12,Compra Online,pix,da Costa,0
-65021,4849.52,2025-03-06 12:14:52,Compra Online,boleto,Montenegro,0
-40296,3901.93,2025-03-07 10:48:25,Eletrônicos,cartao_debito,Aragão do Galho,0
-69595,3627.94,2025-02-27 17:46:55,Compra Online,pix,das Neves,0
-29975,1503.04,2025-02-24 09:49:02,Eletrônicos,cartao_debito,Silva,0
-43806,3695.18,2025-03-05 18:25:25,Restaurante,cartao_debito,Brito,0
-59115,3374.48,2025-03-16 16:36:37,Viagem,cartao_credito,Martins de Minas,0
-34925,4438.83,2025-02-23 19:24:16,Eletrônicos,cartao_debito,Novais,0
-64920,4064.08,2025-03-18 10:00:20,Restaurante,boleto,Nunes de das Neves,0
-59689,2162.42,2025-02-26 11:56:00,Restaurante,pix,da Mota,0
-54634,1936.96,2025-03-06 13:13:17,Restaurante,boleto,Garcia Paulista,0
-23552,3524.3,2025-03-18 23:01:30,Eletrônicos,pix,Vargas de Minas,0
-87009,482.29,2025-03-10 06:44:42,Eletrônicos,cartao_credito,Castro de Minas,0
-60942,971.85,2025-02-22 18:54:04,Restaurante,pix,Viana,0
-35476,2196.47,2025-02-23 19:27:52,Supermercado,boleto,Monteiro das Flores,0
-41709,593.9,2025-03-11 16:48:07,Restaurante,pix,Costa,0
-39416,1624.85,2025-03-18 13:05:37,Viagem,pix,Mendes,0
-19930,2950.09,2025-03-10 04:26:06,Compra Online,pix,Pires do Norte,0
-65252,3123.01,2025-03-05 23:28:16,Compra Online,cartao_debito,das Neves Verde,0
-97006,173.44,2025-03-11 08:54:44,Viagem,cartao_credito,Montenegro Paulista,0
-62396,4962.58,2025-02-26 16:39:17,Compra Online,cartao_debito,Sousa,0
-52193,4493.36,2025-03-06 20:49:30,Eletrônicos,pix,Cardoso Paulista,0
-12132,590.94,2025-02-24 05:50:57,Compra Online,pix,Pereira de Cardoso,0
-70973,76.06,2025-03-18 11:37:47,Eletrônicos,cartao_debito,Pinto de Barros,0
-48815,4490.39,2025-03-05 20:19:42,Compra Online,pix,Vasconcelos,1
-70587,3471.16,2025-03-06 21:27:57,Compra Online,pix,Brito,1
-67186,1563.07,2025-02-23 01:51:32,Restaurante,cartao_credito,Lopes do Galho,0
-40418,3269.88,2025-02-23 00:28:33,Compra Online,pix,Mendonça,1
-33331,4830.2,2025-03-14 01:40:40,Compra Online,pix,Moreira,1
-30338,1364.32,2025-03-03 23:51:40,Eletrônicos,cartao_credito,Sousa de Vargas,0
-83781,3971.03,2025-03-08 21:53:55,Viagem,boleto,Cirino,0
-58640,4564.92,2025-02-28 18:58:19,Viagem,boleto,Freitas de Porto,0
-17169,1951.38,2025-03-20 16:46:41,Viagem,pix,Marques do Sul,0
-14079,3107.78,2025-03-15 16:51:58,Compra Online,cartao_credito,Cavalcanti Grande,0
-68612,4236.97,2025-03-06 11:43:19,Compra Online,cartao_debito,Azevedo de Freitas,0
-59986,2061.39,2025-02-27 07:40:55,Restaurante,boleto,da Paz,0
-63161,1493.76,2025-02-23 15:16:26,Supermercado,boleto,Araújo Alegre,0
-66060,880.25,2025-02-26 04:40:15,Eletrônicos,boleto,Pastor do Oeste,0
-56354,3229.23,2025-03-04 20:18:37,Compra Online,cartao_credito,Novais,0
-66795,2146.39,2025-02-22 08:25:05,Viagem,pix,da Paz,0
-95347,4389.32,2025-03-13 18:12:32,Compra Online,pix,Pereira,1
-94803,4479.43,2025-02-27 06:54:22,Compra Online,pix,Castro de Machado,1
-53079,2672.89,2025-03-01 07:00:36,Eletrônicos,boleto,da Conceição,0
-52691,1228.1,2025-03-01 04:10:00,Supermercado,cartao_debito,Nascimento de Goiás,0
-10809,1036.76,2025-02-28 21:30:45,Restaurante,cartao_credito,Moreira,0
-71692,4941.63,2025-03-10 12:37:16,Eletrônicos,cartao_debito,Pinto,0
-72592,186.95,2025-03-10 23:54:33,Supermercado,pix,Almeida,0
-72903,1900.41,2025-03-09 03:58:09,Compra Online,cartao_debito,Araújo do Campo,0
-66341,4146.81,2025-03-09 09:07:20,Compra Online,pix,Nunes,1
-48270,1764.39,2025-03-19 12:23:37,Viagem,boleto,Ribeiro,0
-49987,4435.71,2025-02-23 14:32:14,Viagem,boleto,Cunha da Prata,0
-77632,2038.34,2025-02-25 19:05:59,Compra Online,pix,Rezende,0
-28016,2179.3,2025-03-15 22:04:41,Restaurante,boleto,Abreu,0
-53021,4506.67,2025-03-15 10:23:47,Restaurante,boleto,Ribeiro,0
-69982,1359.87,2025-03-10 17:19:29,Supermercado,pix,Lopes de Minas,0
-14093,2095.44,2025-03-09 08:06:24,Viagem,cartao_credito,Santos,0
-78345,3966.59,2025-03-03 13:08:47,Compra Online,pix,Pacheco das Pedras,1
-16098,1620.48,2025-03-17 14:14:01,Supermercado,cartao_debito,Rios de Ribeiro,0
-87458,46.82,2025-03-08 18:24:15,Supermercado,cartao_debito,Camargo da Serra,0
-27760,4492.65,2025-03-18 21:39:12,Compra Online,pix,Sá de Araújo,0
-39665,3242.46,2025-02-28 06:09:38,Supermercado,cartao_credito,Rezende,0
-28424,3029.62,2025-03-22 05:07:27,Eletrônicos,cartao_debito,Nascimento,0
-40083,4545.51,2025-03-03 02:42:26,Viagem,pix,Guerra Paulista,0
-46917,4484.16,2025-03-08 03:33:15,Supermercado,pix,Lima de Goiás,0
-65850,4782.35,2025-02-28 11:16:29,Eletrônicos,cartao_debito,Montenegro da Mata,0
-47908,3907.43,2025-02-23 06:35:09,Supermercado,pix,Araújo da Serra,0
-89388,602.78,2025-03-06 18:33:16,Restaurante,pix,Barbosa,0
-62179,4696.9,2025-03-13 08:59:32,Eletrônicos,cartao_credito,Pinto da Praia,0
-35615,1387.51,2025-03-06 12:23:05,Supermercado,pix,Fonseca do Sul,0
-33686,375.53,2025-03-05 06:07:26,Supermercado,boleto,Borges Grande,0
-15054,3983.68,2025-02-23 11:45:34,Compra Online,pix,Leão,1
-85790,1411.64,2025-03-15 21:57:59,Eletrônicos,cartao_credito,Mendonça Grande,0
-25955,3123.91,2025-03-04 00:13:28,Viagem,cartao_credito,Sousa,0
-70196,746.62,2025-03-12 11:00:42,Restaurante,pix,Nunes de Andrade,0
-42431,4726.06,2025-03-17 00:02:08,Compra Online,pix,Marques do Campo,1
-90311,4064.04,2025-02-22 21:34:57,Compra Online,pix,Nunes,1
-67270,3651.84,2025-03-14 11:55:56,Supermercado,cartao_debito,Machado da Praia,0
-67091,2191.33,2025-03-01 22:58:57,Viagem,cartao_credito,Costa,0
-20234,3570.63,2025-02-20 16:44:03,Compra Online,pix,Gonçalves do Amparo,1
-57306,4987.97,2025-03-16 14:14:15,Restaurante,boleto,Vasconcelos de da Costa,0
-47406,1483.99,2025-02-20 23:57:44,Compra Online,boleto,Novais do Amparo,0
-50855,3384.72,2025-03-16 01:18:15,Eletrônicos,boleto,Siqueira,0
-96259,4202.64,2025-03-12 09:26:02,Compra Online,pix,Sousa,1
-29936,4873.76,2025-03-17 03:40:57,Eletrônicos,boleto,Moraes do Norte,0
-78985,2880.18,2025-03-05 06:09:31,Compra Online,cartao_debito,da Cunha do Oeste,0
-22781,1914.83,2025-02-23 02:48:28,Eletrônicos,cartao_credito,Moraes do Campo,0
-58314,173.82,2025-03-15 04:47:38,Compra Online,cartao_credito,Leão do Galho,0
-57105,2335.62,2025-02-22 18:05:13,Viagem,cartao_debito,Rios,0
-91839,1252.99,2025-02-26 03:26:41,Viagem,boleto,da Conceição de Peixoto,0
-28565,3029.97,2025-03-16 21:09:31,Compra Online,pix,Aparecida,1
-61565,370.66,2025-03-06 02:45:49,Viagem,pix,Nascimento,0
-37305,1733.67,2025-03-19 23:39:09,Supermercado,boleto,Cardoso,0
-61824,894.47,2025-03-09 05:37:02,Eletrônicos,pix,Nascimento das Pedras,0
-38008,4722.33,2025-03-15 13:57:20,Compra Online,pix,Siqueira da Prata,0
-47344,4444.6,2025-03-09 10:06:50,Restaurante,cartao_debito,Aparecida,0
-66587,2369.77,2025-03-12 21:22:11,Restaurante,pix,Martins,0
-38127,1703.01,2025-02-28 23:58:26,Viagem,boleto,Teixeira,0
-43285,627.56,2025-03-04 22:47:26,Viagem,cartao_debito,da Paz da Mata,0
-29321,2721.25,2025-02-22 15:41:39,Viagem,boleto,Borges Grande,0
-11560,3487.33,2025-03-03 03:49:28,Compra Online,cartao_credito,Martins do Sul,0
-40536,2899.54,2025-03-08 15:57:04,Viagem,cartao_debito,Melo de Goiás,0
-62433,2462.54,2025-02-22 09:10:20,Restaurante,pix,Cassiano Grande,0
-94122,1978.61,2025-03-12 22:46:03,Viagem,boleto,Silva das Flores,0
-45129,4944.99,2025-02-26 02:55:39,Viagem,boleto,Santos dos Dourados,0
-14935,896.27,2025-02-24 13:49:38,Compra Online,cartao_debito,Rios,0
-76017,959.93,2025-03-04 00:31:04,Supermercado,cartao_credito,Vieira,0
-55393,912.06,2025-03-12 22:22:39,Compra Online,cartao_debito,Ramos,0
-52714,2264.56,2025-03-02 16:45:07,Supermercado,cartao_debito,Camargo,0
-35081,4715.74,2025-03-08 03:22:10,Eletrônicos,cartao_debito,Duarte da Praia,0
-68071,2287.31,2025-03-12 18:38:44,Restaurante,cartao_debito,Vieira,0
-57708,1248.96,2025-03-08 11:52:17,Eletrônicos,boleto,Borges Verde,0
-53231,846.06,2025-03-19 07:19:56,Supermercado,cartao_debito,Pacheco,0
-18798,4715.81,2025-02-23 20:34:04,Eletrônicos,cartao_debito,Casa Grande de Leão,0
-23064,4563.29,2025-03-19 10:23:21,Compra Online,pix,Carvalho de Duarte,1
-73260,3999.82,2025-03-15 04:19:02,Compra Online,pix,Monteiro,1
-39287,4295.43,2025-03-03 01:41:58,Supermercado,boleto,Souza do Campo,0
-78183,4348.65,2025-03-06 02:08:24,Supermercado,boleto,Araújo,0
-40976,4284.27,2025-03-16 00:42:13,Restaurante,cartao_debito,Monteiro,0
-73984,1990.92,2025-02-25 01:06:33,Supermercado,cartao_debito,Pereira,0
-15098,3287.53,2025-03-02 17:39:11,Compra Online,pix,Alves de Duarte,1
-66937,4730.11,2025-02-24 08:49:18,Eletrônicos,pix,Lima do Galho,0
-11617,2405.67,2025-02-28 14:34:16,Eletrônicos,cartao_debito,Vargas do Amparo,0
-40323,971.27,2025-03-15 09:17:01,Viagem,cartao_credito,da Rosa,0
-90210,476.64,2025-03-04 13:05:20,Compra Online,cartao_credito,Porto Paulista,0
-46749,3093.78,2025-03-19 11:23:20,Restaurante,cartao_debito,Garcia do Galho,0
-92897,1667.9,2025-03-14 22:08:36,Restaurante,pix,Caldeira,0
-66793,743.28,2025-03-04 21:39:46,Eletrônicos,pix,Ramos Grande,0
-13082,1388.41,2025-03-07 21:27:53,Supermercado,cartao_debito,Correia Alegre,0
-97679,3658.06,2025-03-05 03:39:49,Viagem,boleto,Silva,0
-18573,1354.61,2025-03-13 15:40:24,Supermercado,boleto,Silva de Rocha,0
-98039,2498.62,2025-03-02 12:33:47,Compra Online,pix,da Luz Alegre,0
-42611,3265.0,2025-03-01 18:54:32,Supermercado,cartao_credito,Albuquerque,0
-32994,1604.27,2025-03-12 14:48:48,Compra Online,cartao_credito,Andrade,0
-62864,3425.35,2025-03-09 16:41:12,Viagem,boleto,Pinto,0
-71053,4962.3,2025-03-10 06:34:16,Compra Online,pix,Almeida,1
-56193,2439.2,2025-03-01 08:42:02,Viagem,cartao_credito,Câmara,0
-73468,633.45,2025-02-25 15:46:02,Eletrônicos,boleto,Pimenta de Ferreira,0
-44474,1213.51,2025-03-18 05:14:23,Eletrônicos,pix,da Mota de Alves,0
-87037,494.82,2025-03-16 06:24:01,Compra Online,pix,Cunha,0
-72733,2482.06,2025-03-03 01:58:48,Eletrônicos,cartao_debito,Martins Grande,0
-30075,4854.48,2025-02-25 19:24:40,Viagem,pix,Ribeiro,0
-49542,4150.7,2025-02-22 04:39:53,Viagem,cartao_debito,Azevedo de Mendes,0
-29050,3199.68,2025-03-09 06:55:54,Viagem,cartao_debito,Montenegro,0
-96366,4534.55,2025-03-09 20:58:03,Compra Online,pix,Cassiano da Praia,1
-15239,727.39,2025-03-18 23:24:10,Viagem,boleto,Martins,0
-82263,2170.47,2025-03-05 04:11:54,Compra Online,cartao_debito,da Mota do Sul,0
-74337,4630.56,2025-03-14 06:24:53,Compra Online,pix,Pinto,1
-43495,871.21,2025-03-20 13:36:08,Supermercado,cartao_debito,Sá da Praia,0
-30414,2570.33,2025-02-28 18:47:57,Compra Online,cartao_debito,das Neves Grande,0
-80239,2201.31,2025-02-25 09:41:01,Restaurante,cartao_debito,da Conceição,0
-24716,1821.28,2025-03-08 10:34:45,Restaurante,pix,Câmara de Cavalcante,0
-18736,3020.37,2025-02-22 10:30:53,Viagem,cartao_credito,da Cruz,0
-16483,1640.42,2025-03-13 18:26:06,Eletrônicos,cartao_credito,Cardoso,0
-79243,4423.76,2025-03-04 21:49:16,Compra Online,pix,Porto do Galho,1
-32263,4357.98,2025-03-13 15:49:56,Supermercado,cartao_credito,Sá de Aparecida,0
-86453,3133.52,2025-03-22 11:09:52,Compra Online,cartao_credito,Nunes de Goiás,0
-76261,4749.84,2025-02-28 10:04:09,Compra Online,cartao_debito,da Costa,0
-45222,4825.3,2025-03-21 23:05:10,Compra Online,pix,Lopes de Martins,1
-96858,4717.93,2025-02-28 21:22:30,Restaurante,pix,Ferreira das Pedras,0
-41671,2266.96,2025-03-06 22:57:35,Supermercado,cartao_debito,Sá,0
-43965,1571.15,2025-03-03 20:08:23,Restaurante,cartao_debito,Mendes,0
-89544,4141.16,2025-03-08 04:20:39,Eletrônicos,boleto,Nogueira do Campo,0
-56431,4803.58,2025-02-23 06:26:14,Eletrônicos,cartao_debito,Cassiano dos Dourados,0
-76266,1530.14,2025-03-13 21:16:42,Eletrônicos,cartao_credito,Sá,0
-65480,4377.24,2025-03-16 03:16:14,Viagem,cartao_credito,Brito,0
-18155,4729.41,2025-02-22 06:58:22,Restaurante,cartao_debito,Sales,0
-67115,185.85,2025-03-22 11:02:46,Restaurante,boleto,Almeida,0
-89688,647.12,2025-03-21 15:38:20,Supermercado,pix,Pastor,0
-84344,4362.58,2025-02-24 04:27:17,Viagem,cartao_debito,das Neves,0
-20041,4817.87,2025-03-12 03:03:10,Supermercado,cartao_debito,Ferreira de Campos,0
-51977,521.0,2025-02-24 23:03:26,Eletrônicos,cartao_credito,Machado Paulista,0
-32922,3503.69,2025-03-13 11:44:34,Viagem,pix,Sales da Prata,0
-56585,3215.26,2025-03-02 03:40:41,Compra Online,pix,das Neves de Moreira,1
-97578,997.96,2025-03-22 01:30:48,Supermercado,cartao_debito,Barbosa,0
-51741,1854.98,2025-03-02 22:16:59,Viagem,cartao_credito,Camargo do Sul,0
-33892,444.08,2025-03-08 03:48:50,Compra Online,boleto,Pacheco,0
-74976,4020.82,2025-03-12 16:07:58,Compra Online,pix,Martins do Oeste,1
-69970,700.37,2025-03-15 05:35:14,Restaurante,cartao_credito,Macedo,0
-77620,3717.46,2025-03-05 18:19:10,Compra Online,pix,Freitas,0
-41423,3676.25,2025-03-01 22:47:59,Compra Online,pix,Marques,1
-86319,265.2,2025-03-12 08:41:18,Eletrônicos,cartao_debito,Macedo,0
-25910,851.02,2025-03-12 09:12:33,Restaurante,cartao_debito,Fernandes,0
-65757,4329.09,2025-03-09 21:53:05,Supermercado,cartao_credito,Jesus do Oeste,0
-50922,2772.05,2025-03-19 12:08:37,Supermercado,pix,Costela,0
-37859,3284.04,2025-03-12 18:46:25,Viagem,pix,Macedo,0
-46897,2737.64,2025-03-01 07:32:07,Compra Online,boleto,Machado de Goiás,0
-63369,2121.23,2025-03-12 03:03:35,Compra Online,pix,Alves,0
-46229,3466.21,2025-02-28 18:04:57,Restaurante,cartao_credito,Ramos do Oeste,0
-42498,2073.07,2025-02-27 01:22:10,Compra Online,cartao_debito,Novais,0
-26527,1204.65,2025-02-28 01:34:39,Restaurante,cartao_debito,Andrade de Minas,0
-91091,3172.14,2025-03-18 18:24:33,Compra Online,pix,Pinto de Goiás,1
-87356,3379.32,2025-03-15 01:19:25,Supermercado,boleto,Vargas de Mendonça,0
-89829,2179.42,2025-03-16 13:32:03,Compra Online,boleto,Gomes da Prata,0
-10675,3156.03,2025-02-21 01:41:50,Supermercado,pix,da Conceição de Cirino,0
-34209,4738.71,2025-03-08 06:59:02,Restaurante,pix,Mendonça,0
-23300,4717.68,2025-02-26 06:36:29,Viagem,boleto,Fonseca,0
-80335,1807.82,2025-02-21 17:32:39,Compra Online,pix,Souza,0
-57503,4056.31,2025-02-26 00:41:45,Viagem,boleto,da Rosa,0
-24363,425.8,2025-03-10 02:06:11,Supermercado,boleto,Monteiro,0
-95147,4707.78,2025-03-10 17:01:08,Viagem,cartao_credito,Cavalcanti de Andrade,0
-55944,2711.27,2025-03-03 08:14:13,Supermercado,cartao_debito,Guerra do Amparo,0
-40698,60.75,2025-03-16 13:36:17,Compra Online,cartao_credito,Rios da Mata,0
-29179,4558.09,2025-03-17 03:20:11,Supermercado,cartao_credito,Farias de Machado,0
-86663,3437.53,2025-03-15 05:59:05,Compra Online,boleto,da Paz,0
-51859,3887.27,2025-03-01 20:33:55,Compra Online,pix,Borges,1
-34377,2609.31,2025-03-20 20:03:39,Compra Online,cartao_debito,Azevedo de Gonçalves,0
-34438,3179.52,2025-02-22 19:08:16,Eletrônicos,pix,Farias,0
-37767,3371.02,2025-02-22 09:52:01,Compra Online,cartao_credito,Siqueira,0
-18604,1954.24,2025-03-05 03:47:44,Eletrônicos,cartao_credito,Novaes,0
-16948,1913.23,2025-03-05 02:54:03,Viagem,cartao_credito,da Conceição,0
-34775,4838.12,2025-03-10 08:43:32,Restaurante,pix,Alves de Duarte,0
-19320,1835.35,2025-03-01 04:06:57,Supermercado,pix,Novaes,0
-60301,4976.61,2025-02-28 14:42:20,Compra Online,pix,Gomes,1
-63263,4181.25,2025-03-08 01:55:48,Viagem,cartao_credito,Freitas,0
-94329,2431.92,2025-02-28 17:17:01,Viagem,cartao_credito,Machado,0
-86207,4184.13,2025-03-16 19:07:05,Compra Online,pix,Fernandes,1
-27944,777.04,2025-03-21 17:59:25,Viagem,pix,da Cruz,0
-42949,2223.08,2025-03-10 00:09:49,Eletrônicos,cartao_credito,da Mota,0
-83206,2908.37,2025-03-02 15:13:34,Restaurante,pix,Cavalcante de Vargas,0
-80921,1226.11,2025-03-16 10:01:12,Eletrônicos,boleto,Lopes do Campo,0
-48937,4283.84,2025-03-14 15:41:06,Eletrônicos,boleto,Lopes,0
-83906,1518.39,2025-03-04 21:53:33,Restaurante,cartao_credito,Sousa,0
-28320,2756.15,2025-03-04 23:35:58,Compra Online,pix,Fonseca dos Dourados,0
-97712,3693.09,2025-02-28 13:17:27,Restaurante,boleto,Albuquerque da Praia,0
-48223,3191.63,2025-03-04 03:54:07,Supermercado,pix,Teixeira Paulista,0
-20236,3359.07,2025-03-16 09:06:51,Eletrônicos,cartao_credito,da Rocha,0
-40372,2823.35,2025-03-03 19:02:27,Supermercado,boleto,Moraes Verde,0
-73081,2608.5,2025-03-06 13:53:31,Viagem,cartao_credito,Ribeiro do Galho,0
-45204,2279.71,2025-02-24 04:41:19,Supermercado,boleto,da Rosa,0
-48197,3781.71,2025-02-27 20:02:52,Viagem,boleto,das Neves Verde,0
-43333,362.96,2025-03-14 17:15:22,Compra Online,cartao_credito,Melo,0
-54599,3741.34,2025-02-28 04:47:31,Compra Online,pix,Souza de Goiás,1
-95755,4429.96,2025-03-07 20:40:22,Restaurante,cartao_debito,Macedo dos Dourados,0
-82792,4165.74,2025-03-05 05:11:43,Compra Online,pix,Cassiano,1
-93936,3871.67,2025-03-20 05:15:05,Compra Online,pix,Monteiro,1
-79494,3310.92,2025-03-09 18:38:53,Compra Online,pix,Aragão de Mendonça,1
-20113,1817.04,2025-02-24 12:15:22,Compra Online,cartao_debito,Vargas,0
-79483,4194.42,2025-03-02 12:12:58,Supermercado,cartao_debito,Camargo,0
-46442,3430.67,2025-02-22 06:35:26,Compra Online,pix,Cavalcanti de Goiás,1
-47097,3179.88,2025-02-24 08:01:51,Supermercado,pix,Peixoto Alegre,0
-87823,4082.73,2025-03-14 02:19:46,Viagem,pix,Martins,0
-76460,4716.98,2025-02-24 01:29:13,Restaurante,cartao_credito,da Conceição Alegre,0
-33270,207.21,2025-03-19 16:28:14,Supermercado,cartao_debito,Novais do Galho,0
-96655,1879.53,2025-03-14 16:20:30,Restaurante,boleto,Lopes,0
-29591,651.78,2025-03-16 04:44:22,Viagem,boleto,Gonçalves,0
-32035,4146.23,2025-03-02 04:05:32,Compra Online,pix,Nascimento do Campo,1
-24744,2470.23,2025-02-23 18:07:29,Compra Online,cartao_credito,Câmara de Barbosa,0
-67710,2088.93,2025-02-25 22:48:36,Viagem,cartao_debito,da Rocha da Prata,0
-82096,4123.42,2025-03-02 08:41:18,Viagem,boleto,Machado,0
-21151,3570.95,2025-03-04 11:51:22,Supermercado,pix,Pacheco de Goiás,0
+70849,2027.58,2025-02-28 11:12:31,Eletrônicos,cartao_credito,Azevedo de Sampaio,0
+43112,4829.72,2025-03-20 08:12:00,Eletrônicos,cartao_debito,Melo,0
+16254,2742.88,2025-02-23 11:13:07,Restaurante,cartao_credito,Moreira,1
+94402,696.68,2025-02-23 22:06:05,Eletrônicos,cartao_debito,Vasconcelos,1
+61456,817.76,2025-03-03 05:05:09,Farmacia,cartao_credito,Cardoso,0
+41783,3810.26,2025-02-26 18:58:24,Farmacia,pix,Rios do Amparo,1
+96821,325.63,2025-03-17 15:46:30,PetShop,boleto,Nascimento,1
+20403,160.04,2025-02-25 00:16:06,PetShop,boleto,da Rosa,1
+34377,1439.23,2025-03-15 07:18:59,Restaurante,cartao_credito,Gomes de Aragão,1
+51857,1318.73,2025-02-21 03:24:19,Farmacia,boleto,da Cunha,0
+49711,1249.1,2025-03-17 08:03:14,Eletrônicos,pix,Macedo,0
+76663,4153.91,2025-02-20 17:54:27,Farmacia,pix,Rocha,1
+20292,3487.68,2025-03-22 00:37:22,Eletrônicos,cartao_credito,Barbosa do Norte,0
+55716,480.33,2025-03-02 10:07:58,Eletrônicos,cartao_credito,Campos,0
+85194,4212.51,2025-02-24 20:26:19,Viagem,bitcoin,Abreu,1
+36680,2881.99,2025-03-07 00:40:59,Supermercado,cartao_credito,Viana,0
+13008,63.05,2025-03-06 02:44:07,PetShop,boleto,Nascimento do Galho,1
+53138,180.3,2025-03-11 07:22:41,PetShop,boleto,Sousa,0
+12679,4113.45,2025-03-08 20:30:01,Compra Online,cartao_credito,Montenegro,0
+50588,2266.5,2025-03-10 14:30:42,Farmacia,cartao_debito,Pires,0
+57505,1838.06,2025-03-12 14:45:20,Eletrônicos,cartao_credito,Pires,0
+84728,700.4,2025-03-11 03:32:21,Compra Online,paypal,da Costa,0
+47536,1602.06,2025-03-11 09:57:57,Restaurante,cartao_credito,Peixoto do Oeste,1
+25584,2579.15,2025-02-27 20:38:56,Eletrônicos,cartao_debito,da Mata de Nogueira,1
+81807,2143.55,2025-02-20 17:59:47,Eletrônicos,cartao_debito,Borges de Barbosa,0
+86816,4402.84,2025-02-23 08:44:28,Eletrônicos,cartao_debito,Câmara,1
+10630,1031.08,2025-03-17 17:00:21,Farmacia,cartao_debito,Souza de Rocha,0
+88898,2015.85,2025-03-10 04:15:09,Compra Online,boleto,Duarte das Pedras,0
+60778,412.09,2025-03-03 14:57:10,Farmacia,cartao_debito,Peixoto,0
+32579,4788.91,2025-03-15 18:09:18,Farmacia,cartao_credito,Araújo,0
+47363,597.0,2025-03-11 18:34:36,Eletrônicos,boleto,Barbosa,0
+67720,1611.81,2025-03-15 18:42:12,Supermercado,cartao_debito,Costa,0
+66909,2217.16,2025-02-26 10:39:02,PetShop,paypal,das Neves,0
+65515,1289.07,2025-02-28 13:36:49,Eletrônicos,bitcoin,Garcia,0
+66170,1313.03,2025-03-15 04:26:27,Restaurante,bitcoin,Moreira,0
+38508,1470.42,2025-03-08 21:39:08,Farmacia,pix,Vieira,1
+99058,4659.15,2025-03-21 02:38:32,Farmacia,cartao_credito,da Rocha,0
+62107,164.27,2025-03-16 05:21:42,PetShop,boleto,Jesus,1
+76027,2035.82,2025-03-07 03:30:17,Compra Online,boleto,Novais Verde,0
+17431,1007.35,2025-03-09 02:08:13,Compra Online,cartao_debito,da Rocha,0
+33319,3508.01,2025-03-15 00:45:42,Farmacia,paypal,Duarte,0
+57179,4799.18,2025-03-15 05:27:33,Viagem,bitcoin,Vieira,1
+73093,217.96,2025-03-04 01:16:24,Viagem,cartao_credito,da Cruz,0
+45333,3332.38,2025-03-17 23:25:56,Farmacia,cartao_credito,da Mata de Jesus,0
+21066,2219.29,2025-03-15 04:29:50,Viagem,cartao_debito,Sampaio,0
+80903,2786.23,2025-02-28 01:58:28,Farmacia,cartao_credito,Cirino de Araújo,0
+43609,3118.91,2025-02-24 10:14:17,Compra Online,cartao_debito,Azevedo do Oeste,0
+60647,3778.82,2025-02-26 11:31:06,Compra Online,paypal,da Mota das Flores,0
+98029,2392.48,2025-03-18 19:22:31,Compra Online,cartao_debito,da Mata,0
+64105,2800.87,2025-03-20 02:52:47,Farmacia,pix,Pimenta Paulista,1
+80605,3955.4,2025-03-11 09:29:30,PetShop,boleto,Sampaio,0
+29950,2725.13,2025-03-12 05:49:20,Eletrônicos,cartao_credito,Machado,0
+69181,461.44,2025-02-24 09:31:33,PetShop,cartao_debito,Vieira de Duarte,0
+21536,1133.09,2025-03-01 02:10:50,Restaurante,cartao_credito,Rios de Pastor,1
+27306,753.62,2025-02-28 12:10:19,Farmacia,cartao_credito,Gomes do Oeste,0
+80468,2223.92,2025-03-14 10:13:04,Eletrônicos,cartao_debito,Rezende,0
+54077,3917.24,2025-03-09 19:47:18,Compra Online,cartao_credito,Pastor da Prata,1
+35529,1593.05,2025-03-19 11:37:03,Viagem,cartao_credito,Souza,0
+15814,4590.25,2025-03-03 14:26:33,Compra Online,bitcoin,Cunha,0
+16762,2959.3,2025-03-22 07:41:46,Compra Online,cartao_credito,Teixeira Alegre,0
+87013,3094.7,2025-03-05 16:01:08,Eletrônicos,cartao_debito,Nascimento,0
+74841,4150.09,2025-03-18 02:30:24,Eletrônicos,paypal,Viana,0
+40640,4662.4,2025-02-23 19:02:47,PetShop,cartao_debito,Porto,0
+49305,3356.81,2025-03-19 10:39:09,PetShop,cartao_credito,Moraes de da Cunha,0
+33134,4718.7,2025-03-08 01:18:08,Eletrônicos,cartao_debito,Alves Alegre,1
+22922,300.11,2025-03-20 02:55:22,Farmacia,cartao_debito,Gomes das Flores,0
+13626,4685.18,2025-02-24 09:25:20,Eletrônicos,cartao_debito,Albuquerque,0
+47351,4818.92,2025-02-27 20:29:36,Eletrônicos,boleto,Viana,0
+16299,183.05,2025-03-15 20:46:00,PetShop,boleto,da Rosa de Azevedo,1
+68106,3746.03,2025-02-24 10:30:21,Farmacia,boleto,Azevedo,0
+11533,2807.03,2025-03-22 10:01:19,Supermercado,boleto,Novais Paulista,0
+27399,2423.33,2025-02-28 10:52:46,Viagem,boleto,Pires do Galho,0
+36573,2001.94,2025-02-24 04:46:19,Compra Online,paypal,da Costa,0
+37412,3177.61,2025-03-04 10:03:57,Compra Online,cartao_credito,da Rocha do Campo,1
+96733,483.56,2025-03-22 09:22:50,Farmacia,pix,Vargas de Leão,1
+37767,729.45,2025-03-02 15:02:21,Eletrônicos,boleto,Sampaio,0
+22206,4951.3,2025-03-12 00:45:49,Compra Online,cartao_debito,Marques do Sul,0
+75050,4567.88,2025-03-11 11:46:23,Farmacia,boleto,Porto,0
+86395,3043.47,2025-03-13 15:16:05,Eletrônicos,cartao_debito,Aparecida,0
+64769,4941.11,2025-03-10 07:20:56,Eletrônicos,boleto,Sá,1
+63519,3104.63,2025-03-21 21:01:28,Compra Online,cartao_credito,da Paz das Flores,1
+63065,4404.35,2025-02-25 02:38:45,PetShop,pix,Castro do Campo,1
+18700,4605.44,2025-03-13 11:19:26,Compra Online,cartao_credito,Costa de Fonseca,1
+47118,3185.62,2025-03-20 11:25:39,Restaurante,cartao_credito,Garcia da Prata,0
+81257,4039.85,2025-02-22 20:03:59,Compra Online,cartao_debito,Ferreira da Mata,0
+71836,549.81,2025-03-13 16:42:17,Eletrônicos,cartao_debito,Oliveira de Freitas,0
+37095,4590.24,2025-02-21 00:50:52,Supermercado,cartao_debito,da Cruz de Rocha,0
+17747,4244.42,2025-02-21 08:32:33,Viagem,bitcoin,da Cruz das Flores,1
+77514,2892.93,2025-02-26 14:15:09,Restaurante,cartao_credito,Almeida,1
+57393,3922.71,2025-03-20 12:51:09,Supermercado,cartao_credito,Cirino,0
+19847,4778.31,2025-03-18 09:35:33,Viagem,bitcoin,Casa Grande,1
+80347,3888.74,2025-03-08 11:48:25,Viagem,bitcoin,Abreu de da Conceição,1
+68489,3582.3,2025-03-13 09:15:57,Farmacia,pix,da Costa das Pedras,1
+73748,3633.93,2025-03-01 08:21:27,Compra Online,cartao_credito,Fernandes de Souza,1
+12353,3712.77,2025-03-01 12:17:35,Eletrônicos,boleto,Peixoto,1
+25513,1171.23,2025-03-02 16:46:43,Supermercado,boleto,Cassiano do Campo,0
+64756,3662.32,2025-02-21 00:04:36,PetShop,cartao_debito,Rezende,0
+87991,2628.33,2025-03-10 06:55:46,Viagem,cartao_credito,da Costa,0
+80953,1542.46,2025-02-22 22:54:48,Restaurante,bitcoin,Sampaio da Mata,0
+36782,3293.96,2025-02-27 08:42:34,Eletrônicos,boleto,Cardoso de Peixoto,1
+83596,2365.2,2025-03-19 02:19:15,Farmacia,cartao_credito,Fernandes,1
+23997,3830.97,2025-03-17 20:51:19,Viagem,cartao_debito,Gomes,0
+63221,440.46,2025-02-27 19:24:24,PetShop,boleto,Cunha,1
+83732,4379.32,2025-03-22 04:51:48,Farmacia,cartao_debito,Gomes,0
+38996,311.37,2025-03-12 16:15:20,Compra Online,boleto,Gonçalves da Mata,0
+48033,987.03,2025-03-20 03:30:46,Restaurante,cartao_credito,Azevedo,1
+86490,80.88,2025-03-14 01:56:40,Viagem,cartao_credito,Garcia,0
+44066,2771.11,2025-03-21 09:15:55,Supermercado,boleto,Sales do Sul,0
+86621,1863.7,2025-03-17 13:24:54,PetShop,pix,Barros da Prata,1
+18025,437.66,2025-02-27 12:33:28,Restaurante,cartao_credito,Viana de Macedo,0
+87983,4429.18,2025-03-03 15:14:01,Farmacia,cartao_credito,Melo do Campo,0
+68596,3448.18,2025-03-21 02:11:26,Supermercado,paypal,da Cruz,0
+65594,1836.88,2025-03-04 23:54:26,Farmacia,pix,Cavalcanti,1
+78149,269.26,2025-02-27 14:50:04,Eletrônicos,boleto,da Mata de Gomes,0
+90961,3708.9,2025-02-22 14:35:17,Eletrônicos,boleto,Guerra,1
+86015,187.16,2025-03-12 05:31:31,Supermercado,boleto,Lima do Amparo,0
+65707,3568.24,2025-03-18 05:40:12,Viagem,boleto,Cardoso,0
+70558,4460.39,2025-03-19 01:18:09,Eletrônicos,cartao_debito,Cassiano da Praia,0
+54826,4631.98,2025-03-04 02:53:53,Eletrônicos,boleto,Moraes,1
+48058,3274.17,2025-03-14 02:11:08,Eletrônicos,boleto,Pastor,0
+30712,1646.81,2025-03-04 14:04:44,Viagem,cartao_credito,Santos do Campo,0
+94492,1539.05,2025-02-28 21:08:31,Restaurante,cartao_credito,Azevedo,0
+46782,3128.82,2025-03-08 17:14:35,Compra Online,paypal,da Paz,0
+41910,2882.94,2025-03-06 19:57:23,Viagem,boleto,Câmara,0
+26869,4315.88,2025-03-11 21:08:12,Compra Online,cartao_debito,da Rosa,0
+29853,3552.93,2025-02-22 23:21:37,Compra Online,cartao_credito,Nascimento das Pedras,1
+25553,4926.86,2025-03-15 06:36:54,Farmacia,paypal,Porto do Sul,0
+26489,622.89,2025-03-08 08:08:34,Viagem,cartao_credito,Sá Paulista,0
+74157,4143.26,2025-02-20 13:48:51,Supermercado,cartao_debito,da Mota,0
+66471,2389.03,2025-03-06 23:30:39,Compra Online,cartao_debito,Pimenta das Flores,0
+98883,4830.04,2025-03-13 13:54:41,Farmacia,pix,da Rocha de Pires,1
+40571,2069.53,2025-03-05 05:36:43,Restaurante,cartao_debito,Melo de Alves,0
+13278,4295.55,2025-03-11 07:31:41,Eletrônicos,boleto,Cavalcanti,0
+99134,4780.11,2025-02-23 04:49:33,Viagem,bitcoin,Jesus Alegre,1
+98278,4278.62,2025-03-14 13:16:41,Eletrônicos,cartao_debito,da Mota de Minas,0
+27416,2758.38,2025-03-06 09:40:20,PetShop,pix,Porto,1
+11400,334.53,2025-03-21 11:02:05,Eletrônicos,cartao_debito,Sá,1
+24670,4983.39,2025-03-05 21:47:31,Eletrônicos,bitcoin,Campos Alegre,0
+45126,397.29,2025-03-08 05:25:53,PetShop,boleto,Sá dos Dourados,1
+51403,3320.83,2025-03-03 12:02:45,Farmacia,cartao_credito,Nogueira das Flores,0
+27327,3261.21,2025-03-04 08:10:02,Compra Online,boleto,Pimenta de Teixeira,0
+33031,2409.72,2025-03-01 04:28:19,Compra Online,cartao_debito,Ferreira do Amparo,0
+62269,698.73,2025-03-19 08:02:07,Farmacia,paypal,Barros,0
+90456,3286.23,2025-03-18 17:06:22,Eletrônicos,cartao_credito,Rezende,0
+12589,2033.25,2025-02-20 14:27:06,Compra Online,cartao_credito,da Rocha do Galho,0
+70579,4160.3,2025-03-10 08:05:28,Eletrônicos,boleto,Silva,1
+74522,2388.19,2025-03-14 08:21:09,Eletrônicos,cartao_debito,Aragão de Nascimento,0
+25128,3102.32,2025-03-12 14:07:32,Viagem,bitcoin,Casa Grande dos Dourados,0
+25959,3426.77,2025-02-22 04:28:18,Eletrônicos,boleto,Silveira,0
+78966,2617.77,2025-03-14 05:04:58,Eletrônicos,paypal,da Luz de Minas,0
+38177,147.5,2025-02-21 02:34:31,Compra Online,paypal,Moraes do Oeste,0
+89272,4723.3,2025-02-23 21:45:48,Eletrônicos,cartao_debito,Ribeiro,0
+82820,1234.96,2025-03-12 14:45:31,Farmacia,cartao_debito,da Conceição,0
+49880,3163.54,2025-03-01 18:22:00,Farmacia,pix,da Mata do Oeste,1
+70581,3834.78,2025-03-07 06:56:33,Farmacia,cartao_credito,Rodrigues do Norte,0
+59400,2328.42,2025-02-28 02:54:13,PetShop,pix,Moura de Goiás,1
+76306,2476.47,2025-03-17 10:33:46,Restaurante,cartao_credito,Rezende,1
+74325,2372.53,2025-03-14 00:10:59,Farmacia,pix,da Rosa,1
+55560,1858.42,2025-03-07 03:55:05,Viagem,cartao_debito,Farias,0
+12289,617.39,2025-02-28 21:57:16,PetShop,cartao_credito,Macedo,0
+21955,4364.47,2025-03-16 23:55:37,Eletrônicos,bitcoin,Moraes,0
+95648,3004.92,2025-03-11 13:50:15,Eletrônicos,cartao_debito,Cavalcante de Cunha,0
+26095,3683.65,2025-03-14 03:09:29,Farmacia,pix,Marques,0
+66887,3663.49,2025-03-10 05:11:50,Viagem,bitcoin,Pinto do Sul,1
+25043,3752.09,2025-03-07 08:55:04,Farmacia,cartao_credito,Campos da Prata,1
+85627,3677.19,2025-03-07 13:21:23,Viagem,cartao_credito,Pereira do Oeste,0
+81255,3983.4,2025-03-16 10:03:49,Eletrônicos,boleto,da Luz,0
+22656,1144.9,2025-03-19 18:54:29,PetShop,boleto,Sá de Andrade,0
+65502,4187.94,2025-03-20 19:56:12,Supermercado,boleto,Sampaio Paulista,0
+42133,2331.82,2025-02-22 06:56:06,Eletrônicos,boleto,Costela,0
+25512,3389.96,2025-03-04 13:34:10,Eletrônicos,cartao_debito,Rezende dos Dourados,0
+70646,4379.16,2025-03-18 16:11:00,Farmacia,paypal,Fonseca de Santos,0
+44818,602.36,2025-03-12 23:52:55,Restaurante,cartao_debito,Casa Grande de Lima,0
+60327,4663.87,2025-03-05 17:51:52,Supermercado,cartao_credito,Almeida,0
+78669,306.05,2025-02-22 21:34:08,PetShop,boleto,Guerra de Goiás,1
+31424,3516.53,2025-03-05 12:19:51,Eletrônicos,paypal,Sá,0
+22009,1818.31,2025-03-11 07:59:52,Farmacia,cartao_credito,Teixeira,0
+15464,4748.24,2025-03-02 22:32:27,Farmacia,cartao_credito,Duarte de Moreira,0
+24666,3589.06,2025-03-13 09:19:22,Farmacia,cartao_debito,das Neves de Barbosa,0
+65686,4320.22,2025-02-24 07:16:01,Farmacia,cartao_credito,Alves de Goiás,0
+49900,1752.98,2025-03-08 00:22:04,Viagem,boleto,Viana de Mendonça,0
+43803,1065.06,2025-02-27 17:37:09,Eletrônicos,cartao_debito,Campos,0
+99268,2109.52,2025-03-12 02:08:19,Restaurante,cartao_credito,Jesus,1
+95117,2228.7,2025-03-11 06:52:39,PetShop,pix,da Costa de Borges,1
+53636,888.67,2025-03-11 10:50:53,Viagem,paypal,Garcia Alegre,0
+39743,4456.44,2025-03-20 15:57:00,Farmacia,boleto,Rios de Costela,0
+22815,3373.44,2025-03-01 06:21:14,Viagem,cartao_credito,Ribeiro do Galho,0
+51916,2615.67,2025-03-17 03:39:27,Eletrônicos,bitcoin,Oliveira de Aparecida,0
+33295,1489.51,2025-02-26 06:29:22,Eletrônicos,boleto,Cavalcante,0
+96679,2033.0,2025-03-21 22:06:48,Eletrônicos,cartao_debito,Fernandes de Melo,1
+55324,4612.92,2025-02-22 05:05:43,Viagem,bitcoin,Souza Grande,1
+46015,1663.8,2025-03-08 08:15:04,PetShop,boleto,da Cunha,0
+65990,4361.33,2025-03-02 20:50:49,Compra Online,cartao_credito,Campos do Sul,1
+17652,2927.09,2025-03-11 14:23:29,Compra Online,cartao_credito,Azevedo,0
+46733,3952.94,2025-03-02 08:04:27,Eletrônicos,cartao_credito,Monteiro de Silva,0
+96666,957.95,2025-03-08 16:59:55,Restaurante,cartao_credito,Novais dos Dourados,1
+18857,3817.63,2025-03-21 21:44:31,Restaurante,paypal,Albuquerque,0
+41424,616.38,2025-02-27 18:30:13,PetShop,cartao_debito,Nascimento,0
+41098,167.53,2025-03-21 15:27:57,Supermercado,boleto,Cavalcante,0
+85436,3267.88,2025-02-25 01:13:07,Compra Online,cartao_credito,Caldeira do Galho,1
+78621,1332.31,2025-03-15 20:31:32,Farmacia,cartao_debito,Sousa,0
+45421,2184.0,2025-03-04 01:41:36,Restaurante,cartao_credito,Porto Grande,1
+68121,1445.92,2025-02-28 02:12:32,Farmacia,boleto,Fonseca,0
+43057,216.82,2025-02-23 21:18:25,PetShop,boleto,da Mota,1
+20783,1284.78,2025-03-20 14:27:57,Eletrônicos,paypal,Câmara,0
+31764,4699.86,2025-03-20 16:42:40,Eletrônicos,paypal,Cirino,0
+47903,3612.96,2025-03-10 12:51:17,Compra Online,cartao_credito,Guerra do Sul,0
+99358,631.79,2025-03-05 09:14:15,Viagem,cartao_credito,Lopes,0
+16236,4004.72,2025-03-01 12:05:33,Compra Online,cartao_credito,Siqueira das Flores,1
+70459,1027.39,2025-02-28 11:48:01,Farmacia,cartao_credito,Cavalcante de Lima,0
+76420,977.9,2025-02-21 20:09:42,Eletrônicos,boleto,Porto da Serra,0
+68271,623.29,2025-03-14 22:11:16,Supermercado,cartao_credito,Vargas,0
+66627,3600.37,2025-02-23 09:05:20,Supermercado,bitcoin,Cavalcante,0
+88363,4694.69,2025-03-19 07:47:30,Farmacia,pix,Moura,1
+24492,4412.18,2025-03-07 00:31:06,Restaurante,boleto,Siqueira da Mata,0
+42306,1211.04,2025-03-20 04:30:13,Farmacia,pix,Leão da Mata,1
+86504,2670.76,2025-03-17 04:56:21,Farmacia,paypal,da Luz,0
+33278,2002.74,2025-03-17 20:36:45,Compra Online,paypal,Santos,0
+32428,261.51,2025-02-23 05:36:36,PetShop,boleto,Camargo Alegre,1
+17562,2436.02,2025-03-03 03:04:52,PetShop,pix,Barbosa Paulista,1
+82848,4166.48,2025-02-27 15:33:53,Supermercado,cartao_credito,Novaes,0
+91498,1047.66,2025-02-26 07:25:00,PetShop,paypal,Borges,0
+58130,2486.69,2025-02-28 05:16:02,Compra Online,cartao_credito,Barbosa,0
+55852,4407.82,2025-03-05 11:54:22,Farmacia,pix,Barbosa de Borges,1
+49360,2740.57,2025-02-27 23:28:53,Eletrônicos,cartao_debito,Gomes,0
+83237,742.83,2025-03-16 19:32:31,Farmacia,cartao_debito,Albuquerque,0
+65740,3766.57,2025-03-13 06:46:40,Eletrônicos,cartao_debito,Rios,0
+34030,3882.39,2025-02-27 08:13:01,Farmacia,cartao_credito,Pires,1
+12893,1695.9,2025-03-11 02:12:21,Restaurante,cartao_credito,Machado,1
+81848,1868.04,2025-02-27 16:33:28,Viagem,boleto,Vasconcelos de Leão,0
+14153,1990.71,2025-02-21 02:18:29,Supermercado,cartao_debito,Abreu,0
+65307,3925.7,2025-03-20 16:22:09,Farmacia,boleto,Teixeira,0
+35751,4660.44,2025-03-14 05:58:55,Viagem,paypal,Sampaio,0
+72038,3703.01,2025-03-05 00:27:18,Farmacia,pix,da Cunha do Norte,1
+11170,3412.15,2025-03-21 17:42:50,Farmacia,pix,Silveira de Melo,1
+31512,2351.45,2025-03-11 15:38:44,Farmacia,cartao_credito,Fonseca,0
+76228,1319.81,2025-03-20 19:55:11,Viagem,boleto,Pimenta Alegre,0
+53891,4329.54,2025-03-06 08:14:54,Viagem,bitcoin,da Rosa das Flores,1
+23292,2414.04,2025-02-28 06:08:53,Supermercado,cartao_debito,Costela de Pimenta,0
+30354,4667.86,2025-03-11 09:45:24,Farmacia,cartao_credito,Rocha,1
+40877,2151.97,2025-03-16 04:18:00,Farmacia,cartao_debito,Caldeira de Minas,0
+31262,1753.97,2025-03-03 21:11:29,Farmacia,pix,Silveira de Goiás,1
+31949,3430.41,2025-02-22 19:34:22,Supermercado,bitcoin,da Luz de Pastor,0
+56140,1179.26,2025-02-22 18:07:06,Compra Online,cartao_debito,da Mata,0
+88220,4152.83,2025-03-21 07:03:38,Compra Online,cartao_credito,Farias,1
+61387,1860.67,2025-02-22 15:45:00,Farmacia,bitcoin,Gonçalves,0
+99049,3428.41,2025-02-24 04:09:52,Eletrônicos,boleto,Peixoto,1
+47110,4267.72,2025-03-07 21:17:07,Compra Online,cartao_credito,Dias de Goiás,1
+95281,1358.0,2025-03-20 02:34:36,Compra Online,paypal,Cirino dos Dourados,0
+82822,3916.47,2025-03-21 23:20:39,Eletrônicos,paypal,Costa do Oeste,0
+89200,1501.02,2025-03-05 01:35:21,Farmacia,boleto,Sales,0
+45919,2379.06,2025-03-18 08:42:41,Restaurante,cartao_credito,Pimenta de Santos,1
+63062,776.06,2025-03-09 05:28:24,Eletrônicos,boleto,Fernandes do Sul,0
+35002,1781.0,2025-03-05 19:18:11,Farmacia,cartao_credito,Barros de Macedo,1
+53091,3644.26,2025-03-08 19:44:51,Viagem,bitcoin,Barbosa de Abreu,1
+56446,2117.83,2025-02-24 06:16:13,Farmacia,pix,Garcia de Goiás,1
+57419,3084.77,2025-03-02 00:21:36,Viagem,cartao_credito,Fernandes,0
+36182,3864.52,2025-02-26 09:38:21,Compra Online,pix,Araújo de Albuquerque,0
+22662,3518.04,2025-03-05 15:40:24,Compra Online,paypal,da Rosa,0
+49337,4385.6,2025-02-28 04:57:02,Farmacia,pix,Cardoso de Rocha,1
+21910,2283.24,2025-02-28 04:08:04,Compra Online,cartao_debito,Silva,0
+19434,3184.51,2025-03-18 21:34:53,Farmacia,boleto,Teixeira,0
+38353,1712.77,2025-03-15 00:01:13,Eletrônicos,cartao_credito,Lopes,0
+63596,1049.88,2025-02-21 02:40:22,Compra Online,paypal,Fonseca,0
+49907,2689.67,2025-03-11 16:01:57,Restaurante,cartao_credito,Guerra,1
+87742,3007.16,2025-02-25 17:11:45,Compra Online,cartao_credito,Mendes,1
+43021,4566.3,2025-03-18 11:36:11,Restaurante,cartao_credito,Lopes,0
+65890,4533.55,2025-03-08 21:45:10,Compra Online,pix,Mendes,0
+52628,281.76,2025-02-20 13:24:25,PetShop,boleto,Aparecida das Pedras,1
+44374,3948.34,2025-03-17 15:36:21,Eletrônicos,cartao_debito,da Mota de Goiás,0
+43849,2668.13,2025-02-24 16:36:36,Eletrônicos,cartao_debito,Carvalho,0
+58710,878.98,2025-03-20 14:25:54,Farmacia,boleto,Porto de Minas,0
+52243,4253.03,2025-03-03 08:48:18,Compra Online,cartao_credito,Santos Paulista,1
+14632,2313.21,2025-02-22 17:52:52,Supermercado,cartao_debito,Fernandes,0
+10839,3982.98,2025-02-28 07:16:51,Farmacia,boleto,da Cunha,0
+34227,2845.59,2025-03-09 10:17:57,Restaurante,boleto,Dias Paulista,0
+45984,2805.81,2025-02-20 21:57:48,Restaurante,cartao_credito,Almeida do Sul,1
+54099,2377.65,2025-03-09 18:58:30,Restaurante,paypal,Ribeiro,0
+79841,4946.51,2025-02-21 02:22:22,Viagem,cartao_credito,Moraes,0
+95298,2979.09,2025-03-21 11:00:52,Compra Online,bitcoin,Câmara Verde,0
+66347,241.76,2025-03-08 05:47:20,Viagem,cartao_credito,Vargas de Rodrigues,0
+16708,1526.32,2025-02-22 23:25:50,Farmacia,cartao_debito,Pastor,0
+24994,2631.13,2025-02-27 05:15:09,Compra Online,cartao_credito,Cardoso,0
+65505,2880.1,2025-02-21 16:07:35,Farmacia,cartao_debito,Farias das Flores,0
+63389,2437.56,2025-03-04 14:48:32,Eletrônicos,cartao_credito,Lima de Minas,0
+28496,2517.75,2025-03-18 04:12:26,Eletrônicos,cartao_debito,Cardoso das Flores,1
+36191,826.94,2025-03-17 08:06:11,Eletrônicos,boleto,Cavalcante,0
+78395,3434.85,2025-03-14 06:20:36,Compra Online,paypal,Pimenta Paulista,0
+15004,4430.19,2025-03-15 01:46:22,Restaurante,cartao_debito,da Cruz,0
+53924,3092.06,2025-03-02 15:28:28,Compra Online,cartao_credito,Carvalho do Sul,1
+99700,3193.15,2025-03-02 21:06:40,PetShop,pix,Rocha,1
+94133,1749.66,2025-03-07 16:16:50,PetShop,cartao_debito,Gonçalves das Flores,0
+82985,1072.55,2025-03-15 14:46:51,Farmacia,pix,da Costa dos Dourados,1
+17463,593.25,2025-03-20 01:52:58,Restaurante,cartao_debito,Abreu,0
+51763,4848.61,2025-02-26 01:41:32,Restaurante,cartao_debito,Peixoto,0
+48845,3748.34,2025-03-04 18:06:19,Eletrônicos,boleto,Pires de Guerra,1
+43114,3564.17,2025-03-08 01:40:06,Eletrônicos,boleto,da Cunha do Oeste,1
+87253,4945.17,2025-03-10 19:18:37,Farmacia,cartao_credito,Teixeira,1
+33971,412.67,2025-03-07 19:30:35,Compra Online,paypal,Moura,0
+22367,1163.31,2025-03-20 09:21:41,Viagem,cartao_debito,Gomes da Praia,0
+80606,3627.32,2025-03-16 08:03:58,Compra Online,cartao_credito,Câmara,1
+13692,4902.35,2025-03-21 13:48:59,Farmacia,pix,Rodrigues,1
+96014,1967.0,2025-03-05 07:16:24,Farmacia,cartao_credito,Sales,0
+82503,1300.05,2025-02-28 23:48:40,Compra Online,cartao_credito,Mendonça de Vasconcelos,0
+12268,506.24,2025-03-08 14:22:59,Eletrônicos,boleto,Araújo de Minas,0
+42938,19.22,2025-03-13 08:20:39,Farmacia,cartao_debito,Melo do Galho,0
+28418,367.32,2025-03-17 19:59:40,PetShop,boleto,Duarte,1
+31050,4971.34,2025-02-27 11:14:21,Supermercado,cartao_credito,Dias,0
+90622,4323.21,2025-03-20 00:21:16,Eletrônicos,paypal,da Conceição Grande,0
+63057,3727.99,2025-03-07 22:56:36,Restaurante,cartao_debito,da Cruz de da Rocha,0
+70868,2168.55,2025-02-21 21:58:56,Eletrônicos,cartao_debito,Azevedo,0
+56025,174.37,2025-03-13 02:28:29,Farmacia,cartao_credito,Silva,1
+51113,4914.48,2025-03-21 12:22:54,Eletrônicos,cartao_credito,Moreira de Vieira,0
+31878,3378.93,2025-03-12 11:47:14,Eletrônicos,pix,Câmara,0
+24564,4613.71,2025-03-19 12:54:26,PetShop,boleto,Fonseca de Gonçalves,0
+82037,1504.86,2025-03-04 19:09:21,Compra Online,cartao_credito,Silva,0
+25532,3160.53,2025-02-27 01:49:52,Farmacia,cartao_credito,Aragão,0
+52849,202.33,2025-03-05 07:56:19,PetShop,boleto,Nascimento de Goiás,1
+92409,3765.63,2025-03-20 10:47:11,Supermercado,boleto,Aragão do Oeste,0
+91708,4436.16,2025-03-17 05:41:14,Farmacia,pix,Melo do Norte,0
+70978,4197.5,2025-03-03 18:26:05,Compra Online,boleto,da Paz do Amparo,0
+79285,217.43,2025-03-04 13:05:57,PetShop,boleto,Cunha de Novaes,1
+89537,4563.28,2025-03-14 02:56:34,Supermercado,paypal,Vargas,0
+15115,1329.51,2025-02-24 05:19:31,Restaurante,cartao_credito,Farias das Flores,0
+64677,3927.73,2025-02-28 08:42:57,Eletrônicos,paypal,Cunha dos Dourados,0
+79134,4625.94,2025-03-19 03:45:21,Restaurante,boleto,Dias das Pedras,0
+26712,2072.56,2025-03-10 15:42:45,Farmacia,cartao_credito,Abreu,1
+76785,647.98,2025-03-01 14:15:37,Farmacia,boleto,Rocha,0
+55613,1415.65,2025-03-05 09:08:01,Restaurante,cartao_credito,Pimenta do Oeste,1
+51776,2724.77,2025-02-22 20:51:23,Eletrônicos,cartao_credito,Brito,0
+27871,4764.28,2025-03-14 03:21:34,Viagem,paypal,da Conceição,0
+92898,3192.59,2025-03-08 12:05:25,Compra Online,bitcoin,Melo das Pedras,0
+41590,4727.89,2025-03-12 03:11:37,Compra Online,cartao_debito,Peixoto do Sul,0
+81316,4846.59,2025-03-14 03:50:03,Compra Online,cartao_credito,Marques,1
+60421,4258.34,2025-03-18 08:15:48,Compra Online,cartao_credito,Cirino,1
+68418,599.02,2025-03-06 05:44:49,Farmacia,boleto,Aragão de Porto,0
+11327,3643.46,2025-02-21 19:57:14,Eletrônicos,cartao_credito,Abreu das Flores,0
+23784,3909.96,2025-03-07 05:41:55,Supermercado,bitcoin,Jesus,0
+48017,4933.53,2025-02-23 04:23:06,PetShop,paypal,Cavalcante,0
+69042,2199.84,2025-03-15 19:21:44,Viagem,cartao_debito,Pimenta do Campo,0
+76520,4639.63,2025-02-24 07:30:48,Compra Online,cartao_credito,Monteiro do Amparo,1
+39104,3861.58,2025-02-21 09:45:12,Eletrônicos,boleto,Fogaça,0
+22052,54.08,2025-03-20 09:51:02,Farmacia,pix,Silveira de Machado,1
+43130,4150.7,2025-02-25 16:55:20,Farmacia,pix,Almeida,1
+85875,92.76,2025-03-01 00:47:57,PetShop,boleto,Souza,1
+95193,4712.09,2025-03-11 07:18:28,Viagem,bitcoin,Pimenta Grande,1
+23560,1010.58,2025-03-15 04:23:37,Viagem,boleto,Martins de Silveira,0
+89050,3620.34,2025-03-19 15:26:47,PetShop,pix,Câmara,1
+98882,399.06,2025-02-27 14:56:56,PetShop,boleto,Marques,1
+30018,2190.32,2025-03-01 21:45:59,Farmacia,cartao_credito,Borges,1
+40073,2700.26,2025-03-11 04:22:51,Eletrônicos,cartao_credito,Aparecida da Prata,0
+46585,585.59,2025-03-05 19:56:22,Eletrônicos,bitcoin,Guerra,0
+68553,2291.83,2025-03-19 07:06:35,Restaurante,cartao_credito,Nascimento,1
+62499,1506.71,2025-03-11 06:21:41,Compra Online,cartao_credito,da Cunha,0
+52623,360.08,2025-03-07 00:49:23,Eletrônicos,cartao_debito,Porto do Campo,1
+60365,476.77,2025-03-11 07:20:07,Compra Online,cartao_credito,Gonçalves,0
+75791,4490.41,2025-03-02 18:56:56,PetShop,pix,Barbosa,1
+20052,4415.65,2025-03-04 14:19:01,Compra Online,boleto,Pacheco da Mata,0
+81031,1683.83,2025-03-19 15:51:15,Eletrônicos,paypal,da Rosa do Norte,0
+99161,4710.2,2025-03-12 19:08:54,Farmacia,cartao_debito,Rodrigues Grande,0
+85399,292.71,2025-03-07 00:29:56,PetShop,boleto,Aparecida,1
+57128,3679.84,2025-02-26 23:02:58,Compra Online,paypal,Machado,0
+44042,4990.39,2025-03-09 18:29:51,Farmacia,cartao_debito,Cassiano,0
+36489,3658.56,2025-02-21 05:10:57,Eletrônicos,boleto,Pacheco,0
+39124,1924.99,2025-03-09 18:21:36,Viagem,cartao_credito,Jesus,0
+14968,3652.65,2025-02-21 18:02:51,Viagem,bitcoin,Vargas dos Dourados,1
+49174,354.01,2025-03-03 11:26:05,Compra Online,cartao_credito,Fogaça,0
+62324,4760.72,2025-03-19 06:33:52,Compra Online,cartao_credito,da Paz,1
+20311,2767.44,2025-02-27 02:22:07,Eletrônicos,cartao_debito,Viana,0
+85204,3908.74,2025-03-08 01:23:05,Eletrônicos,cartao_credito,da Mata,0
+21033,4833.61,2025-03-11 09:02:48,Restaurante,boleto,Correia dos Dourados,0
+44137,2967.11,2025-02-28 07:43:46,Compra Online,pix,Fonseca de Brito,0
+16171,3953.08,2025-03-09 16:32:19,Restaurante,bitcoin,Azevedo de Mendonça,0
+28052,1844.46,2025-03-03 19:23:30,Farmacia,boleto,Machado,0
+96447,3844.51,2025-02-25 06:32:04,Compra Online,cartao_credito,Rocha,1
+28122,306.42,2025-03-01 10:52:53,PetShop,boleto,Martins de Moura,1
+46490,1162.7,2025-03-16 23:52:17,Compra Online,cartao_debito,Ferreira,0
+65763,2321.66,2025-03-05 15:56:11,PetShop,paypal,Azevedo,0
+60748,267.45,2025-03-20 06:12:42,Viagem,paypal,Mendes,0
+73949,1901.11,2025-02-21 19:16:54,Compra Online,cartao_credito,Brito das Flores,0
+31098,3291.71,2025-02-27 12:21:28,Viagem,bitcoin,Ramos do Galho,0
+71479,4417.67,2025-02-21 06:23:05,Compra Online,cartao_credito,Silveira,1
+93403,1682.99,2025-02-26 10:35:20,Restaurante,cartao_credito,Marques,1
+43774,4559.13,2025-03-15 02:10:33,Eletrônicos,boleto,Campos das Pedras,0
+26949,1720.78,2025-03-15 14:40:32,Compra Online,cartao_debito,Silveira,0
+50961,2807.11,2025-03-17 11:03:51,Farmacia,pix,Azevedo de Goiás,0
+49161,1467.0,2025-02-22 16:33:39,PetShop,paypal,Macedo dos Dourados,0
+60399,4530.53,2025-03-10 07:33:08,Eletrônicos,cartao_credito,Vasconcelos,0
+25238,4394.18,2025-02-21 23:49:21,Farmacia,cartao_credito,da Cruz Paulista,0
+34989,788.99,2025-03-16 01:01:19,Eletrônicos,boleto,Casa Grande,0
+95894,3843.68,2025-02-27 03:15:02,Compra Online,cartao_credito,Campos da Praia,1
+62605,2748.54,2025-03-14 17:28:16,Restaurante,boleto,Moura de da Costa,0
+76079,2019.12,2025-03-18 13:27:41,Supermercado,cartao_debito,Alves de Rezende,0
+78701,3648.6,2025-03-03 07:26:27,Compra Online,boleto,Silva da Praia,0
+15702,4944.87,2025-02-23 00:07:23,Viagem,bitcoin,Moraes,1
+27187,354.41,2025-03-03 05:02:43,PetShop,boleto,Gonçalves de Minas,1
+39459,2877.16,2025-03-14 20:14:53,Eletrônicos,cartao_credito,da Paz da Prata,0
+47203,4509.55,2025-02-26 22:58:22,Viagem,boleto,Garcia,0
+20778,3171.47,2025-02-25 01:30:41,Farmacia,paypal,Cirino,0
+28930,111.58,2025-03-12 13:09:57,Viagem,cartao_credito,Santos da Praia,0
+88496,2080.81,2025-02-24 08:09:43,Viagem,cartao_debito,da Luz,0
+35102,988.19,2025-03-05 13:00:21,Supermercado,paypal,Marques,0
+43372,2872.41,2025-03-08 17:29:40,Restaurante,paypal,Mendonça,0
+40091,4378.09,2025-03-09 01:23:45,Viagem,cartao_debito,Siqueira de Macedo,0
+27993,3024.57,2025-03-15 14:52:13,Compra Online,cartao_credito,Almeida,1
+17474,4260.29,2025-03-06 20:52:29,Compra Online,cartao_credito,Sousa de Minas,1
+39689,775.82,2025-03-20 09:17:34,Viagem,boleto,Camargo de Goiás,0
+65466,4930.84,2025-03-16 01:53:32,Farmacia,cartao_debito,Souza de Minas,0
+11869,1379.51,2025-03-01 10:30:32,Viagem,paypal,Ferreira do Galho,0
+93608,445.15,2025-02-23 11:20:42,Farmacia,pix,Souza,1
+87371,879.99,2025-03-08 02:45:03,Compra Online,cartao_debito,Teixeira,0
+91123,1881.17,2025-02-20 16:41:13,Eletrônicos,paypal,da Conceição,0
+86834,4948.44,2025-03-01 00:22:48,Eletrônicos,paypal,Cassiano,0
+51266,3327.69,2025-02-24 16:18:15,Eletrônicos,boleto,Vieira da Serra,1
+93247,4008.42,2025-03-14 04:43:54,Eletrônicos,boleto,Nunes,0
+73267,4160.3,2025-03-16 04:40:22,Eletrônicos,boleto,Duarte,0
+53370,848.3,2025-03-04 08:13:10,Eletrônicos,cartao_credito,Cardoso,0
+95889,3127.78,2025-03-21 22:25:05,Eletrônicos,boleto,da Rosa,1
+35404,3498.1,2025-03-22 08:06:45,Viagem,bitcoin,Albuquerque do Oeste,0
+45441,3896.29,2025-03-04 11:31:47,Compra Online,boleto,da Luz do Sul,0
+62751,248.39,2025-02-23 10:43:46,PetShop,boleto,Melo,0
+19910,2910.01,2025-03-13 04:16:24,Farmacia,pix,da Cunha,1
+74678,2259.36,2025-03-02 22:24:31,Restaurante,cartao_credito,Rios de Nogueira,1
+75887,1336.41,2025-03-03 06:33:46,Farmacia,pix,Carvalho do Amparo,1
+77710,3754.63,2025-03-08 22:37:37,Farmacia,cartao_debito,Moraes,0
+97628,2997.46,2025-03-20 11:56:11,Compra Online,cartao_credito,Costa de Cirino,0
+70209,1101.11,2025-02-23 04:42:59,Supermercado,cartao_debito,Camargo,0
+88779,3629.82,2025-03-04 01:39:57,Eletrônicos,cartao_debito,Nascimento dos Dourados,1
+49087,982.38,2025-03-08 05:45:31,Farmacia,cartao_debito,Silveira das Pedras,0
+38660,3319.02,2025-02-25 14:22:13,PetShop,pix,Pastor da Praia,1
+27649,454.48,2025-03-07 18:56:03,Eletrônicos,cartao_debito,Cirino Verde,1
+35756,488.09,2025-03-16 14:36:23,Farmacia,pix,Cunha,1
+67034,3874.8,2025-02-27 09:31:21,Compra Online,boleto,Rocha,0
+90819,3594.43,2025-03-03 13:05:20,Farmacia,cartao_credito,Almeida da Praia,0
+90276,4859.62,2025-02-28 01:11:25,Compra Online,cartao_credito,das Neves do Sul,1
+91091,439.2,2025-03-01 16:44:58,Restaurante,cartao_debito,Cirino,0
+94182,511.76,2025-03-07 11:46:45,Compra Online,cartao_credito,Aparecida,0
+45367,1894.13,2025-03-19 17:22:55,Compra Online,cartao_credito,Silva da Serra,0
+13298,2119.28,2025-03-18 13:13:41,Farmacia,pix,Macedo,1
+12627,4985.29,2025-03-19 02:07:35,Restaurante,cartao_credito,Souza,0
+18083,999.4,2025-03-20 07:30:14,Farmacia,boleto,da Costa,0
+46740,4279.91,2025-02-23 19:49:21,Eletrônicos,cartao_debito,da Cunha do Oeste,1
+56788,2926.83,2025-02-22 18:16:53,Restaurante,cartao_debito,Pastor da Serra,0
+79916,2811.34,2025-03-12 06:02:30,PetShop,pix,Azevedo,1
+54026,152.6,2025-03-13 15:46:16,PetShop,boleto,Alves Paulista,1
+73398,4659.69,2025-03-07 20:08:12,Compra Online,cartao_credito,Martins,1
+35285,4231.87,2025-02-28 15:55:43,Supermercado,cartao_credito,da Cruz de Viana,0
+22074,1399.85,2025-03-13 14:20:02,Viagem,paypal,Correia de Camargo,0
+60260,1470.85,2025-02-25 07:36:41,Compra Online,cartao_debito,Silveira,0
+57268,2498.43,2025-03-03 01:59:24,Farmacia,cartao_debito,Castro,0
+33566,4514.24,2025-02-24 08:24:19,Viagem,bitcoin,Moura do Amparo,1
+90422,880.46,2025-02-28 15:29:52,Farmacia,cartao_debito,Sampaio,0
+52117,269.26,2025-03-08 18:15:36,Farmacia,cartao_credito,Alves do Sul,1
+89441,2353.58,2025-02-27 14:18:20,Eletrônicos,cartao_credito,Sampaio,0
+66873,4124.29,2025-03-16 19:46:32,Eletrônicos,boleto,Brito Alegre,1
+19559,488.65,2025-03-05 20:28:33,Eletrônicos,pix,Cardoso do Oeste,0
+50812,1858.42,2025-02-28 04:36:21,Eletrônicos,cartao_debito,Câmara,0
+15339,2405.6,2025-03-08 19:02:11,Farmacia,cartao_credito,Teixeira das Flores,0
+32578,124.76,2025-03-14 01:53:16,PetShop,boleto,da Mota do Amparo,1
+10893,1645.6,2025-02-25 13:08:12,Supermercado,cartao_debito,Pinto de Pimenta,0
+80746,192.75,2025-03-19 20:26:57,Compra Online,cartao_credito,Monteiro,0
+25536,1076.03,2025-02-27 19:37:21,Farmacia,pix,Alves,1
+68262,3091.46,2025-03-14 04:18:55,Farmacia,cartao_credito,Cavalcante da Praia,0
+83538,704.22,2025-03-18 16:26:26,Compra Online,boleto,Silveira Paulista,0
+11427,1354.82,2025-03-12 04:57:43,Compra Online,cartao_credito,Aparecida de Goiás,0
+73945,3596.61,2025-03-09 14:45:55,Supermercado,cartao_debito,Monteiro,0
+94979,2406.02,2025-03-04 09:20:58,Farmacia,cartao_credito,Duarte de Minas,1
+63465,2544.53,2025-02-22 22:06:41,Farmacia,cartao_credito,Pires,1
+80493,4596.9,2025-03-09 18:27:00,Farmacia,pix,Barbosa,1
+67207,470.66,2025-03-08 06:12:22,Compra Online,paypal,Nogueira do Campo,0
+58683,2278.71,2025-02-23 05:42:17,Eletrônicos,cartao_credito,Guerra,0
+23488,4417.85,2025-02-25 10:05:49,Farmacia,cartao_credito,Borges,1
+33996,1524.96,2025-03-05 04:13:41,Farmacia,cartao_credito,Viana,1
+71953,1535.77,2025-02-20 14:36:46,Farmacia,boleto,Cavalcante da Prata,0
+55629,1696.13,2025-02-23 12:23:51,Viagem,cartao_debito,da Cunha do Oeste,0
+11529,4768.02,2025-03-14 08:45:58,Farmacia,paypal,Pacheco,0
+47223,1643.39,2025-03-20 14:23:12,Eletrônicos,cartao_credito,Andrade das Pedras,0
+22147,3082.93,2025-03-09 16:15:47,Eletrônicos,boleto,Silva,1
+31358,1693.04,2025-02-21 11:10:24,Eletrônicos,cartao_debito,Peixoto,0
+21826,4677.56,2025-02-21 02:16:19,Eletrônicos,cartao_debito,Lima,1
+32419,2572.53,2025-02-24 10:26:56,Viagem,cartao_credito,Marques das Flores,0
+12675,966.23,2025-03-18 13:19:24,Eletrônicos,cartao_debito,Ferreira,0
+94973,4217.74,2025-02-26 11:19:23,Eletrônicos,cartao_debito,Moreira do Norte,1
+11596,4839.4,2025-03-14 07:51:36,Viagem,boleto,da Conceição do Galho,0
+62419,543.03,2025-03-14 15:32:01,Compra Online,boleto,Cunha dos Dourados,0
+75526,2617.32,2025-02-27 23:06:27,Eletrônicos,cartao_debito,Sá do Norte,0
+83550,2384.98,2025-03-20 13:03:42,Eletrônicos,cartao_debito,Machado Grande,1
+97626,4994.5,2025-03-08 03:53:18,Compra Online,cartao_credito,Rocha Verde,1
+64468,1567.71,2025-02-25 13:02:26,Eletrônicos,boleto,Pinto,0
+26993,1452.18,2025-02-27 09:50:55,Eletrônicos,cartao_debito,Oliveira,1
+23631,437.24,2025-03-20 01:02:42,PetShop,boleto,Cavalcante,1
+53287,3910.93,2025-03-01 01:14:27,Supermercado,cartao_credito,Pacheco,0
+53717,1957.29,2025-03-07 16:49:08,Farmacia,cartao_credito,Nogueira de Vieira,1
+19270,1629.4,2025-02-22 06:46:09,Compra Online,cartao_debito,Costa,0
+89072,3902.26,2025-03-05 10:43:09,Eletrônicos,pix,Vasconcelos,0
+68182,2037.8,2025-03-10 07:17:49,PetShop,cartao_credito,Ferreira das Flores,0
+80567,1023.49,2025-02-26 04:35:59,Eletrônicos,cartao_debito,Cavalcanti de Fernandes,1
+94434,35.88,2025-03-08 03:11:59,Viagem,cartao_credito,Camargo,0
+45728,4142.6,2025-02-25 19:24:00,Restaurante,bitcoin,Pires de Vargas,0
+68836,3339.32,2025-03-16 03:19:44,Supermercado,cartao_credito,Correia de da Cruz,0
+87651,816.52,2025-02-23 20:54:42,Eletrônicos,boleto,Cunha,0
+68141,3838.3,2025-03-16 19:18:24,Farmacia,pix,Souza,1
+56493,1690.55,2025-03-05 20:02:58,Farmacia,cartao_credito,Monteiro,0
+91057,2984.55,2025-03-13 17:05:40,Eletrônicos,cartao_debito,Rezende,1
+52280,4373.04,2025-03-09 20:06:49,Compra Online,boleto,Porto,0
+80494,3852.26,2025-03-16 14:55:45,Farmacia,boleto,Nogueira,0
+35789,2966.68,2025-03-08 08:48:54,Restaurante,cartao_credito,da Conceição,1
+25767,1161.27,2025-03-13 08:23:41,Restaurante,paypal,Casa Grande Grande,0
+86512,2411.62,2025-03-19 13:26:41,Farmacia,paypal,da Cunha,0
+40597,3550.17,2025-03-16 15:23:10,Viagem,bitcoin,Pires,1
+34394,1747.01,2025-02-28 01:41:16,Farmacia,cartao_credito,Correia,0
+78314,3963.71,2025-03-15 13:03:21,Farmacia,boleto,Rocha das Flores,0
+86588,4189.56,2025-03-11 10:21:11,Farmacia,cartao_debito,Nunes,0
+78343,380.44,2025-02-24 20:37:49,PetShop,boleto,Mendes,1
+62590,1290.29,2025-03-04 10:09:43,Compra Online,bitcoin,Cirino das Pedras,0
+71330,4141.89,2025-02-21 04:13:18,Eletrônicos,cartao_debito,Sousa,0
+59630,3123.21,2025-03-02 18:28:54,Farmacia,pix,Sampaio,1
+56668,1493.97,2025-03-19 15:06:19,Eletrônicos,cartao_debito,da Cunha Grande,0
+33621,2737.48,2025-03-15 15:40:07,PetShop,pix,Teixeira,1
+39489,3282.78,2025-02-25 05:49:11,Viagem,cartao_credito,Lopes,0
+37235,1457.66,2025-03-07 22:16:51,Compra Online,cartao_debito,Fonseca,0
+40146,1248.07,2025-02-27 15:16:56,Viagem,paypal,Aparecida Alegre,0
+48996,4016.74,2025-03-15 08:17:14,Viagem,bitcoin,da Mota,1
+75559,3346.93,2025-02-23 12:12:31,Farmacia,boleto,Pinto Alegre,0
+51757,2299.88,2025-03-16 15:23:10,Farmacia,cartao_credito,Barbosa do Norte,0
+93052,1679.47,2025-02-22 14:03:01,Eletrônicos,bitcoin,Andrade da Mata,0
+36061,4150.32,2025-03-11 16:50:25,Eletrônicos,cartao_credito,Moura,0
+61422,2988.34,2025-03-06 15:51:38,Restaurante,cartao_credito,Mendes Alegre,1
+20030,2998.88,2025-03-15 16:13:27,Restaurante,cartao_credito,Rocha de Vieira,0
+15858,1004.27,2025-03-05 13:31:12,Eletrônicos,cartao_debito,Rodrigues da Praia,1
+93231,1173.79,2025-03-06 12:00:08,Eletrônicos,bitcoin,Rezende,0
+43753,3822.78,2025-02-23 21:05:22,Viagem,bitcoin,Sampaio,1
+19637,2323.04,2025-03-19 14:18:37,Supermercado,cartao_debito,Peixoto das Pedras,0
+41245,4561.72,2025-02-25 18:09:35,Viagem,bitcoin,Gomes de da Rocha,1
+84820,4741.0,2025-03-13 21:14:29,Farmacia,bitcoin,Costa,0
+70362,4157.81,2025-03-06 04:23:14,Restaurante,cartao_credito,Correia de Moura,0
+77031,4691.54,2025-03-09 17:28:38,Eletrônicos,bitcoin,Melo da Serra,0
+83529,1952.72,2025-03-09 21:33:30,Viagem,cartao_debito,Alves Alegre,0
+49873,2899.79,2025-03-10 06:38:14,Eletrônicos,cartao_credito,Almeida do Campo,0
+21128,2315.58,2025-02-21 11:15:37,Eletrônicos,cartao_debito,Borges das Flores,1
+73791,256.67,2025-03-19 21:02:37,PetShop,boleto,Rios,1
+57103,4365.68,2025-03-19 22:18:06,Compra Online,cartao_credito,Mendonça,1
+60303,4378.37,2025-03-15 14:32:18,Farmacia,cartao_debito,Ribeiro,0
+96858,3065.16,2025-03-16 11:13:07,Compra Online,boleto,Castro de Ramos,0
+60411,3890.31,2025-03-16 05:02:51,Compra Online,cartao_credito,Cassiano das Flores,1
+72197,3714.44,2025-02-28 21:42:32,Farmacia,pix,Fogaça,1
+72558,766.58,2025-03-03 20:23:32,Supermercado,boleto,Gomes,0
+94233,531.55,2025-02-26 00:24:55,Restaurante,bitcoin,Novaes de da Costa,0
+59120,498.28,2025-03-09 18:45:03,Farmacia,cartao_credito,Pimenta,0
+80278,279.18,2025-03-04 01:38:48,Eletrônicos,boleto,Mendonça de Peixoto,0
+38571,4132.92,2025-03-09 11:08:41,PetShop,cartao_debito,Cirino de Goiás,0
+82506,206.13,2025-02-21 05:46:46,Farmacia,boleto,Silva do Oeste,0
+34595,2899.22,2025-03-22 04:28:06,Eletrônicos,cartao_debito,Viana de Minas,0
+82427,1480.61,2025-02-20 22:21:50,Supermercado,boleto,Dias,0
+84727,4622.38,2025-03-06 09:24:37,Compra Online,cartao_credito,Montenegro,1
+51743,3817.14,2025-03-11 10:57:59,Eletrônicos,paypal,Ribeiro da Serra,0
+37531,4741.06,2025-03-12 07:10:44,Viagem,bitcoin,Costa,1
+20984,3570.4,2025-03-18 04:53:57,Farmacia,paypal,Montenegro,0
+46450,4494.61,2025-03-12 04:07:45,PetShop,cartao_credito,Costela Alegre,0
+69446,3544.0,2025-03-06 16:31:25,Compra Online,cartao_debito,da Rosa de Leão,0
+89849,4991.58,2025-03-04 13:50:51,Farmacia,pix,Andrade,1
+56748,3816.0,2025-03-21 05:55:44,Supermercado,cartao_debito,da Cruz,0
+15682,298.94,2025-03-08 10:36:53,PetShop,boleto,Ramos,1
+48685,593.19,2025-03-17 10:50:17,Viagem,cartao_credito,Novais Alegre,0
+43730,509.23,2025-03-21 02:44:15,Restaurante,cartao_credito,Ferreira do Norte,0
+82621,3305.7,2025-03-16 04:57:32,Eletrônicos,cartao_credito,Farias do Campo,0
+17551,1250.11,2025-02-28 05:49:26,Compra Online,cartao_debito,da Conceição,0
+16085,114.78,2025-03-03 07:15:54,PetShop,boleto,Borges do Campo,1
+23977,4474.76,2025-02-25 18:57:25,Eletrônicos,cartao_debito,Alves das Flores,0
+52972,3163.31,2025-03-17 11:55:26,Farmacia,cartao_credito,Cirino,1
+46369,1778.21,2025-03-06 17:12:07,Farmacia,bitcoin,Sampaio,0
+87887,3038.4,2025-03-08 06:48:36,Eletrônicos,paypal,Teixeira,0
+11699,2107.79,2025-02-28 01:33:13,Compra Online,paypal,Peixoto de Minas,0
+85739,4496.96,2025-03-06 12:28:49,Restaurante,cartao_debito,Souza,0
+85891,687.79,2025-02-28 19:10:19,Eletrônicos,paypal,Ramos de Abreu,0
+57760,4688.69,2025-03-13 08:49:53,Viagem,bitcoin,da Paz,0
+90042,3155.39,2025-03-05 04:16:28,Restaurante,cartao_credito,Sousa,0
+75190,3454.64,2025-03-16 22:38:37,Farmacia,cartao_credito,Caldeira de Minas,0
+85237,2797.68,2025-03-16 06:07:29,Farmacia,cartao_credito,Vasconcelos,1
+17846,1858.59,2025-03-05 20:03:31,Farmacia,pix,da Luz de Guerra,1
+34305,3946.81,2025-03-02 01:03:51,Farmacia,bitcoin,Ferreira,0
+92524,1524.62,2025-03-14 17:38:40,Eletrônicos,cartao_credito,da Mota do Campo,0
+86936,2818.57,2025-02-26 00:57:45,Eletrônicos,bitcoin,Abreu,0
+45829,4835.54,2025-03-21 06:57:10,Farmacia,boleto,Ramos do Norte,0
+88133,3698.81,2025-03-21 07:41:31,PetShop,boleto,Duarte do Campo,0
+32043,4764.14,2025-03-03 15:38:07,Farmacia,pix,Correia de Melo,1
+13832,727.89,2025-02-21 21:11:43,Farmacia,paypal,Marques,0
+73331,4068.56,2025-03-01 09:29:06,Eletrônicos,boleto,Pastor,1
+33171,2706.62,2025-03-19 18:41:51,Farmacia,pix,Santos de Freitas,1
+89785,1549.65,2025-03-16 03:15:08,Viagem,cartao_debito,Alves,0
+85461,3751.48,2025-03-06 19:44:46,Farmacia,pix,Marques,1
+85427,477.47,2025-03-06 09:32:48,PetShop,boleto,Marques,1
+38451,4184.89,2025-02-23 11:13:43,Eletrônicos,cartao_debito,Souza,1
+27777,3470.08,2025-03-21 22:07:21,Compra Online,cartao_credito,Pereira,1
+77708,2141.52,2025-03-01 03:37:14,Farmacia,cartao_debito,Viana do Sul,0
+35275,1991.32,2025-02-25 14:43:44,Eletrônicos,bitcoin,Silveira de Nunes,0
+78531,2043.75,2025-02-25 02:29:53,Farmacia,cartao_debito,Rodrigues,0
+57994,1176.0,2025-02-26 23:10:00,Farmacia,cartao_credito,Ramos,0
+82301,3204.33,2025-03-14 01:18:41,Farmacia,cartao_debito,Câmara,0
+80921,4929.18,2025-03-20 03:09:01,Eletrônicos,cartao_debito,Moraes,0
+54331,3389.8,2025-03-16 02:10:00,Viagem,cartao_debito,Melo,0
+54165,172.5,2025-03-01 13:05:20,PetShop,boleto,Mendes de Rodrigues,1
+17100,3079.03,2025-02-25 18:33:19,Viagem,boleto,Sampaio,0
+86141,720.95,2025-03-15 21:06:40,PetShop,pix,Sampaio do Campo,0
+13733,836.58,2025-02-25 00:07:32,Farmacia,cartao_debito,Montenegro,0
+96951,4146.85,2025-03-01 23:37:33,Eletrônicos,boleto,Albuquerque Grande,1
+47777,3524.42,2025-03-14 22:39:59,Restaurante,cartao_credito,Cunha do Galho,0
+43050,2001.57,2025-03-02 13:25:40,Compra Online,cartao_debito,Teixeira,0
+47954,1597.28,2025-03-15 07:58:40,Eletrônicos,cartao_debito,Brito da Mata,0
+13762,1034.48,2025-03-18 10:19:07,PetShop,cartao_credito,Almeida,0
+33488,3775.37,2025-03-19 09:28:46,Viagem,bitcoin,da Costa,1
+48407,344.44,2025-03-21 20:35:29,Farmacia,cartao_credito,Andrade,0
+83226,3451.91,2025-03-08 03:00:33,Farmacia,boleto,da Cruz de Novais,0
+31771,4992.69,2025-03-14 12:50:42,Farmacia,bitcoin,Camargo,0
+35910,4973.26,2025-03-22 09:24:42,Viagem,boleto,Pacheco Alegre,0
+87491,1206.11,2025-02-22 13:59:24,Farmacia,boleto,Rezende,0
+37359,4288.99,2025-03-15 12:37:18,Viagem,boleto,Garcia do Amparo,0
+78346,4070.96,2025-03-17 06:30:32,Compra Online,paypal,Silveira das Flores,0
+76958,3827.79,2025-03-14 07:33:49,Eletrônicos,cartao_debito,Ribeiro do Norte,0
+91183,4726.47,2025-02-22 01:08:19,Eletrônicos,boleto,Aragão Alegre,1
+84181,3666.95,2025-03-21 14:07:11,Farmacia,cartao_credito,Machado da Mata,1
+92926,1915.56,2025-03-16 23:59:29,Eletrônicos,bitcoin,Correia,0
+80209,1633.93,2025-02-22 21:37:49,Farmacia,pix,Alves,1
+55351,3304.18,2025-03-11 02:54:18,Restaurante,cartao_debito,Jesus,0
+49461,2731.92,2025-03-09 03:19:36,Farmacia,cartao_debito,Pastor,0
+81820,2543.39,2025-03-09 20:16:58,Viagem,cartao_credito,Silva Verde,0
+26097,1917.32,2025-02-24 07:50:13,Viagem,cartao_debito,Azevedo de Minas,0
+89709,2797.81,2025-02-25 06:51:04,Eletrônicos,cartao_debito,Mendes de Garcia,0
+55849,1832.05,2025-03-18 18:21:22,Eletrônicos,cartao_debito,Monteiro,1
+79469,4098.15,2025-03-17 23:14:22,Eletrônicos,boleto,da Costa,1
+37034,2866.1,2025-03-20 03:07:07,Restaurante,cartao_credito,Sá Verde,0
+33717,3293.28,2025-03-09 04:22:14,Farmacia,boleto,Lopes de Minas,0
+25740,4005.07,2025-03-07 10:16:28,Supermercado,paypal,Casa Grande,0
+28092,1231.58,2025-03-16 07:27:15,Eletrônicos,cartao_credito,Aparecida do Oeste,0
+40416,964.56,2025-03-04 09:01:45,Viagem,boleto,Vasconcelos,0
+93967,424.22,2025-02-21 20:52:58,Eletrônicos,cartao_debito,Cavalcanti do Sul,1
+41074,2352.95,2025-03-01 05:42:30,Farmacia,cartao_debito,Rocha de Sousa,0
+61713,1108.94,2025-02-25 09:28:41,Restaurante,boleto,da Rocha do Campo,0
+50566,1202.16,2025-03-01 22:13:37,Eletrônicos,bitcoin,Pires,0
+88357,3903.34,2025-03-05 20:05:13,Eletrônicos,cartao_credito,Ferreira,0
+40965,4401.92,2025-03-07 19:31:42,Compra Online,boleto,Siqueira do Norte,0
+48517,3730.69,2025-03-05 12:57:28,Farmacia,boleto,Vieira,0
+52813,4945.59,2025-02-22 14:01:51,Supermercado,cartao_debito,Nogueira Verde,0
+58794,4214.12,2025-02-24 03:17:11,Supermercado,boleto,Siqueira,0
+62999,2331.94,2025-03-02 14:03:09,Restaurante,cartao_credito,Jesus de Vargas,1
+87612,3988.92,2025-03-10 14:34:51,Farmacia,boleto,Oliveira,0
+45531,348.11,2025-02-21 12:45:32,Viagem,cartao_credito,Vieira de Minas,0
+77718,4977.5,2025-02-24 00:23:43,Viagem,bitcoin,da Luz,1
+29895,3130.14,2025-03-04 10:54:48,Eletrônicos,boleto,Montenegro Verde,1
+29686,3678.04,2025-03-04 19:39:51,PetShop,cartao_debito,da Mota de Câmara,0
+43298,1128.65,2025-03-16 01:51:16,Restaurante,paypal,da Mota de Cavalcante,0
+90212,4734.82,2025-03-05 12:44:15,Eletrônicos,boleto,Vargas da Praia,1
+94091,165.58,2025-02-24 20:26:37,PetShop,boleto,Cunha de Ramos,1
+81390,451.31,2025-02-22 21:52:27,Eletrônicos,bitcoin,Rocha de Castro,0
+78273,4098.04,2025-03-17 00:28:28,Farmacia,cartao_credito,Freitas,1
+10027,1799.0,2025-02-27 10:11:57,Supermercado,boleto,Monteiro das Pedras,0
+12801,723.01,2025-03-07 17:50:22,PetShop,pix,Fonseca do Norte,1
+96129,2961.39,2025-02-23 02:20:24,Eletrônicos,cartao_debito,Rios das Flores,0
+51270,3060.26,2025-03-12 05:26:28,Compra Online,cartao_credito,Novais,0
+42470,4354.52,2025-03-03 03:53:52,Restaurante,boleto,Alves,0
+83848,3556.58,2025-03-03 03:08:09,Viagem,bitcoin,Barbosa da Praia,1
+80499,1159.79,2025-03-13 19:18:27,PetShop,cartao_debito,Fogaça da Prata,0
+30046,4892.8,2025-02-21 23:03:37,Eletrônicos,paypal,Camargo,0
+94460,2179.79,2025-03-03 02:15:44,Compra Online,cartao_credito,da Cruz da Prata,0
+86234,1349.65,2025-02-25 16:51:06,PetShop,boleto,Jesus das Pedras,0
+60358,510.92,2025-03-07 04:19:50,Farmacia,cartao_credito,Lopes,1
+50312,4252.77,2025-03-14 08:53:48,Supermercado,cartao_debito,Farias do Campo,0
+51783,3016.27,2025-03-07 07:45:04,Farmacia,cartao_debito,Leão,0
+88616,2778.46,2025-03-13 17:56:44,Supermercado,paypal,Freitas do Campo,0
+76160,4307.2,2025-03-02 09:23:50,Farmacia,paypal,Pires das Flores,0
+74065,4955.17,2025-03-06 02:14:14,Eletrônicos,cartao_debito,Viana de Casa Grande,0
+62923,1877.97,2025-03-11 03:30:46,Eletrônicos,cartao_debito,das Neves do Sul,0
+28768,2751.27,2025-02-26 20:59:30,Eletrônicos,cartao_debito,Sales,1
+36689,1789.64,2025-03-05 05:59:03,Farmacia,pix,Brito,1
+76099,3779.01,2025-03-16 13:49:13,Farmacia,pix,Caldeira do Galho,0
+18964,3212.42,2025-03-03 10:30:50,Supermercado,bitcoin,Cardoso,0
+68881,2831.99,2025-03-15 17:03:29,PetShop,pix,da Cunha do Oeste,1
+74638,3311.55,2025-03-15 11:04:12,Eletrônicos,cartao_credito,Cunha,0
+65106,2344.29,2025-02-23 11:44:20,Eletrônicos,cartao_debito,Macedo da Mata,0
+45968,4492.58,2025-03-03 00:38:00,Viagem,bitcoin,Correia de Goiás,1
+86620,1687.96,2025-03-10 11:05:01,Eletrônicos,boleto,Viana de da Rocha,0
+72478,2913.08,2025-03-22 00:53:02,Farmacia,cartao_credito,Oliveira do Norte,0
+14912,948.49,2025-03-18 21:22:44,Restaurante,cartao_credito,Correia do Amparo,1
+23053,2476.14,2025-03-13 01:02:01,PetShop,paypal,Vargas,0
+19305,2426.1,2025-02-21 17:29:19,Compra Online,cartao_debito,Nogueira do Campo,0
+26800,2094.78,2025-03-09 18:47:10,PetShop,pix,Caldeira de Cunha,1
+17527,440.09,2025-03-11 00:17:59,Supermercado,cartao_debito,Pires,0
+72283,1162.47,2025-03-09 06:23:45,PetShop,cartao_credito,Machado dos Dourados,0
+76597,2846.94,2025-03-12 07:40:19,Farmacia,pix,Jesus da Mata,1
+75692,632.12,2025-02-22 06:13:30,Compra Online,cartao_debito,Fogaça do Amparo,0
+94069,4388.24,2025-03-20 05:13:33,Viagem,bitcoin,Ferreira de da Costa,1
+31500,210.7,2025-03-15 23:28:27,Eletrônicos,cartao_debito,Ramos,0
+15390,909.64,2025-03-18 11:44:27,Viagem,cartao_debito,Melo do Galho,0
+98726,4294.68,2025-03-21 07:30:42,Supermercado,cartao_credito,Correia de Minas,0
+66857,4932.61,2025-02-22 13:54:38,Compra Online,cartao_credito,Ribeiro do Sul,1
+17994,4863.58,2025-03-20 13:11:34,Eletrônicos,cartao_credito,Montenegro,0
+53585,2644.54,2025-02-28 04:45:23,Farmacia,bitcoin,Monteiro dos Dourados,0
+19397,4591.33,2025-03-12 07:23:20,Eletrônicos,cartao_debito,Cardoso de da Paz,0
+24524,2546.29,2025-02-21 12:55:43,Supermercado,cartao_credito,Vieira Paulista,0
+30309,3250.12,2025-02-21 09:37:49,Compra Online,cartao_debito,Mendonça,0
+88197,716.05,2025-03-22 00:19:27,Farmacia,cartao_credito,da Rocha das Flores,1
+86891,3251.88,2025-03-16 14:14:20,Compra Online,cartao_credito,Martins,1
+42116,1307.29,2025-03-04 22:57:56,Eletrônicos,paypal,Costela de Freitas,0
+61215,2376.68,2025-03-21 19:23:03,Viagem,bitcoin,Duarte,0
+43002,432.09,2025-03-15 16:31:25,PetShop,pix,Marques,1
+86635,1484.92,2025-03-10 12:01:15,Restaurante,cartao_credito,Siqueira de Sousa,0
+82737,3625.07,2025-03-17 07:32:25,Restaurante,cartao_debito,Lima da Prata,0
+16709,3296.21,2025-03-07 15:03:44,PetShop,pix,da Mata Alegre,1
+35288,1443.27,2025-02-27 16:26:35,Viagem,cartao_credito,da Cruz,0
+84567,1325.46,2025-02-22 08:57:47,Restaurante,cartao_credito,Ferreira de Minas,1
+56149,1204.36,2025-02-22 12:11:05,Farmacia,pix,Pereira de Minas,1
+39924,68.81,2025-03-13 22:43:10,Restaurante,cartao_credito,Rodrigues,0
+53030,2110.81,2025-03-05 15:26:40,Eletrônicos,cartao_credito,Silva,0
+41926,3201.42,2025-02-27 11:47:05,Restaurante,boleto,Rios da Mata,0
+63297,4720.52,2025-03-18 06:53:42,Viagem,bitcoin,Macedo,1
+27369,77.64,2025-03-08 15:37:03,PetShop,cartao_debito,da Cunha Verde,0
+61887,4232.09,2025-03-20 18:21:02,Viagem,bitcoin,Caldeira de Alves,1
+87034,396.73,2025-03-13 04:13:11,Farmacia,paypal,Barbosa de Azevedo,0
+62780,4335.91,2025-03-04 18:15:41,Compra Online,boleto,da Conceição,0
+52934,1160.64,2025-02-21 10:52:31,Farmacia,pix,Monteiro,0
+74850,3551.47,2025-03-11 14:31:10,Eletrônicos,boleto,Sá Alegre,1
+96480,337.34,2025-03-10 01:18:54,Viagem,cartao_credito,Vargas,0
+34635,4308.13,2025-02-24 12:37:08,PetShop,boleto,Fogaça,0
+16711,4761.25,2025-03-03 00:06:09,Farmacia,boleto,Silva,0
+86039,2577.75,2025-03-08 15:58:02,Eletrônicos,cartao_debito,Campos Paulista,0
+49319,2396.49,2025-02-21 05:05:40,Eletrônicos,boleto,Aparecida,0
+41285,4506.97,2025-03-10 04:25:59,Farmacia,cartao_credito,Cavalcante Alegre,1
+99333,1379.21,2025-03-08 13:44:44,Eletrônicos,cartao_credito,Garcia do Campo,0
+72391,4008.07,2025-03-10 21:09:47,Farmacia,pix,Pastor,1
+17513,1317.67,2025-02-25 08:04:50,Farmacia,cartao_debito,Martins das Pedras,0
+96909,2234.66,2025-03-08 18:19:27,Compra Online,cartao_debito,das Neves,0
+63499,3643.26,2025-03-02 02:52:20,Farmacia,cartao_credito,Pimenta Alegre,1
+87170,1226.51,2025-03-17 11:02:36,Farmacia,cartao_credito,Porto do Campo,0
+78634,4710.16,2025-03-22 02:50:59,PetShop,boleto,Pimenta do Campo,0
+51085,2897.08,2025-03-21 18:54:27,PetShop,pix,Ferreira de Rezende,1
+74959,2935.04,2025-03-19 14:01:44,Viagem,paypal,Lopes,0
+84509,287.42,2025-02-23 09:00:23,PetShop,boleto,Macedo,1
+19792,205.29,2025-03-15 19:25:20,Viagem,bitcoin,Correia de Castro,0
+58672,4065.24,2025-03-02 00:00:44,Eletrônicos,cartao_credito,Sampaio das Flores,0
+37237,2796.16,2025-03-07 21:34:27,Eletrônicos,pix,Cassiano Paulista,0
+52800,3120.64,2025-03-13 09:10:21,PetShop,paypal,Moura,0
+29976,3410.06,2025-02-21 06:39:55,Farmacia,pix,Cavalcanti,1
+94942,1641.61,2025-03-18 14:55:40,Compra Online,cartao_credito,Andrade da Praia,0
+50616,1678.09,2025-03-02 10:51:47,Farmacia,cartao_credito,Rios,1
+43970,1962.91,2025-03-09 22:04:58,Farmacia,pix,Costela,1
+66559,1260.98,2025-03-11 15:32:56,Eletrônicos,boleto,Oliveira,0
+33674,4508.22,2025-03-22 10:05:44,Eletrônicos,cartao_debito,Mendes,1
+28179,2390.56,2025-02-26 17:46:18,Viagem,cartao_credito,Borges Alegre,0
+52145,1339.62,2025-03-16 03:51:58,Eletrônicos,cartao_credito,Marques,0
+25860,2173.21,2025-03-02 07:06:23,Viagem,cartao_debito,Cardoso de Minas,0
+47010,3477.92,2025-03-15 18:45:56,Eletrônicos,boleto,Macedo de da Cruz,1
+92395,648.07,2025-03-01 06:58:01,Eletrônicos,cartao_credito,Siqueira de Pastor,0
+37059,3929.71,2025-03-13 11:34:42,Eletrônicos,boleto,Correia Paulista,1
+94043,4721.16,2025-03-05 18:16:10,Viagem,boleto,Rezende das Pedras,0
+52965,1226.99,2025-02-23 18:11:42,Restaurante,cartao_credito,Cavalcante das Flores,1
+70222,821.87,2025-03-14 04:39:30,Restaurante,cartao_credito,Pacheco Paulista,1
+87086,322.8,2025-03-08 10:44:08,Eletrônicos,cartao_credito,Fogaça do Amparo,0
+43955,1515.88,2025-03-19 14:07:12,Compra Online,boleto,Caldeira,0
+24349,4754.51,2025-03-19 09:44:38,Eletrônicos,cartao_debito,Barros do Campo,1
+17570,4290.3,2025-03-05 00:09:41,Restaurante,cartao_debito,Sá Grande,0
+14340,3882.31,2025-02-21 05:28:49,Viagem,bitcoin,Montenegro,1
+75764,1327.02,2025-03-10 07:23:29,Viagem,boleto,Barros,0
+27973,2892.4,2025-02-24 01:27:04,PetShop,pix,da Rocha,1
+16103,4770.13,2025-03-07 03:02:34,Viagem,bitcoin,Souza,1
+13800,4428.11,2025-02-21 06:18:13,Restaurante,paypal,Novaes,0
+72018,483.41,2025-03-07 08:17:55,Farmacia,boleto,Gonçalves de Alves,0
+24364,2905.22,2025-03-08 23:17:44,Viagem,cartao_debito,Mendonça de Minas,0
+89462,2866.32,2025-03-18 19:53:32,Eletrônicos,boleto,Pastor do Norte,0
+69350,2095.51,2025-02-24 14:23:12,Farmacia,cartao_credito,Porto do Norte,0
+19040,3909.27,2025-03-03 03:29:28,Supermercado,cartao_credito,Macedo do Norte,0
+32891,3973.83,2025-03-04 12:06:49,Farmacia,cartao_credito,Fogaça,1
+63872,1179.87,2025-02-22 09:22:01,Restaurante,cartao_credito,Lopes,1
+80893,3281.08,2025-03-01 02:14:28,PetShop,pix,Dias das Pedras,1
+45909,3753.57,2025-03-14 01:44:56,Restaurante,paypal,Vieira de Peixoto,0
+19054,206.68,2025-02-26 23:55:22,Compra Online,cartao_debito,Mendes,0
+52966,392.65,2025-03-03 00:24:00,Supermercado,cartao_credito,Araújo,0
+59043,4529.12,2025-02-24 11:18:42,Compra Online,cartao_credito,da Cunha,1
+56876,3174.71,2025-03-01 17:41:12,Compra Online,cartao_credito,Costa do Oeste,1
+73214,3652.67,2025-03-20 04:31:55,Eletrônicos,cartao_debito,da Mota do Galho,1
+46024,50.2,2025-02-22 19:48:26,PetShop,boleto,da Conceição,1
+36286,3771.43,2025-03-03 02:46:02,Viagem,pix,Gonçalves,0
+41580,2486.29,2025-03-14 04:46:50,Restaurante,cartao_debito,Siqueira das Pedras,0
+23039,3849.71,2025-03-09 06:38:55,Eletrônicos,cartao_credito,das Neves,0
+77348,2047.07,2025-03-19 21:34:54,Eletrônicos,cartao_debito,Machado,0
+80882,4200.77,2025-03-10 16:24:15,Farmacia,cartao_credito,Cirino,1
+55228,4823.65,2025-02-21 21:06:51,Farmacia,cartao_credito,da Rocha,0
+30076,2092.62,2025-03-06 22:39:03,Farmacia,cartao_credito,Cunha Verde,0
+78514,3840.03,2025-03-10 21:59:15,Farmacia,boleto,Ribeiro do Oeste,0
+62524,2180.19,2025-03-11 00:19:16,Restaurante,cartao_credito,Ribeiro da Mata,0
+26792,2906.97,2025-03-06 12:17:59,Eletrônicos,paypal,Lopes Alegre,0
+55036,2279.41,2025-02-25 02:22:43,Farmacia,pix,da Rosa da Serra,1
+17985,1211.0,2025-03-07 02:24:33,Viagem,boleto,Sampaio,0
+40059,3557.11,2025-03-02 19:34:06,PetShop,cartao_credito,Pereira,0
+46248,1159.38,2025-03-03 11:33:19,Eletrônicos,cartao_debito,Macedo do Amparo,0
+44097,3876.82,2025-03-16 18:59:57,Viagem,bitcoin,Viana,1
+76426,3844.11,2025-03-02 05:01:30,PetShop,pix,Farias de Cavalcanti,1
+21711,2056.85,2025-03-12 09:08:57,Farmacia,cartao_debito,Nogueira,0
+90548,4011.12,2025-03-09 09:50:24,Eletrônicos,boleto,Pereira,0
+72837,2414.35,2025-03-20 08:03:47,Restaurante,cartao_credito,Moura,1
+32111,2583.49,2025-03-07 21:59:30,Farmacia,cartao_debito,da Cunha,0
+32474,2476.9,2025-03-10 20:47:17,Compra Online,cartao_credito,Freitas,0
+15511,2523.04,2025-03-11 07:33:09,Compra Online,cartao_debito,Pacheco de Sales,0
+58441,2458.1,2025-03-04 22:58:52,Restaurante,cartao_credito,Peixoto Verde,1
+37919,4994.0,2025-03-18 14:05:13,Restaurante,cartao_debito,Macedo de Araújo,0
+92081,4087.04,2025-03-02 02:19:52,Farmacia,cartao_debito,Moura,0
+52503,4791.52,2025-03-19 03:22:34,Compra Online,cartao_credito,Santos de Moraes,1
+57588,590.88,2025-03-02 23:27:57,Compra Online,paypal,Pereira dos Dourados,0
+79808,4834.02,2025-02-22 23:50:05,Compra Online,cartao_credito,Farias,1
+53657,1185.06,2025-03-10 00:14:11,Restaurante,cartao_debito,Vasconcelos,0
+14155,2987.85,2025-03-19 17:12:06,PetShop,pix,Cavalcanti Alegre,1
+98955,2532.71,2025-03-20 17:12:47,Farmacia,pix,Nascimento,1
+99473,3699.02,2025-03-17 01:33:52,PetShop,pix,Ramos,1
+25047,1627.49,2025-02-28 05:04:16,Viagem,cartao_credito,Mendonça,0
+34041,57.35,2025-02-27 08:32:54,Farmacia,paypal,Duarte da Mata,0
+18069,4972.36,2025-03-02 14:21:34,Farmacia,cartao_credito,Pacheco dos Dourados,0
+32792,3365.71,2025-03-06 00:24:46,Compra Online,cartao_credito,Camargo da Serra,0
+49574,130.83,2025-03-22 04:14:19,Restaurante,boleto,Macedo de Montenegro,0
+72698,3255.16,2025-03-17 21:20:56,Viagem,cartao_credito,Novais Verde,0
+84934,2256.08,2025-03-16 17:51:24,Viagem,cartao_credito,Casa Grande de Machado,0
+83359,4595.47,2025-03-07 20:27:38,Eletrônicos,cartao_debito,Mendonça Verde,0
+46655,63.08,2025-02-24 06:15:25,Farmacia,cartao_credito,Aragão,0
+59991,2104.3,2025-03-17 12:40:12,Restaurante,boleto,Brito da Prata,0
+64449,1059.98,2025-02-23 16:31:58,Farmacia,cartao_credito,Monteiro,0
+71908,3521.16,2025-02-23 10:58:16,PetShop,pix,da Luz,1
+85199,300.82,2025-03-17 17:12:49,Restaurante,cartao_credito,Carvalho de Azevedo,0
+25868,4104.64,2025-02-22 07:51:07,Eletrônicos,cartao_debito,Freitas da Mata,0
+90882,4957.71,2025-02-25 12:38:51,Farmacia,pix,Ribeiro,1
+56856,1366.81,2025-03-04 14:59:07,PetShop,pix,Siqueira de Minas,1
+65028,848.56,2025-03-11 22:51:10,Farmacia,cartao_credito,Abreu das Flores,0
+26372,3653.93,2025-03-03 22:09:24,Compra Online,cartao_credito,Viana,1
+99389,4196.61,2025-03-13 05:46:44,PetShop,cartao_debito,Araújo do Galho,0
+80353,2667.16,2025-03-17 22:34:50,Eletrônicos,cartao_debito,Marques,0
+44381,4074.53,2025-03-20 02:53:17,Viagem,bitcoin,da Conceição,1
+38325,3772.98,2025-02-22 09:05:59,Farmacia,bitcoin,Rodrigues do Galho,0
+59940,1704.9,2025-03-04 03:13:17,Farmacia,cartao_credito,Castro,1
+61819,4695.92,2025-03-17 15:13:59,Farmacia,boleto,da Paz da Praia,0
+65596,4817.51,2025-03-03 10:41:17,Supermercado,cartao_credito,da Paz,0
+72553,2019.41,2025-02-24 08:19:11,Supermercado,cartao_debito,Pires dos Dourados,0
+48933,2942.26,2025-03-01 14:53:44,Farmacia,bitcoin,Silveira de Gonçalves,0
+33327,2516.81,2025-03-10 10:46:20,Restaurante,cartao_credito,Vieira,1
+92747,3382.92,2025-03-07 03:55:05,Compra Online,cartao_credito,Dias do Amparo,1
+38012,1879.95,2025-02-21 21:28:34,Compra Online,cartao_debito,da Rocha,0
+40547,964.42,2025-02-26 11:17:52,Restaurante,cartao_credito,das Neves,1
+95246,2492.87,2025-03-19 01:00:16,Supermercado,cartao_credito,da Rosa,0
+68999,4295.65,2025-02-21 15:16:48,Farmacia,pix,Nogueira de Pastor,1
+77423,152.82,2025-03-16 18:35:10,Viagem,cartao_credito,Rezende,0
+39090,2578.48,2025-02-26 20:31:01,Eletrônicos,cartao_debito,Andrade de Moreira,0
+63552,4358.52,2025-02-26 19:42:05,Restaurante,paypal,Oliveira da Praia,0
+56357,3768.5,2025-03-19 07:51:16,PetShop,pix,Almeida,1
+80563,4417.71,2025-02-25 23:14:10,Eletrônicos,boleto,Cirino de Rocha,1
+92213,1087.72,2025-03-03 19:06:57,Farmacia,bitcoin,Câmara do Oeste,0
+75951,1225.88,2025-03-09 07:31:33,Compra Online,paypal,Siqueira,0
+95167,4535.7,2025-03-03 12:39:25,Eletrônicos,cartao_debito,da Conceição de Ferreira,0
+32422,95.31,2025-03-16 20:19:26,Viagem,boleto,Peixoto,0
+41392,3942.91,2025-03-06 05:47:39,Compra Online,boleto,Casa Grande,0
+69432,2501.32,2025-03-20 14:21:42,Eletrônicos,cartao_credito,Garcia,0
+40465,1979.3,2025-03-10 18:12:12,Compra Online,cartao_debito,Casa Grande,0
+61389,3184.02,2025-03-03 02:37:45,Farmacia,cartao_debito,Mendes,0
+56941,2298.9,2025-02-26 04:05:46,Farmacia,cartao_credito,Carvalho,1
+23277,124.26,2025-03-08 09:47:28,PetShop,boleto,Vieira do Norte,1
+18094,1689.67,2025-03-08 21:12:20,Compra Online,cartao_debito,Vasconcelos do Galho,0
+37080,1485.4,2025-03-01 16:38:15,Eletrônicos,cartao_debito,Abreu,0
+10531,3644.15,2025-03-09 20:12:28,Compra Online,cartao_credito,da Paz,0
+46524,401.69,2025-03-13 19:58:01,Eletrônicos,cartao_debito,da Cunha de da Rosa,1
+13340,4234.39,2025-03-19 09:53:09,PetShop,pix,da Rosa,1
+14367,3232.61,2025-03-09 09:29:11,Compra Online,cartao_credito,Nascimento de Caldeira,1
+42511,3522.76,2025-03-19 13:04:45,Eletrônicos,boleto,Andrade de Minas,1
+58701,4280.21,2025-03-02 11:00:41,Supermercado,pix,da Paz,0
+58762,1515.27,2025-02-22 21:09:08,Eletrônicos,cartao_credito,Macedo,0
+46039,675.75,2025-03-13 02:13:31,Restaurante,cartao_debito,Aragão do Campo,0
+83477,4203.19,2025-03-06 01:21:48,Viagem,paypal,Porto,0
+69402,145.34,2025-03-01 11:00:24,Farmacia,cartao_credito,Cavalcante,1
+55037,299.26,2025-03-13 21:42:49,Viagem,cartao_credito,Pinto de Minas,0
+17335,114.56,2025-02-21 20:27:26,Eletrônicos,cartao_credito,Ribeiro de Santos,0
+85976,524.22,2025-03-22 10:50:35,Farmacia,pix,Siqueira de Dias,1
+30787,3511.2,2025-03-04 03:58:41,PetShop,cartao_debito,da Mota,0
+62991,4620.47,2025-03-20 20:31:44,Supermercado,cartao_debito,Fernandes do Norte,0
+85631,110.57,2025-02-23 12:41:25,PetShop,boleto,Peixoto,1
+20908,1359.3,2025-03-22 06:57:57,Viagem,cartao_debito,Azevedo Grande,0
+47240,1646.58,2025-02-23 19:57:43,Eletrônicos,cartao_debito,Fogaça do Campo,0
+75892,2562.6,2025-02-26 09:30:06,Eletrônicos,cartao_credito,Nunes,0
+44860,3171.03,2025-02-21 07:53:06,Eletrônicos,boleto,Barbosa,1
+26382,2717.11,2025-03-11 15:35:49,Farmacia,cartao_debito,Leão Paulista,0
+64060,3290.21,2025-03-02 16:29:32,Viagem,cartao_credito,Fernandes de Goiás,0
+60302,4773.94,2025-02-21 20:57:34,Compra Online,cartao_credito,Mendes das Flores,0
+25097,2564.31,2025-03-22 10:28:52,Compra Online,cartao_credito,Aragão da Mata,0
+55229,3142.77,2025-03-08 18:51:53,Restaurante,paypal,Cavalcante,0
+87234,1053.05,2025-03-07 20:30:57,Compra Online,cartao_debito,Peixoto,0
+78970,3766.12,2025-03-18 02:55:22,Compra Online,cartao_credito,Rezende de Minas,1
+86136,4639.3,2025-03-03 10:56:11,Farmacia,cartao_credito,da Mota,0
+44611,4458.26,2025-02-27 21:33:48,Farmacia,pix,Garcia de Alves,1
+33960,3123.67,2025-02-27 09:57:39,Farmacia,paypal,Moura,0
+57530,252.22,2025-02-25 23:13:50,Farmacia,cartao_credito,Freitas de Ribeiro,0
+82386,4037.46,2025-03-05 18:20:49,Eletrônicos,bitcoin,Brito dos Dourados,0
+56036,2947.6,2025-02-27 01:40:28,Supermercado,paypal,da Cruz,0
+15604,3825.72,2025-02-26 04:57:26,Compra Online,cartao_credito,Casa Grande de da Cruz,1
+84923,1230.01,2025-03-13 20:09:22,Viagem,boleto,Rodrigues de Goiás,0
+35310,3915.26,2025-03-17 04:36:43,Viagem,bitcoin,Vasconcelos da Praia,1
+35855,532.73,2025-02-23 21:10:02,Eletrônicos,cartao_debito,Ramos,0
+13441,946.11,2025-03-02 13:59:38,Eletrônicos,cartao_debito,Pinto,1
+92313,3782.89,2025-03-12 20:36:47,Compra Online,cartao_credito,Carvalho,1
+84352,3600.49,2025-03-03 06:18:26,Eletrônicos,cartao_debito,da Rosa,1
+48499,1385.93,2025-03-03 04:50:23,Eletrônicos,cartao_debito,Cunha das Pedras,1
+94371,4575.35,2025-03-03 09:09:26,Farmacia,pix,Fonseca de Minas,1
+66113,3884.32,2025-03-17 23:19:12,PetShop,pix,Casa Grande,1
+52769,2154.45,2025-03-20 22:18:19,Eletrônicos,cartao_debito,Gonçalves,1
+55354,578.13,2025-02-23 00:45:39,Compra Online,cartao_debito,Costela,0
+83236,1160.99,2025-03-08 03:37:13,Compra Online,cartao_debito,Duarte das Flores,0
+89317,3507.75,2025-03-01 22:21:59,Compra Online,cartao_credito,da Mata,1
+76611,4331.84,2025-02-27 23:04:45,Eletrônicos,cartao_credito,Silveira do Galho,0
+34490,4651.58,2025-03-09 00:36:14,Supermercado,cartao_credito,Ferreira,0
+14453,1727.11,2025-03-06 10:16:40,Eletrônicos,cartao_debito,Garcia de Goiás,0
+20562,3204.3,2025-02-22 05:55:12,Eletrônicos,boleto,da Rocha,1
+10423,113.98,2025-03-19 06:32:52,Viagem,cartao_debito,Montenegro,0
+40121,4895.62,2025-03-16 19:58:01,Viagem,bitcoin,Duarte,1
+21110,866.86,2025-02-26 15:24:51,Eletrônicos,boleto,Brito de Casa Grande,0
+61821,3946.27,2025-02-28 00:46:17,Eletrônicos,cartao_debito,Andrade dos Dourados,0
+69738,2488.85,2025-03-21 20:44:58,Restaurante,cartao_credito,Peixoto,1
+83581,2366.06,2025-03-19 01:56:27,Eletrônicos,cartao_debito,Montenegro do Norte,1
+43538,3809.89,2025-03-14 20:00:10,Restaurante,boleto,Santos de Ramos,0
+82549,199.06,2025-02-23 03:56:31,Viagem,bitcoin,Santos,0
+99575,2970.53,2025-03-20 14:50:07,Viagem,cartao_debito,Mendes,0
+65026,1298.77,2025-02-25 14:39:20,Eletrônicos,cartao_debito,Novais,0
+28148,1335.94,2025-03-09 06:48:48,PetShop,pix,da Luz da Praia,1
+19234,1034.34,2025-03-21 10:59:16,Supermercado,bitcoin,Leão,0
+99290,3840.89,2025-03-01 11:13:32,Compra Online,boleto,Cardoso,0
+88282,3514.46,2025-03-21 20:45:39,Eletrônicos,boleto,Marques de da Paz,0
+21107,1001.53,2025-03-21 14:20:47,Eletrônicos,cartao_debito,da Mata,0
+44511,3772.64,2025-03-12 20:23:25,Supermercado,boleto,Moraes do Campo,0
+80032,3702.12,2025-03-07 00:09:06,Eletrônicos,cartao_debito,Jesus,0
+30164,4972.9,2025-03-15 06:10:24,Viagem,bitcoin,Melo da Praia,1
+89546,1896.87,2025-02-20 17:12:17,Eletrônicos,cartao_debito,Rocha do Oeste,1
+17107,90.36,2025-03-06 17:05:37,Eletrônicos,bitcoin,Lima,0
+24155,3118.7,2025-03-12 01:38:31,Eletrônicos,boleto,Pastor,1
+48113,1999.35,2025-03-07 02:23:44,Restaurante,cartao_credito,Macedo de Mendes,1
+94913,1410.7,2025-02-27 11:49:29,Eletrônicos,boleto,Moraes,0
+42772,2259.65,2025-03-20 23:08:44,Viagem,cartao_credito,Ramos do Sul,0
+23605,157.75,2025-03-22 01:09:56,Supermercado,cartao_debito,Pacheco do Norte,0
+44833,3220.55,2025-03-21 02:43:44,Farmacia,cartao_credito,da Cunha dos Dourados,0
+27887,2884.44,2025-03-17 01:07:28,Viagem,cartao_credito,Camargo da Serra,0
+67409,1463.62,2025-02-23 06:37:29,Viagem,cartao_debito,Cunha,0
+89269,1168.52,2025-03-17 03:23:35,Eletrônicos,cartao_debito,Carvalho,0
+91399,3809.47,2025-03-01 12:11:10,Supermercado,boleto,Pimenta,0
+95323,2439.92,2025-03-01 12:45:42,Eletrônicos,cartao_debito,Aragão Alegre,0
+82862,720.25,2025-03-13 00:02:01,Eletrônicos,cartao_debito,Costela de Minas,0
+41397,3490.59,2025-03-08 03:51:56,Eletrônicos,boleto,Camargo de Goiás,1
+69561,4100.09,2025-02-22 23:45:12,PetShop,pix,Caldeira do Sul,1
+94487,3129.84,2025-03-20 22:33:57,Compra Online,cartao_credito,Souza,1
+48585,205.98,2025-03-20 12:57:21,PetShop,paypal,Pimenta dos Dourados,0
+39812,3007.62,2025-03-15 08:35:07,Farmacia,boleto,Cavalcanti da Mata,0
+44354,3685.46,2025-03-13 06:57:45,Eletrônicos,bitcoin,Cirino,0
+95343,4581.42,2025-03-04 17:28:32,Compra Online,cartao_credito,Rezende,1
+67426,4662.23,2025-03-08 09:49:47,Eletrônicos,boleto,Rios de Teixeira,1
+32508,4329.68,2025-03-15 15:01:07,Eletrônicos,cartao_credito,Lima Grande,0
+82809,2329.38,2025-03-15 01:02:07,Supermercado,cartao_debito,das Neves,0
+42197,3081.21,2025-03-14 03:00:51,Compra Online,cartao_credito,Araújo dos Dourados,1
+19682,4083.39,2025-02-28 21:04:50,Supermercado,cartao_credito,Fernandes,0
+99784,3101.67,2025-02-22 05:42:29,Eletrônicos,boleto,Caldeira,0
+70186,1154.53,2025-02-21 21:53:23,Viagem,cartao_credito,Vieira,0
+39315,4324.54,2025-03-01 17:41:05,Viagem,cartao_debito,Martins de Azevedo,0
+93827,4815.8,2025-03-01 15:48:36,Eletrônicos,boleto,Rocha Paulista,1
+94581,991.13,2025-02-24 06:18:41,Eletrônicos,cartao_credito,Casa Grande,0
+22358,2519.13,2025-02-24 10:07:34,Eletrônicos,cartao_debito,Nunes do Amparo,0
+94015,4776.07,2025-03-16 13:21:21,Eletrônicos,boleto,Borges do Norte,0
+72132,1869.98,2025-03-21 22:35:57,Eletrônicos,paypal,Abreu de Farias,0
+26174,555.24,2025-03-14 23:32:07,PetShop,pix,Albuquerque,1
+30872,4307.25,2025-03-14 17:47:45,PetShop,pix,Sousa do Norte,1
+45055,1842.61,2025-03-05 20:47:54,Viagem,cartao_debito,Campos Paulista,0
+37554,2582.96,2025-03-04 08:22:58,Supermercado,cartao_credito,da Luz de Borges,0
+32437,1783.06,2025-03-04 20:52:42,PetShop,pix,Freitas da Mata,1
+51129,4818.98,2025-03-03 20:03:55,Eletrônicos,bitcoin,Montenegro,0
+94927,2875.98,2025-03-11 21:34:35,Farmacia,boleto,da Conceição,0
+83245,3770.21,2025-02-26 09:51:40,PetShop,pix,Souza dos Dourados,1
+63085,4642.75,2025-03-09 01:34:11,Eletrônicos,paypal,Viana da Prata,0
+16257,3860.5,2025-03-02 03:22:42,Supermercado,boleto,Pacheco de Rezende,0
+58515,4685.25,2025-03-08 08:46:02,Viagem,bitcoin,da Mata,0
+13905,1908.21,2025-03-20 22:33:23,Viagem,cartao_credito,Borges dos Dourados,0
+64561,3793.12,2025-03-02 16:39:18,Eletrônicos,cartao_debito,Oliveira,1
+42747,3479.17,2025-03-02 13:14:15,Farmacia,cartao_debito,Moraes Verde,0
+44548,4970.87,2025-03-07 01:05:43,Eletrônicos,cartao_debito,Sousa de Goiás,0
+33617,2235.05,2025-03-21 15:39:41,Farmacia,cartao_debito,Machado,0
+16068,2565.96,2025-03-13 10:58:43,Viagem,boleto,Sampaio de Mendonça,0
+72908,4192.55,2025-03-01 13:47:26,Farmacia,pix,Leão,1
+45330,3559.61,2025-03-15 03:48:10,Compra Online,cartao_credito,Mendonça do Campo,1
+32866,4612.12,2025-03-20 22:28:13,Compra Online,cartao_debito,Marques,0
+52826,947.97,2025-03-02 04:55:09,Viagem,cartao_debito,Barbosa de da Mata,0
+88164,740.05,2025-03-15 17:11:54,Supermercado,cartao_credito,da Luz Verde,0
+36758,3235.91,2025-02-26 20:25:57,Eletrônicos,cartao_debito,Cassiano do Sul,0
+88112,4407.5,2025-02-28 07:24:14,Eletrônicos,cartao_debito,Pacheco,0
+65625,2650.69,2025-03-11 03:19:07,Farmacia,pix,Pastor de Leão,1
+35658,4096.69,2025-03-09 05:03:54,Eletrônicos,boleto,Silveira das Flores,1
+61730,2202.55,2025-03-22 05:13:51,Compra Online,boleto,Correia do Galho,0
+48477,2879.82,2025-03-14 00:38:55,Eletrônicos,cartao_credito,Brito Grande,0
+40708,2554.81,2025-03-04 01:31:38,Farmacia,cartao_credito,Santos,0
+66348,931.53,2025-03-16 12:18:52,Viagem,pix,Barros,0
+50551,4405.63,2025-03-12 01:59:20,Compra Online,cartao_credito,Moura,0
+84203,4448.21,2025-02-21 08:54:10,Eletrônicos,boleto,Silva de da Cruz,1
+65406,3399.36,2025-03-17 06:05:10,Eletrônicos,cartao_debito,Gomes das Pedras,1
+16549,3558.08,2025-03-13 19:54:01,Eletrônicos,boleto,Sales das Pedras,1
+81219,4428.57,2025-03-15 06:16:32,Eletrônicos,cartao_debito,Novais de Farias,0

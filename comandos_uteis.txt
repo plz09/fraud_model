@@ -1,0 +1,20 @@
+Comandos utils:
+
+# Verificar versões
+terraform version
+aws --version
+
+# Listar instances criadas na região us-east-2
+aws ec2 describe-instances --region us-east-2
+
+# Testar API localmente (dentro da pasta fastapi_api)
+uvicorn main:app --reload 
+
+# Criar ambiente virtual
+python -m venv venv
+
+# Ativar ambiente virtual 
+source ../venv/Scripts/activate
+
+# Rodar o streamlit 
+streamlit run app.py

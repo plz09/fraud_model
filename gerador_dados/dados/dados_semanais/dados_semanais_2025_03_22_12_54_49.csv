@@ -1,0 +1,51 @@
+id_transacao,valor,hora_transacao,categoria,metodo_pagamento,localizacao
+16989,730.85,2025-03-18 14:05:00,Supermercado,cartao_debito,Camargo
+81308,1057.64,2025-03-21 00:05:11,Supermercado,pix,da Mata da Praia
+67702,2395.84,2025-03-17 14:52:48,Supermercado,cartao_debito,Mendes
+72048,2162.33,2025-03-21 20:10:37,Compra Online,pix,Sampaio
+45652,2270.89,2025-03-20 08:26:06,Restaurante,cartao_debito,Rios dos Dourados
+11535,2070.05,2025-03-20 07:32:58,Compra Online,cartao_debito,Rios Grande
+28770,1729.91,2025-03-22 02:38:16,Eletrônicos,cartao_credito,Casa Grande de Martins
+25211,2085.18,2025-03-17 13:11:06,Compra Online,cartao_credito,Guerra da Praia
+75935,319.24,2025-03-21 19:05:44,Compra Online,cartao_debito,Souza de Cardoso
+97954,1339.06,2025-03-16 14:55:32,Restaurante,cartao_credito,Caldeira
+62310,601.15,2025-03-22 05:35:28,Compra Online,cartao_credito,Pastor
+13963,3272.3,2025-03-17 03:24:42,Eletrônicos,pix,Camargo
+51224,2391.05,2025-03-21 11:47:20,Supermercado,pix,Lima
+56894,3866.53,2025-03-21 13:10:00,Compra Online,pix,Cardoso da Praia
+22357,2689.71,2025-03-21 21:32:49,Viagem,cartao_credito,Pimenta
+91049,4909.02,2025-03-19 18:26:27,Viagem,cartao_credito,Cunha Alegre
+40161,1393.64,2025-03-17 04:11:15,Supermercado,cartao_credito,Brito de Vargas
+78864,32.59,2025-03-16 23:55:47,Supermercado,cartao_debito,Vargas do Campo
+33112,3415.68,2025-03-17 12:50:47,Eletrônicos,cartao_credito,Siqueira de Fogaça
+30981,1781.75,2025-03-21 08:36:56,Supermercado,cartao_debito,Pacheco Grande
+88842,3898.19,2025-03-17 23:13:13,Restaurante,cartao_credito,Machado das Flores
+88392,335.69,2025-03-15 18:16:29,Viagem,cartao_credito,Vieira das Pedras
+57370,2502.1,2025-03-18 18:30:45,Compra Online,cartao_credito,Aparecida
+60148,851.31,2025-03-18 19:54:31,Compra Online,pix,da Paz
+29978,1491.11,2025-03-16 21:56:44,Restaurante,cartao_debito,Leão de Lima
+96404,1276.05,2025-03-21 02:34:36,Restaurante,pix,Guerra do Norte
+33090,218.02,2025-03-17 20:29:13,Compra Online,cartao_debito,Fernandes
+53557,4343.55,2025-03-17 04:36:10,Eletrônicos,cartao_credito,Ribeiro
+68425,3641.24,2025-03-21 07:09:26,Compra Online,cartao_credito,Farias Grande
+88924,129.7,2025-03-18 11:50:48,Compra Online,pix,Monteiro
+57814,1574.16,2025-03-16 14:45:41,Restaurante,cartao_credito,Cardoso de Goiás
+16771,4297.15,2025-03-21 14:30:21,Supermercado,cartao_debito,Andrade
+42959,4491.85,2025-03-16 05:27:15,Viagem,cartao_credito,Aparecida Paulista
+41911,3832.28,2025-03-15 16:21:04,Restaurante,cartao_credito,da Costa
+18444,221.39,2025-03-22 06:13:33,Supermercado,cartao_credito,Vargas da Prata
+52655,3493.36,2025-03-18 19:11:45,Viagem,cartao_credito,Gonçalves
+84885,3084.57,2025-03-20 19:08:57,Eletrônicos,cartao_debito,Cassiano
+40066,3288.21,2025-03-21 02:13:00,Restaurante,cartao_credito,Monteiro do Norte
+12215,4488.43,2025-03-22 00:35:31,Eletrônicos,pix,Fernandes
+30246,3135.87,2025-03-19 15:02:42,Eletrônicos,boleto,Abreu
+89319,2237.95,2025-03-20 12:02:16,Supermercado,pix,da Luz do Campo
+30241,260.05,2025-03-22 10:54:00,Compra Online,pix,Souza da Mata
+59961,3446.19,2025-03-20 07:47:08,Eletrônicos,cartao_debito,Siqueira Paulista
+47800,4531.73,2025-03-22 07:23:31,Supermercado,boleto,Aragão de Jesus
+36758,1482.27,2025-03-15 18:34:58,Compra Online,cartao_debito,Fonseca
+25262,4941.91,2025-03-19 00:52:06,Viagem,pix,Cassiano
+74454,2440.41,2025-03-19 09:27:49,Restaurante,cartao_credito,Camargo das Flores
+87545,1258.17,2025-03-18 16:36:26,Supermercado,cartao_credito,Lopes
+54217,1172.15,2025-03-16 00:34:34,Compra Online,cartao_credito,Macedo Verde
+28176,2910.23,2025-03-20 05:32:03,Restaurante,cartao_credito,Ferreira
