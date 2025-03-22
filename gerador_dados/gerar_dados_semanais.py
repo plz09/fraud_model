@@ -14,11 +14,10 @@ def gerar_dados_semanais(num_linhas=50):
     """
     # Categorias e pesos
     categorias = ['Compra Online', 'Restaurante', 'Supermercado', 'Eletrônicos', 'Viagem']
-    categoria_pesos = [0.3, 0.2, 0.25, 0.15, 0.1]  # soma = 1.0
-
+    categoria_pesos = [0.3, 0.2, 0.25, 0.15, 0.1]  
     # Métodos e pesos
     metodos_pagamento = ['cartao_credito', 'cartao_debito', 'pix', 'boleto']
-    metodo_pesos = [0.4, 0.3, 0.2, 0.1]  # soma = 1.0
+    metodo_pesos = [0.4, 0.3, 0.2, 0.1]  
 
     dados = []
     for _ in range(num_linhas):
