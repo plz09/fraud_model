@@ -11,6 +11,10 @@ aws ec2 describe-instances --region us-east-2
 uvicorn main:app --reload 
 uvicorn main:app --reload --port 8000
 
+# Rodar o streamlit localmente
+export RUN_LOCAL=True
+streamlit run app.py
+
 
 # Criar ambiente virtual
 python -m venv venv
@@ -21,3 +25,7 @@ source venv/Scripts/activate
 # Rodar o streamlit 
 export RUN_LOCAL=True
 streamlit run app.py
+
+# Instalara requerements.txt
+pip install -r requirements.txt
+

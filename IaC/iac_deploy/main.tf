@@ -219,15 +219,4 @@ EOF
   }
 }
 
-################################
-# OUTPUTS 
-################################
-output "ec2_public_dns" {
-  description = "DNS público da EC2"
-  value       = aws_instance.ec2_fraudes.public_dns
-}
 
-output "rds_endpoint" {
-  description = "Endpoint do RDS"
-  value       = aws_db_instance.db_fraudes.endpoint
-}
