@@ -185,41 +185,36 @@ resource "aws_instance" "ec2_fraudes" {
   DB_USER="pellizzi"
   DB_PASS="Pellizzi123!"
 
-  # Sincroniza o código do S3
+  # Sincroniza código do S3
   mkdir -p /model_app
   aws s3 sync s3://pellizzi-914156456046-bucket/model_app /model_app
-
-  # Exporta /model_app para PYTHONPATH para que os módulos sejam encontrados
-  echo "export PYTHONPATH=/model_app" >> /home/ec2-user/.bashrc
-  export PYTHONPATH=/model_app
-
-  # Instala dependências principais com versões específicas
-  pip3 install --user fastapi uvicorn[standard] streamlit pandas numpy==1.21.6 scikit-learn==1.0.2 \
-                      psycopg2-binary joblib "urllib3==1.26.16" "requests==2.28.2"
 
   # Exporta variáveis de ambiente
   echo "export DB_ENDPOINT=$DB_ENDPOINT" >> /home/ec2-user/.bashrc
   echo "export DB_NAME=$DB_NAME"         >> /home/ec2-user/.bashrc
   echo "export DB_USER=$DB_USER"         >> /home/ec2-user/.bashrc
   echo "export DB_PASS=$DB_PASS"         >> /home/ec2-user/.bashrc
+  echo "export PYTHONPATH=/model_app"    >> /home/ec2-user/.bashrc
+  echo "export PATH=\$HOME/.local/bin:\$PATH" >> /home/ec2-user/.bashrc
+
   export DB_ENDPOINT=$DB_ENDPOINT
   export DB_NAME=$DB_NAME
   export DB_USER=$DB_USER
   export DB_PASS=$DB_PASS
+  export PYTHONPATH=/model_app
+  export PATH=/home/ec2-user/.local/bin:$PATH
 
-  # Adiciona ~/.local/bin ao PATH
-  echo "export PATH=\$HOME/.local/bin:\$PATH" >> /home/ec2-user/.bashrc
-  export PATH=$HOME/.local/bin:$PATH
+  # Instala pacotes como ec2-user
+  runuser -l ec2-user -c 'pip3 install --user fastapi uvicorn[standard] streamlit pandas numpy==1.21.6 scikit-learn==1.0.2 psycopg2-binary joblib "urllib3==1.26.16" "requests==2.28.2"'
 
-  # Inicia a API FastAPI
+  # Inicia FastAPI
   cd /model_app/fastapi_api
-  nohup /home/ec2-user/.local/bin/uvicorn main:app --host 0.0.0.0 --port 80 &
+  runuser -l ec2-user -c 'nohup ~/.local/bin/uvicorn main:app --host 0.0.0.0 --port 80 &'
 
-  # Inicia o Streamlit
-  nohup /home/ec2-user/.local/bin/streamlit run /model_app/frontend_streamlit/app.py \
-        --server.port=8501 --server.address=0.0.0.0 &
-
+  # Inicia Streamlit
+  runuser -l ec2-user -c 'nohup ~/.local/bin/streamlit run /model_app/frontend_streamlit/app.py --server.port=8501 --server.address=0.0.0.0 &'
 EOF
+
 
 
   tags = {

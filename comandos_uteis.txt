@@ -7,6 +7,10 @@ aws --version
 # Listar instances criadas na região us-east-2
 aws ec2 describe-instances --region us-east-2
 
+# Verificar logs no terminal da ec2
+sudo cat /var/log/cloud-init-output.log
+
+
 # Testar API localmente (dentro da pasta fastapi_api)
 uvicorn main:app --reload 
 uvicorn main:app --reload --port 8000
