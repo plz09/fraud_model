@@ -190,27 +190,37 @@ resource "aws_instance" "ec2_fraudes" {
   aws s3 sync s3://pellizzi-914156456046-bucket/model_app /model_app
 
   # Exporta /model_app para PYTHONPATH para que os módulos sejam encontrados
-  echo "export PYTHONPATH=/model_app" | sudo tee -a /etc/profile
+  echo "export PYTHONPATH=/model_app" >> /home/ec2-user/.bashrc
   export PYTHONPATH=/model_app
 
-  # Instala dependências principais fixando versões para evitar erro de OpenSSL
-  # (Forçamos urllib3==1.26.16 e requests==2.28.2, que funcionam com OpenSSL 1.0.2)
-  pip3 install fastapi uvicorn[standard] streamlit pandas numpy scikit-learn psycopg2-binary \
-               "urllib3==1.26.16" "requests==2.28.2"
+  # Instala dependências principais com versões específicas
+  pip3 install --user fastapi uvicorn[standard] streamlit pandas numpy==1.21.6 scikit-learn==1.0.2 \
+                      psycopg2-binary joblib "urllib3==1.26.16" "requests==2.28.2"
 
-  # Exporta variáveis de ambiente para a aplicação
-  echo "export DB_ENDPOINT=$DB_ENDPOINT" | sudo tee -a /etc/profile
-  echo "export DB_NAME=$DB_NAME"         | sudo tee -a /etc/profile
-  echo "export DB_USER=$DB_USER"         | sudo tee -a /etc/profile
-  echo "export DB_PASS=$DB_PASS"         | sudo tee -a /etc/profile
+  # Exporta variáveis de ambiente
+  echo "export DB_ENDPOINT=$DB_ENDPOINT" >> /home/ec2-user/.bashrc
+  echo "export DB_NAME=$DB_NAME"         >> /home/ec2-user/.bashrc
+  echo "export DB_USER=$DB_USER"         >> /home/ec2-user/.bashrc
+  echo "export DB_PASS=$DB_PASS"         >> /home/ec2-user/.bashrc
+  export DB_ENDPOINT=$DB_ENDPOINT
+  export DB_NAME=$DB_NAME
+  export DB_USER=$DB_USER
+  export DB_PASS=$DB_PASS
+
+  # Adiciona ~/.local/bin ao PATH
+  echo "export PATH=\$HOME/.local/bin:\$PATH" >> /home/ec2-user/.bashrc
+  export PATH=$HOME/.local/bin:$PATH
 
   # Inicia a API FastAPI
   cd /model_app/fastapi_api
-  nohup uvicorn main:app --host 0.0.0.0 --port 80 &
+  nohup /home/ec2-user/.local/bin/uvicorn main:app --host 0.0.0.0 --port 80 &
 
-  # Inicia o Streamlit na porta 8501
-  nohup streamlit run /model_app/frontend_streamlit/app.py --server.port=8501 --server.address=0.0.0.0 &
+  # Inicia o Streamlit
+  nohup /home/ec2-user/.local/bin/streamlit run /model_app/frontend_streamlit/app.py \
+        --server.port=8501 --server.address=0.0.0.0 &
+
 EOF
+
 
   tags = {
     Name        = "EC2-Fraudes-ML"
