@@ -204,8 +204,8 @@ resource "aws_instance" "ec2_fraudes" {
   export PYTHONPATH=/model_app
   export PATH=/home/ec2-user/.local/bin:$PATH
 
-  # Instala pacotes como ec2-user
-  runuser -l ec2-user -c 'pip3 install --user fastapi uvicorn[standard] streamlit pandas numpy==1.21.6 scikit-learn==1.0.2 psycopg2-binary joblib "urllib3==1.26.16" "requests==2.28.2"'
+  # Instala pacotes como ec2-user (incluindo sqlalchemy e python-multipart)
+  runuser -l ec2-user -c 'pip3 install --user fastapi uvicorn[standard] streamlit pandas numpy==1.21.6 scikit-learn==1.0.2 psycopg2-binary joblib sqlalchemy python-multipart "urllib3==1.26.16" "requests==2.28.2"'
 
   # Inicia FastAPI
   cd /model_app/fastapi_api

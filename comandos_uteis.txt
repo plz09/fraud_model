@@ -33,3 +33,11 @@ streamlit run app.py
 # Instalara requerements.txt
 pip install -r requirements.txt
 
+# Reiniciar a instacia antes do terraform apply
+terraform taint aws_instance.ec2_fraudes
+terraform apply
+
+# Recriar a instacia 
+terraform apply -replace="aws_instance.ec2_fraudes"
+
+
