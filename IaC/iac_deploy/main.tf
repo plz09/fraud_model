@@ -175,35 +175,42 @@ resource "aws_instance" "ec2_fraudes" {
 
   # Interpolar endpoint do RDS
   user_data = <<-EOF
-    #!/bin/bash
-    sudo yum update -y
-    sudo yum install -y python3 python3-pip awscli
+  #!/bin/bash
+  sudo yum update -y
+  sudo yum install -y python3 python3-pip awscli
 
-    # Variáveis do RDS
-    DB_ENDPOINT="${aws_db_instance.db_fraudes.endpoint}"
-    DB_NAME="db_fraudes"
-    DB_USER="pellizzi"
-    DB_PASS="Pellizzi123!"
+  # Variáveis do RDS
+  DB_ENDPOINT="${aws_db_instance.db_fraudes.endpoint}"
+  DB_NAME="db_fraudes"
+  DB_USER="pellizzi"
+  DB_PASS="Pellizzi123!"
 
-    # Sincroniza código do S3
-    mkdir /model_app
-    aws s3 sync s3://pellizzi-914156456046-bucket/model_app /model_app
+  # Sincroniza o código do S3
+  mkdir -p /model_app
+  aws s3 sync s3://pellizzi-914156456046-bucket/model_app /model_app
 
-    # Instala dependências
-    pip3 install fastapi uvicorn[standard] streamlit pandas numpy scikit-learn psycopg2-binary requests
+  # Exporta /model_app para PYTHONPATH para que os módulos sejam encontrados
+  echo "export PYTHONPATH=/model_app" | sudo tee -a /etc/profile
+  export PYTHONPATH=/model_app
 
-    # Exporta envs para app Python
-    echo "export DB_ENDPOINT=$DB_ENDPOINT" >> /etc/profile
-    echo "export DB_NAME=$DB_NAME" >> /etc/profile
-    echo "export DB_USER=$DB_USER" >> /etc/profile
-    echo "export DB_PASS=$DB_PASS" >> /etc/profile
+  # Instala dependências principais fixando versões para evitar erro de OpenSSL
+  # (Forçamos urllib3==1.26.16 e requests==2.28.2, que funcionam com OpenSSL 1.0.2)
+  pip3 install fastapi uvicorn[standard] streamlit pandas numpy scikit-learn psycopg2-binary \
+               "urllib3==1.26.16" "requests==2.28.2"
 
-    # Inicia FastAPI na porta 80
-    nohup uvicorn /model_app/fastapi_api/main:app --host 0.0.0.0 --port 80 &
+  # Exporta variáveis de ambiente para a aplicação
+  echo "export DB_ENDPOINT=$DB_ENDPOINT" | sudo tee -a /etc/profile
+  echo "export DB_NAME=$DB_NAME"         | sudo tee -a /etc/profile
+  echo "export DB_USER=$DB_USER"         | sudo tee -a /etc/profile
+  echo "export DB_PASS=$DB_PASS"         | sudo tee -a /etc/profile
 
-    # Inicia Streamlit na porta 8501
-    nohup streamlit run /model_app/frontend_streamlit/app.py --server.port=8501 --server.address=0.0.0.0 &
-  EOF
+  # Inicia a API FastAPI
+  cd /model_app/fastapi_api
+  nohup uvicorn main:app --host 0.0.0.0 --port 80 &
+
+  # Inicia o Streamlit na porta 8501
+  nohup streamlit run /model_app/frontend_streamlit/app.py --server.port=8501 --server.address=0.0.0.0 &
+EOF
 
   tags = {
     Name        = "EC2-Fraudes-ML"

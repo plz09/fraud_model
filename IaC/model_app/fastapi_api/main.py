@@ -1,6 +1,6 @@
 from fastapi import FastAPI, UploadFile, File, Depends
 import pandas as pd
-import pickle
+import joblib
 from sqlalchemy.orm import Session
 from schemas import ResultadoPrevisao, PrevisaoFraude
 from database import Base, SessionLocal, engine
@@ -10,7 +10,7 @@ app = FastAPI()
 
 # Carrega modelo
 with open("../modelo_treinado.pkl", "rb") as f:
-    modelo = pickle.load(f)
+    modelo = joblib.load("../modelo_treinado.pkl")
 
 # Cria tabela automaticamente
 PrevisaoFraude.metadata.create_all(bind=engine)

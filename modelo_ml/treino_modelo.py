@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.model_selection import train_test_split
-import pickle
+import joblib
 
 def carregar_dados(caminho_csv):
     df = pd.read_csv(caminho_csv, parse_dates=['hora_transacao'])
@@ -31,10 +31,11 @@ def treinar_e_salvar_modelo(csv_path):
 
     # Salva o modelo treinado
     with open('modelo_treinado.pkl', 'wb') as f:
-        pickle.dump(modelo_treinado, f)
+        joblib.dump(modelo_treinado, 'modelo_treinado.pkl')
+
 
     print("✅ Modelo treinado e salvo com sucesso em modelo_treinado.pkl")
 
 if __name__ == "__main__":
-    caminho_csv = "../gerador_dados/dados/dados_treino.csv"
+    caminho_csv = "../Iac/modelo_app/dados_treino.csv"
     treinar_e_salvar_modelo(caminho_csv)
