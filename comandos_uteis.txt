@@ -4,6 +4,9 @@ Comandos utils:
 terraform version
 aws --version
 
+# Verificar se ha recursos gerenciados pelo terraform
+terraform state list
+
 # Listar instances criadas na região us-east-2
 aws ec2 describe-instances --region us-east-2
 
@@ -22,6 +25,10 @@ streamlit run app.py
 
 # Criar ambiente virtual
 python -m venv venv
+
+# Criar ambiente virtual com versao 3.10
+/c/Users/pellizzi/.pyenv/pyenv-win/versions/3.10.11/python.exe -m venv venv
+
 
 # Ativar ambiente virtual 
 source venv/Scripts/activate

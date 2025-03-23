@@ -167,7 +167,7 @@ resource "aws_iam_instance_profile" "ec2_s3_profile" {
 # EC2 PARA FASTAPI + STREAMLIT
 ################################
 resource "aws_instance" "ec2_fraudes" {
-  ami                         = "ami-0a0d9cf81c479446a" # Amazon Linux 2
+  ami                         = "ami-0f9de6e2d2f067fca" 
   instance_type               = "t2.micro"
   iam_instance_profile        = aws_iam_instance_profile.ec2_s3_profile.name
   vpc_security_group_ids      = [aws_security_group.ec2_sg.id]
@@ -176,8 +176,12 @@ resource "aws_instance" "ec2_fraudes" {
   # Interpolar endpoint do RDS
   user_data = <<-EOF
   #!/bin/bash
-  sudo yum update -y
-  sudo yum install -y python3 python3-pip awscli
+  export DEBIAN_FRONTEND=noninteractive
+
+  # Atualiza pacotes e instala dependências
+  apt-get update -y
+  apt-get upgrade -y
+  apt-get install -y python3-pip awscli
 
   # Variáveis do RDS
   DB_ENDPOINT="${aws_db_instance.db_fraudes.endpoint}"
@@ -189,30 +193,29 @@ resource "aws_instance" "ec2_fraudes" {
   mkdir -p /model_app
   aws s3 sync s3://pellizzi-914156456046-bucket/model_app /model_app
 
-  # Exporta variáveis de ambiente
-  echo "export DB_ENDPOINT=$DB_ENDPOINT" >> /home/ec2-user/.bashrc
-  echo "export DB_NAME=$DB_NAME"         >> /home/ec2-user/.bashrc
-  echo "export DB_USER=$DB_USER"         >> /home/ec2-user/.bashrc
-  echo "export DB_PASS=$DB_PASS"         >> /home/ec2-user/.bashrc
-  echo "export PYTHONPATH=/model_app"    >> /home/ec2-user/.bashrc
-  echo "export PATH=\$HOME/.local/bin:\$PATH" >> /home/ec2-user/.bashrc
+  # Exporta variáveis de ambiente no .bashrc do usuário ubuntu
+  echo "export DB_ENDPOINT=$DB_ENDPOINT" >> /home/ubuntu/.bashrc
+  echo "export DB_NAME=$DB_NAME"         >> /home/ubuntu/.bashrc
+  echo "export DB_USER=$DB_USER"         >> /home/ubuntu/.bashrc
+  echo "export DB_PASS=$DB_PASS"         >> /home/ubuntu/.bashrc
+  echo "export PYTHONPATH=/model_app"    >> /home/ubuntu/.bashrc
+  echo "export PATH=\$HOME/.local/bin:\$PATH" >> /home/ubuntu/.bashrc
 
   export DB_ENDPOINT=$DB_ENDPOINT
   export DB_NAME=$DB_NAME
   export DB_USER=$DB_USER
   export DB_PASS=$DB_PASS
   export PYTHONPATH=/model_app
-  export PATH=/home/ec2-user/.local/bin:$PATH
+  export PATH=/home/ubuntu/.local/bin:$PATH
 
-  # Instala pacotes como ec2-user (incluindo sqlalchemy e python-multipart)
-  runuser -l ec2-user -c 'pip3 install --user fastapi uvicorn[standard] streamlit pandas numpy==1.21.6 scikit-learn==1.0.2 psycopg2-binary joblib sqlalchemy python-multipart "urllib3==1.26.16" "requests==2.28.2"'
+  # Instala pacotes como o usuário ubuntu
+  runuser -l ubuntu -c 'pip3 install --user fastapi==0.103.2 uvicorn[standard]==0.22.0 streamlit==1.23.1 pandas==1.5.3 numpy==1.24.4 scikit-learn==1.3.2 psycopg2-binary==2.9.9 joblib==1.3.2 sqlalchemy==1.4.49 python-multipart==0.0.6 "urllib3==1.26.16" "requests==2.28.2"'
 
   # Inicia FastAPI
-  cd /model_app/fastapi_api
-  runuser -l ec2-user -c 'nohup ~/.local/bin/uvicorn main:app --host 0.0.0.0 --port 80 &'
+  runuser -l ubuntu -c 'cd /model_app/fastapi_api && nohup ~/.local/bin/uvicorn main:app --host 0.0.0.0 --port 80 &'
 
   # Inicia Streamlit
-  runuser -l ec2-user -c 'nohup ~/.local/bin/streamlit run /model_app/frontend_streamlit/app.py --server.port=8501 --server.address=0.0.0.0 &'
+  runuser -l ubuntu -c 'nohup ~/.local/bin/streamlit run /model_app/frontend_streamlit/app.py --server.port=8501 --server.address=0.0.0.0 &'
 EOF
 
 
