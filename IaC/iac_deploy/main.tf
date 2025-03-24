@@ -40,6 +40,7 @@ resource "aws_db_instance" "db_fraudes" {
   password               = "Pellizzi123!"
   publicly_accessible    = true
   skip_final_snapshot    = true
+  db_name                = "db_fraudes"
 
   vpc_security_group_ids = [aws_security_group.db_sg.id]
 
@@ -167,8 +168,9 @@ resource "aws_iam_instance_profile" "ec2_s3_profile" {
 # EC2 PARA FASTAPI + STREAMLIT
 ################################
 resource "aws_instance" "ec2_fraudes" {
-  ami                         = "ami-0f9de6e2d2f067fca" 
+  ami                         = "ami-05fb0b8c1424f266b" 
   instance_type               = "t2.micro"
+  key_name                    = "plz-lab3"
   iam_instance_profile        = aws_iam_instance_profile.ec2_s3_profile.name
   vpc_security_group_ids      = [aws_security_group.ec2_sg.id]
   associate_public_ip_address = true
@@ -212,8 +214,8 @@ resource "aws_instance" "ec2_fraudes" {
   runuser -l ubuntu -c 'pip3 install --user fastapi==0.103.2 uvicorn[standard]==0.22.0 streamlit==1.23.1 pandas==1.5.3 numpy==1.24.4 scikit-learn==1.3.2 psycopg2-binary==2.9.9 joblib==1.3.2 sqlalchemy==1.4.49 python-multipart==0.0.6 "urllib3==1.26.16" "requests==2.28.2"'
 
   # Inicia FastAPI
-  runuser -l ubuntu -c 'cd /model_app/fastapi_api && nohup ~/.local/bin/uvicorn main:app --host 0.0.0.0 --port 80 &'
-
+  runuser -l ubuntu -c 'env DB_ENDPOINT="${split(":", aws_db_instance.db_fraudes.endpoint)[0]}" DB_NAME="db_fraudes" DB_USER="pellizzi" DB_PASS="Pellizzi123!" nohup ~/.local/bin/uvicorn /model_app/fastapi_api/main:app --host 0.0.0.0 --port 8000 > ~/fastapi.log 2>&1 &'
+  
   # Inicia Streamlit
   runuser -l ubuntu -c 'nohup ~/.local/bin/streamlit run /model_app/frontend_streamlit/app.py --server.port=8501 --server.address=0.0.0.0 &'
 EOF

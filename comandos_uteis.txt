@@ -13,6 +13,19 @@ aws ec2 describe-instances --region us-east-2
 # Verificar logs no terminal da ec2
 sudo cat /var/log/cloud-init-output.log
 
+# acessar terminal
+chmod 400 plz-lab3.pem
+ssh -i plz-lab3.pem ubuntu@3.145.202.216
+
+
+# pegar mensagem de erro
+sudo grep -i error /var/log/cloud-init-output.log
+
+
+# ultimas linhas com erro
+sudo tail -n 50 /var/log/cloud-init-output.log
+
+
 
 # Testar API localmente (dentro da pasta fastapi_api)
 uvicorn main:app --reload 

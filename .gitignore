@@ -1,3 +1,4 @@
 IaC/iac_deploy/.terraform/
 venv
 __pycache__
+*.pem

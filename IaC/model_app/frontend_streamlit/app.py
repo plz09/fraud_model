@@ -7,20 +7,13 @@ from sqlalchemy import create_engine
 ###################################################
 # Decide se local ou AWS
 ###################################################
-RUN_LOCAL = os.environ.get("RUN_LOCAL", "False").lower() == "true"
+API_URL = "http://127.0.0.1:8000/prever"
 
-if RUN_LOCAL:
-    API_URL = "http://127.0.0.1:8000/prever"
-    DB_ENDPOINT = "localhost"
-    DB_NAME = "db_fraudes"
-    DB_USER = "pellizzi"
-    DB_PASS = "Pellizzi123!"
-else:
-    API_URL     = "http://127.0.0.1:80/prever"  
-    DB_ENDPOINT = os.environ.get("DB_ENDPOINT", "localhost")
-    DB_NAME     = os.environ.get("DB_NAME", "db_fraudes")
-    DB_USER     = os.environ.get("DB_USER", "pellizzi")
-    DB_PASS     = os.environ.get("DB_PASS", "Pellizzi123!")
+
+DB_ENDPOINT = os.environ.get("DB_ENDPOINT", "localhost")
+DB_NAME     = os.environ.get("DB_NAME", "db_fraudes")
+DB_USER     = os.environ.get("DB_USER", "pellizzi")
+DB_PASS     = os.environ.get("DB_PASS", "Pellizzi123!")
 
 DB_URL = f"postgresql://{DB_USER}:{DB_PASS}@{DB_ENDPOINT}:5432/{DB_NAME}"
 engine = create_engine(DB_URL)
