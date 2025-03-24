@@ -12,10 +12,13 @@ aws ec2 describe-instances --region us-east-2
 
 # Verificar logs no terminal da ec2
 sudo cat /var/log/cloud-init-output.log
+ou
+sudo tail -f /var/log/cloud-init-output.log
+
 
 # acessar terminal
 chmod 400 plz-lab3.pem
-ssh -i plz-lab3.pem ubuntu@3.145.202.216
+ssh -i plz-lab3.pem ubuntu@3.15.219.28
 
 
 # pegar mensagem de erro
