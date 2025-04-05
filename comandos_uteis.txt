@@ -50,8 +50,13 @@ python -m venv venv
 source venv/Scripts/activate
 
 # Rodar o streamlit 
+# navegar a pasta onde contem o arquivo app.py
 export RUN_LOCAL=True
 streamlit run app.py
+
+# Rodar a API
+# navegar a pasta onde contem o arquivo main.py
+uvicorn main:app --reload
 
 # Instalara requerements.txt
 pip install -r requirements.txt

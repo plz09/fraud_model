@@ -170,7 +170,7 @@ resource "aws_iam_instance_profile" "ec2_s3_profile" {
 resource "aws_instance" "ec2_fraudes" {
   ami                         = "ami-05fb0b8c1424f266b" 
   instance_type               = "t2.micro"
-  key_name                    = "plz-lab3"
+  key_name                    = "puc_fraud_key"
   iam_instance_profile        = aws_iam_instance_profile.ec2_s3_profile.name
   vpc_security_group_ids      = [aws_security_group.ec2_sg.id]
   associate_public_ip_address = true

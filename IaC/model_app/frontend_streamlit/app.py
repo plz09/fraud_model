@@ -4,9 +4,7 @@ import requests
 import pandas as pd
 from sqlalchemy import create_engine
 
-###################################################
-# Decide se local ou AWS
-###################################################
+
 API_URL = "http://127.0.0.1:8000/prever"
 
 
