@@ -5,7 +5,4 @@ docker build -t pellizzi-terraform-image:fraud_model .
 
 
 # Criar o container Docker
-docker run -dit --name pellizzi-fraud_model -v C:\Users\pellizzi\Documents\projetos_iac\fraud_model\IaC:/iac pellizzi-terraform-image:fraud_model /bin/bash
-
-# Container Docker local para teste
 docker run --name postgres-fraudes -e POSTGRES_USER=pellizzi -e POSTGRES_PASSWORD=Pellizzi123! -e POSTGRES_DB=db_fraudes -p 5432:5432 -d postgres

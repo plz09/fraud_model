@@ -1,0 +1,51 @@
+id_transacao,valor,hora_transacao,categoria,metodo_pagamento,localizacao,previsao_fraude
+85770,396.44,2025-03-15 15:40:22,Supermercado,pix,Garcia das Pedras,0
+85982,3794.81,2025-03-18 19:30:02,Restaurante,cartao_credito,Fernandes,0
+75889,2158.56,2025-03-22 10:36:37,Compra Online,cartao_credito,Sousa,0
+59062,2601.71,2025-03-20 07:59:16,Compra Online,cartao_credito,Borges,0
+82236,911.68,2025-03-16 15:47:42,Compra Online,cartao_debito,Caldeira,0
+46359,4225.8,2025-03-20 10:58:02,Supermercado,cartao_debito,Araújo,0
+92813,2755.65,2025-03-21 11:30:26,Eletrônicos,cartao_credito,Cavalcanti,0
+54256,4950.46,2025-03-20 17:25:21,Compra Online,pix,Silveira de Minas,1
+59112,2835.74,2025-03-18 15:02:47,Supermercado,cartao_credito,Novaes,0
+33401,3773.68,2025-03-16 08:31:01,Supermercado,cartao_debito,Nunes,0
+16046,2834.73,2025-03-19 07:57:37,Compra Online,boleto,Melo da Prata,0
+43866,4352.07,2025-03-18 05:41:20,Supermercado,cartao_debito,Santos das Flores,0
+46615,1669.32,2025-03-16 07:34:29,Supermercado,cartao_debito,Guerra de Minas,0
+15712,4738.26,2025-03-18 00:34:57,Compra Online,pix,Cavalcante,1
+45874,1228.86,2025-03-19 16:33:31,Compra Online,cartao_credito,Araújo,0
+47610,203.62,2025-03-22 07:20:38,Restaurante,cartao_debito,Mendes das Pedras,0
+84007,3778.55,2025-03-16 23:55:46,Eletrônicos,cartao_credito,Ribeiro do Oeste,0
+85335,44.84,2025-03-15 20:53:31,Supermercado,cartao_debito,Fonseca,0
+95734,225.12,2025-03-18 03:42:57,Supermercado,cartao_debito,Moreira,0
+60645,2334.77,2025-03-16 16:53:35,Restaurante,cartao_debito,Nascimento de Alves,0
+17865,2588.44,2025-03-18 10:29:34,Supermercado,cartao_debito,Silveira da Mata,0
+58718,4526.08,2025-03-20 17:04:30,Viagem,cartao_debito,Castro do Sul,0
+85527,1737.08,2025-03-20 01:53:03,Compra Online,cartao_debito,da Mata,0
+25745,3736.15,2025-03-21 02:30:33,Eletrônicos,cartao_debito,Mendes,0
+94516,4763.03,2025-03-18 06:02:01,Supermercado,cartao_credito,Siqueira do Amparo,0
+64740,684.42,2025-03-18 08:39:45,Compra Online,cartao_credito,Marques da Mata,0
+54579,2848.62,2025-03-16 20:57:59,Supermercado,cartao_credito,Porto,0
+92710,3143.33,2025-03-15 19:01:42,Supermercado,pix,Rezende de Nogueira,0
+28879,4104.82,2025-03-17 00:24:45,Eletrônicos,cartao_debito,Cassiano,0
+80151,2299.23,2025-03-16 00:35:19,Restaurante,cartao_credito,Cardoso de Pires,1
+77649,1554.37,2025-03-22 05:22:20,Restaurante,cartao_credito,Marques,1
+10954,339.97,2025-03-17 04:59:46,Compra Online,cartao_debito,Sá,0
+42737,2355.93,2025-03-19 11:09:35,Restaurante,cartao_credito,Moraes do Galho,1
+58508,4742.5,2025-03-16 15:23:04,Restaurante,cartao_credito,da Mota das Flores,0
+43465,4312.44,2025-03-21 14:11:16,Supermercado,cartao_debito,Garcia,0
+42032,1111.59,2025-03-21 19:41:52,Eletrônicos,boleto,Rodrigues,0
+61229,1915.96,2025-03-22 04:50:16,Restaurante,boleto,Cavalcante,0
+69007,2780.31,2025-03-17 04:43:51,Restaurante,cartao_debito,Albuquerque,0
+17031,2199.17,2025-03-16 00:16:06,Supermercado,boleto,Pimenta,0
+91531,4711.05,2025-03-18 01:11:43,Eletrônicos,boleto,Moraes de da Rocha,0
+62928,2885.12,2025-03-20 12:33:29,Supermercado,cartao_credito,Monteiro de Siqueira,0
+37267,1589.29,2025-03-19 17:46:57,Viagem,cartao_debito,Dias,0
+34445,4116.97,2025-03-16 20:24:52,Compra Online,cartao_debito,Costa,0
+76857,3164.1,2025-03-19 04:02:14,Restaurante,cartao_credito,Moreira da Serra,0
+48916,645.32,2025-03-20 06:53:42,Supermercado,cartao_debito,Cavalcante,0
+24518,4825.04,2025-03-17 15:14:53,Viagem,pix,Duarte da Serra,1
+23734,4638.82,2025-03-17 14:52:25,Viagem,pix,Mendonça,1
+84385,186.7,2025-03-17 21:19:23,Restaurante,cartao_credito,Pinto do Sul,0
+15728,2982.35,2025-03-16 06:38:34,Supermercado,cartao_credito,Jesus de Gomes,0
+13819,3731.84,2025-03-21 20:07:01,Supermercado,cartao_credito,Nogueira do Campo,0

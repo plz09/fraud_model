@@ -31,7 +31,7 @@ def treinar_e_salvar_modelo(csv_path):
 
     # Salva o modelo treinado
     with open('modelo_treinado.pkl', 'wb') as f:
-        joblib.dump(modelo_treinado, '../Iac/model_app/modelo_treinado.pkl')
+        joblib.dump(modelo_treinado, '../modelo_ml/modelo_treinado.pkl')
 
 
     print("✅ Modelo treinado e salvo com sucesso em modelo_treinado.pkl")

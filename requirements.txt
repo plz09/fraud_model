@@ -1,0 +1,13 @@
+# FastAPI
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Data processing & ML
+pandas
+scikit-learn
+joblib
+
+# Frontend
+streamlit
+requests
